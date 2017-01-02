@@ -7,12 +7,6 @@ weight: 1
 <ol>
 {% for p in site.data.publications %}
   <li><a href="{{ p.link }}">
-    {{ p.authors }},&nbsp{{ p.title }},&nbsp<i>{{ p.journal }}</i>&nbsp{{ p.volume }}
-    {% if p.issue %}&nbsp({{ p.issue }}){% endif %},&nbsp
-    {% if p.pages %}{{ p.pages }}{% endif %}&nbsp
-    ({{ p.year }}).</a></li>
+    {{ p.authors }},&nbsp{{ p.title }},&nbsp<i>{{ p.journal }}</i>&nbsp{{ p.volume }}{% if p.issue %}&nbsp({{ p.issue }}){% endif %},&nbsp{% if p.pages %}{{ p.pages }}{% endif %}&nbsp({{ p.year }}).</a></li>
 {% endfor %}
 </ol>
-
-
-F. Zhang, C. Zhang, S.L. Chen, J. Zhu, W.S. Cao, U.R. Kattner,  An understanding of high entropy alloys from phase diagram calculations,  CALPHAD  45 ,  1-10  (2014).
