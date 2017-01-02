@@ -4,6 +4,9 @@ title: Pandat
 weight: 1
 ---
 
-[Pandat][pandatlink].
+Download a demo version of [Pandat][pandat_download].
 
-[pandatlink]: http://google.com/
+Download a demo version of [PanEngine][panengine_download].
+
+[pandat_download]: http://google.com/
+[panengine_download]: http://google.com/
