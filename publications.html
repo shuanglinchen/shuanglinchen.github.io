@@ -6,6 +6,6 @@ weight: 1
 
 <ol>
 {% for publication in site.data.publications %}
-  <li><a href="{{ publication.link }}">{{ publication.authors }}, {{ publication.title }}, {{ publication.journal }}, {{ publication.volume }}</a></li>
+  <li><a href="{{ publication.link }}">{{ publication.authors }}, {{ publication.title }}, {{ publication.journal }}, {{ publication.volume }}, {% if publication.issue %}({{ publication.issue }}), {% endif %}({{ publication.issue }}), {% if publication.pages %}{{ publication.pages }}, {% endif %}.</a></li>
 {% endfor %}
 </ol>
