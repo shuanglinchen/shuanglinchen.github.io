@@ -1,0 +1,11 @@
+---
+layout: page
+title: Publications
+weight: 1
+---
+
+<ol>
+{% for publication in site.data.publications %}
+  <li><a href="{{ publication.link }}">{{ publication.authors }}</a></li>
+{% endfor %}
+</ol>
