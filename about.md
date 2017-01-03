@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Me
+title: About
 weight: 1
 ---
 
@@ -23,4 +23,8 @@ Shanghai University, China
 
 ## Memberships
 
-ASM, TMS
+[ASM][http://www.asminternational.org/home], [TMS][tms link]
+
+
+[tms link]: http://www.tms.org/TMSHome.aspx
+
