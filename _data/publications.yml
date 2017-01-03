@@ -39,7 +39,7 @@
   pdfLink:
 
 - authors: Shuang-Lin Chen, Ying Yang, Sinn-Wen Chen, Xiong-Gang Lu, and Y. Austin Chang 
-  title:  Solidification Simulation Using Scheil Model in Multicomponent Systems
+  title: Solidification Simulation Using Scheil Model in Multicomponent Systems
   journal: J. Phase Equilib. Diffus.
   volume: 30
   issue: 
@@ -160,7 +160,7 @@
 
 - authors: X. J. Liu, S.-L. Chen, I. Ohnuma, K. Ishida, Y. A. Chang
   title: Design of micro-soldering materials in electronic packaging using computational thermodynamics
-  journal:  Mechanics and Material Engineering for Science and Experiments
+  journal: Mechanics and Material Engineering for Science and Experiments
   volume: 
   issue: 
   year: 2003
@@ -468,7 +468,7 @@
   link: 
   pdfLink:
 
-- authors:Shuang-Lin Chen, W. Oldfield, Y. A. Chang and M. K. Thomas
+- authors: Shuang-Lin Chen, W. Oldfield, Y. A. Chang and M. K. Thomas
   title: Modelling Solidification of Turbine Blades Using Theoretical Phase Relationships
   journal: Metall. Mater. Trans.
   volume: 25A
