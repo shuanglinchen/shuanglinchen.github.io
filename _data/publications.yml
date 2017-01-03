@@ -1,3 +1,4 @@
+
 - authors: Shuanglin Chen, Weisheng Cao, Chuan Zhang, Jun Zhu, Fan Zhang, Qian Li, Jieyu Zhang
   title: Calculation of property contour diagrams
   journal: CALPHAD
@@ -278,7 +279,7 @@
   link: 
   pdfLink:
 
-  - authors: X.-Y. Yan, Y. A. Chang, F.-Y. Xie, S.-L. Chen, F. Zhang, and S. Daniel
+- authors: X.-Y. Yan, Y. A. Chang, F.-Y. Xie, S.-L. Chen, F. Zhang, and S. Daniel
   title: Calculated Phase Diagrams of Aluminum Alloys from Binary Al-Cu to Multicomponent Commercial Alloy
   journal: J. Alloy Compounds
   volume: 230
@@ -288,7 +289,7 @@
   link: 
   pdfLink:
 
-  - authors: X.Y. Yan, L. Ding, S.-L. Chen, F.-Y. Xie, M. Chu and Y. A. Chang
+- authors: X.Y. Yan, L. Ding, S.-L. Chen, F.-Y. Xie, M. Chu and Y. A. Chang
   title: Predicting Microstructure and Microsegregation in Multicomponent Aluminum Alloys
   journal: in Light Metals 2001, (Editor: J. L. Anjier) TMS, Warrendale, PA
   volume: 
@@ -298,7 +299,7 @@
   link: 
   pdfLink:
 
-  - authors: J. Zhang, W. A. Oates, F. Zhang, S.-L. Chen, K.-C. Chou and Y, A. Chang
+- authors: J. Zhang, W. A. Oates, F. Zhang, S.-L. Chen, K.-C. Chou and Y, A. Chang
   title: Cluster/Site Approximation of the Ordering Phase Diagram for Cd-Mg Alloys
   journal: Intermetallics
   volume: 9
@@ -687,19 +688,6 @@
   pages: 907-911
   link: 
   pdfLink:
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
