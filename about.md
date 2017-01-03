@@ -23,7 +23,7 @@ Shanghai University, China
 
 ## Memberships
 
-[ASM][http://www.asminternational.org/home], [TMS][tms link]
+[ASM](http://www.asminternational.org/home), [TMS][tms link]
 
 
 [tms link]: http://www.tms.org/TMSHome.aspx
