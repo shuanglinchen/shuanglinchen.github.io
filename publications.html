@@ -4,7 +4,7 @@ title: Publications
 weight: 1
 ---
 
-{% assign name = 2009 %}
+{% assign name = {{ site.time | date: '%Y' }} %}
 
 <ul>
 {% for p in site.data.publications %}
