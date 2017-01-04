@@ -6,7 +6,6 @@ weight: 1
 
 <ol>
 {% for p in site.data.publications %}
-  <li><a href="{{ p.link }}">
-    {{ p.authors }},&nbsp{{ p.title }},&nbsp<i>{{ p.journal }}</i>&nbsp{{ p.volume }}{% if p.issue %}&nbsp({{ p.issue }}){% endif %},&nbsp{% if p.pages %}{{ p.pages }}&nbsp{% endif %}({{ p.year }}).</a>{% if p.pdfLink %}<br><a href="{{ p.pdfLink }}">Download PDF</a>{% endif %}</li>
+  <li>{{ p.authors }},&nbsp{{ p.title }},&nbsp<i>{{ p.journal }}</i>&nbsp{{ p.volume }}{% if p.issue %}&nbsp({{ p.issue }}){% endif %},&nbsp{% if p.pages %}{{ p.pages }}&nbsp{% endif %}({{ p.year }}).{% if p.link or p.pdfLink %}<br>{% if p.link %}<a href="{{ p.link }}">View Online</a>{% endif %}{% if p.pdfLink %}<a href="{{ p.pdfLink }}">Download PDF</a>{% endif %}{% endif %}</li>
 {% endfor %}
 </ol>
