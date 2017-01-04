@@ -9,7 +9,7 @@ weight: 1
 
 <ul>
 {% for p in site.data.publications %}
-  {% if p.year != year %}<li>{{ year }}</li>{% assign year = p.year %}{% endif %}
+  {% if p.year != year %}{% assign year = p.year %}{{ year }}{% endif %}
   <li>[{{ p.year }}{{ p.id }}]&nbsp{{ p.authors }},&nbsp{{ p.title }},&nbsp<i>{{ p.journal }}</i>&nbsp{{ p.volume }}{% if p.issue %}&nbsp({{ p.issue }}){% endif %},&nbsp{% if p.pages %}{{ p.pages }}&nbsp{% endif %}({{ p.year }}).{% if p.link or p.pdfLink %}<br>{% if p.link %}<a href="{{ p.link }}">View Online</a>{% endif %}{% if p.pdfLink %}&nbsp<a href="{{ p.pdfLink }}">Download PDF</a>{% endif %}{% endif %}</li>
 {% endfor %}
 </ul>
