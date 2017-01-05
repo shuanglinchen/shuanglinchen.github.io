@@ -496,11 +496,11 @@
   title: Thermodynamic Properties of the Al-Nb-Ni System
   journal: Intermetallics
   volume: 11
-  issue:
+  issue: 10
   year: 2003
   pages: 995-1013
-  link:
-  pdfLink:
+  link: https://doi.org/10.1016/S0966-9795(03)00123-7
+  pdfLink: /assets/papers/2003/Thermodynamic%20Properties%20of%20the%20Al-Nb-Ni%20System.pdf
 
 - type: journal
   id: Xie
@@ -511,8 +511,8 @@
   issue:
   year: 2003
   pages: 144-153
-  link:
-  pdfLink:
+  link: https://doi.org/10.1016/S0921-5093(03)00056-X
+  pdfLink: /assets/papers/2003/A%20Study%20of%20Microstructure%20and%20Microsegregation%20on%20Aluminum%207050%20Alloy.pdf
 
 - type: journal
   id: Zhang
@@ -523,8 +523,8 @@
   issue:
   year: 2003
   pages: 207-216
-  link:
-  pdfLink:
+  link: https://doi.org/10.1016/S1359-6454(02)00392-0
+  pdfLink: /assets/papers/2003/Application%20of%20the%20Cluster-Site%20Approximation%20(CSA)%20Model%20to%20the%20FCC%20Phase%20in%20the%20Ni-Al%20System.pdf
 
 - type:
   id: Chang
@@ -544,22 +544,22 @@
   title: Computational and Experimental Investigation of Microsegregation in an Al-rich Al-Cu-Mg-Si Quaternary Alloy
   journal: Acta Mater.
   volume: 50
-  issue:
+  issue: 9
   year: 2002
   pages: 2199-2207
-  link:
-  pdfLink:
+  link: https://doi.org/10.1016/S1359-6454(01)00431-1
+  pdfLink: /assets/papers/Computational%20and%20Experimental%20Investigation%20of%20Microsegregation%20in%20an%20Al-rich%20Al-Cu-Mg-Si%20Quaternary%20Alloy.pdf
 
 - type: journal
   id: Chen
   authors: S.-L. Chen, S. Daniel, F. Zhang, Y. A. Chang, X.-Y. Yan, F.-Y. Xie, R. Schmid-Fetzer and W. A. Oates
-  title: The PANDATA Software Package and Its Applications
+  title: The PANDAT Software Package and Its Applications
   journal: CALPHAD
   volume: 26
   issue: 2
   year: 2002
   pages: 175-188
-  link:
+  link: https://doi.org/10.1016/S0364-5916(02)00034-2
   pdfLink:
 
 - type: journal
@@ -571,10 +571,10 @@
   issue:
   year: 2001
   pages: 1079-1083
-  link:
+  link: https://doi.org/10.1016/s0966-9795(01)00101-7
   pdfLink:
 
-- type:
+- type: journal
   id: Chang
   authors: Y. A. Chang, X.-Y. Yan, S. Daniel, F.Y. Xie; S.-L. Chen and F. Zhang
   title: PANDAT and PanEngine-their applications in multicomponent phase diagram calculation and microstructure prediction
@@ -583,7 +583,7 @@
   issue:
   year: 2001
   pages: 85-96
-  link:
+  link: https://www.researchgate.net/publication/289382232_PANDAT_and_panengine_-_Their_applications_in_multicomponent_phase_diagram_calculation_and_microstructure_prediction
   pdfLink:
 
 - type: journal
@@ -595,7 +595,7 @@
   issue: 6
   year: 2001
   pages: 535-538
-  link:
+  link: https://doi.org/10.1016/s0966-9795(01)00036-x
   pdfLink:
 
 - type: journal
@@ -607,7 +607,7 @@
   issue: 4
   year: 2001
   pages: 373-378
-  link:
+  link: https://doi.org/10.1361/105497101770332910
   pdfLink:
 
 - type: journal
@@ -619,7 +619,7 @@
   issue:
   year: 2001
   pages: 151-160
-  link:
+  link: https://doi.org/10.1016/s0925-8388(00)01469-9
   pdfLink:
 
 - type:
@@ -637,13 +637,13 @@
 - type: journal
   id: Zhang
   authors: J. Zhang, W. A. Oates, F. Zhang, S.-L. Chen, K.-C. Chou and Y, A. Chang
-  title: Cluster/Site Approximation of the Ordering Phase Diagram for Cd-Mg Alloys
+  title: Cluster/Site Approximation Calculation of the Ordering Phase Diagram for Cd-Mg Alloys
   journal: Intermetallics
   volume: 9
   issue:
   year: 2001
   pages: 5-8
-  link:
+  link: https://doi.org/10.1016/s0966-9795(00)00072-8
   pdfLink:
 
 - type: journal
