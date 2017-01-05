@@ -55,8 +55,8 @@
   issue: 5
   year: 2015
   pages: 145s-157s
-  link:
-  pdfLink:
+  link: https://www.researchgate.net/publication/292489336_Creep_Rupture_Performance_of_Welds_of_P91_Pipe_Steel
+  pdfLink: /assets/papers/Creep%20Rupture%20Performance%20of%20Welds%20of%20P91%20Pipe%20Steel.pdf
 
 - type: journal
   id: Zhang
@@ -73,26 +73,26 @@
 - type: journal
   id: An
   authors: X.H. An, Q.F. Gu, J.Y. Zhang, S.L. Chen, X.B. Yu, Q. Li
-  title:  Experimental investigation and thermodynamic reassessment of La–Ni and LaNi5–H systems
+  title: Experimental investigation and thermodynamic reassessment of La–Ni and LaNi5–H systems
   journal: CALPHAD
   volume: 40
   issue:
   year: 2013
   pages: 48–55
-  link:
+  link: http://dx.doi.org/10.1016/j.calphad.2012.12.002
   pdfLink:
 
 - type: journal
   id: Luo
   authors: Qun Luo, Qian Li, Jie-Yu Zhang, Shuang-Lin Chen, Kuo-Chih Chou
-  title:  Experimental investigation and thermodynamic optimization of the Al-Zn-Ti system in the Al-rich corner
+  title: Experimental investigation and thermodynamic optimization of the Al-Zn-Ti system in the Al-rich corner
   journal: Intermetallics
   volume: 33
   issue:
   year: 2013
   pages: 73-80
-  link:
-  pdfLink:
+  link: http://dx.doi.org/10.1016/j.intermet.2012.09.027
+  pdfLink: /assets/papers/2013/Experimental%20investigation%20and%20thermodynamic%20optimization%20of%20the%20AleZneTi.pdf
 
 - type: journal
   id: Chen
