@@ -289,50 +289,50 @@
 - type: journal
   id: Oates
   authors: W. A. Oates, S.-L. Chen, W. Cao, F. Zhang, Y. A. Chang and L. Bencze
-  title:  Vacancy thermodynamics for Intermediate Phase Using the Compound Energy Formalism
+  title: Vacancy Thermodynamics for Intermediate Phase Using the Compound Energy Formalism
   journal: Acta Materialia
   volume: 56
   issue: 18
   year: 2008
   pages: 5255-5266
-  link:
-  pdfLink:
+  link: https://doi.org/10.1016/j.actamat.2008.07.002
+  pdfLink: /assets/papers/2008/Vacancy%20Thermodynamics%20for%20Intermediate%20Phase%20Using%20the%20Compound%20Energy%20Formalism.pdf
 
 - type: journal
   id: Zhang
   authors: F. Zhang, S.-L. Chen, Y. A. Chang, N. Ma and Y. Wang
-  title:  Development of Thermodynamic Description of a Pseudo-Ternary System for Multicomponent Ti64 Alloy
+  title: Development of Thermodynamic Description of a Pseudo-Ternary System for Multicomponent Ti64 Alloy
   journal: J. Phase Equilibria and Diffusion
   volume: 28
   issue: 1
   year: 2007
   pages: 115-120
-  link:
-  pdfLink:
+  link: https://doi.org/10.1007/s11669-006-9006-5
+  pdfLink: /assets/papers/2007/Development%20of%20Thermodynamic%20Description%20of%20a%20Pseudo-Ternary%20System%20for%20Multicomponent%20Ti64%20Alloy.pdf
 
 - type: journal
   id: Chen
   authors: Shuang-Lin Chen, Jie-Yu Zhang, Xiong-Gang Lu, Kuo-Chih Chou, W. A. Oates, R. Schmid-Fetzer and Y. Austin Chang
-  title:  Calculation of Rose Diagrams
+  title: Calculation of Rose Diagrams
   journal: Acta Materialia
   volume: 55
-  issue:
+  issue: 1
   year: 2007
   pages: 243-250
-  link:
-  pdfLink:
+  link: https://doi.org/10.1016/j.actamat.2006.07.025
+  pdfLink: /assets/papers/2007/Calculation%20of%20Rose%20Diagrams.pdf
 
 - type: journal
   id: Chen
   authors: Shuanglin-Lin Chen, Weisheng Cao, Ying Yang, Fan Zhang, Kaisheng Wu, Yong Du and Y Austin Chang
-  title:  Calculation and Application of Liquidus Projection
+  title: Calculation and Application of Liquidus Projection
   journal: Rare Metals
   volume: 25
   issue:  5
   year: 2006
   pages: 532-537
-  link:
-  pdfLink:
+  link: https://doi.org/10.1016/S1001-0521(06)60094-6
+  pdfLink: http://public.cntech.com.cn/Public/Uploads/ckfinder/userfiles/files/attach200710101719250.pdf
 
 - type: journal
   id: Chen
@@ -343,7 +343,7 @@
   issue: 2
   year: 2006
   pages: 1-5
-  link:
+  link: https://doi.org/10.1007/s11669-006-0034-y
   pdfLink:
 
 - type: journal
@@ -355,7 +355,7 @@
   issue: 2
   year: 2005
   pages: 149-154
-  link:
+  link: https://doi.org/10.1016/j.calphad.2005.05.003
   pdfLink:
 
 - type: journal
@@ -367,8 +367,8 @@
   issue: 15
   year: 2005
   pages: 4189-4197
-  link:
-  pdfLink:
+  link: https://doi.org/10.1016/j.actamat.2005.05.016
+  pdfLink: /assets/papers/2005/Application%20of%20the%20cluster%2Fsite%20approximation%20to%20fcc%20phases%20in%20Ni-Al-Cr%20system.pdf
 
 - type: journal
   id: Wang
@@ -379,31 +379,31 @@
   issue: 9
   year: 2005
   pages: 32-39
-  link:
+  link: https://doi.org/10.1007/s11837-005-0112-3
   pdfLink:
 
 - type: journal
   id: Wang
   authors: Wang, LJ, Chou, KC, Chen, SL, Chang, YA
   title: Estimating ternary surface tension for systems with limited solubility
-  journal: ZEITSCHRIFT FUR METALLKUNDE
+  journal: Zeitschrift für Metallkunde
   volume: 96
   issue: 8
   year: 2005
   pages: 948-950
-  link:
+  link: https://doi.org/10.3139/146.101124
   pdfLink:
 
 - type: journal
   id: Zhang
   authors: Zhang, F, Xie, FY, Chen, SL, Chang, YA, Furrer, D, Venkatesh, V,
   title: Predictions of titanium alloy properties using thermodynamic modeling tools
-  journal: JOURNAL OF MATERIALS ENGINEERING AND PERFORMANCE
+  journal: Journal OF Materials Engineering and Performance
   volume: 14
   issue: 6
   year: 2005
   pages: 717-721
-  link:
+  link: https://doi.org/10.1361/105994905X75501
   pdfLink:
 
 - type: journal
