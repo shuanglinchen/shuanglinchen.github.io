@@ -835,7 +835,7 @@
   issue:
   year: 1994
   pages: 235-247
-  link:
+  link: http://dx.doi.org/10.1016/0966-9795(94)90010-8
   pdfLink:
 
 - type: journal
@@ -847,7 +847,7 @@
   issue: 7
   year: 1994
   pages: 1525-1533
-  link:
+  link: http://dx.doi.org/10.1007/BF02665484
   pdfLink:
 
 - type: journal
@@ -859,7 +859,7 @@
   issue: 3
   year: 1994
   pages: 656-658
-  link:
+  link: http://dx.doi.org/10.1007/BF02651610
   pdfLink:
 
 - type: journal
@@ -871,7 +871,7 @@
   issue: 1
   year: 1993
   pages: 22-30
-  link:
+  link: http://dx.doi.org/10.1007/BF02652158
   pdfLink:
 
 - type: journal
@@ -883,7 +883,7 @@
   issue: 3
   year: 1993
   pages: 237-250
-  link:
+  link: http://dx.doi.org/10.1016/0364-5916(93)90003-T
   pdfLink:
 
 - type: journal
@@ -895,7 +895,7 @@
   issue: 3
   year: 1993
   pages: 287-302
-  link:
+  link: http://dx.doi.org/10.1016/0364-5916(93)90007-X
   pdfLink:
 
 - type: journal
@@ -907,7 +907,7 @@
   issue: 2
   year: 1993
   pages: 113-124
-  link:
+  link: http://dx.doi.org/10.1016/0364-5916(93)90011-Y
   pdfLink:
 
 - type: journal
@@ -919,7 +919,7 @@
   issue: 1
   year: 1993
   pages: 47-56
-  link:
+  link: http://dx.doi.org/10.1016/0364-5916(93)90033-8
   pdfLink:
 
 - type: journal
@@ -931,7 +931,7 @@
   issue: 3
   year: 1992
   pages: 269-276
-  link:
+  link: http://dx.doi.org/10.1016/0364-5916(92)90024-R
   pdfLink:
 
 - type:
@@ -955,7 +955,7 @@
   issue: 7
   year: 1991
   pages: 1532-1541
-  link:
+  link: https://doi.org/10.1557/JMR.1991.1532
   pdfLink:
 
 - type: book
@@ -967,7 +967,7 @@
   issue:
   year: 1991
   pages: 131-140
-  link:
+  link: https://doi.org/10.1557/PROC-186-131
   pdfLink:
 
 - type: journal
@@ -991,7 +991,7 @@
   issue: 1
   year: 1990
   pages: 41-48
-  link:
+  link: http://dx.doi.org/10.1016/0364-5916(90)90038-2
   pdfLink:
 
 - type: journal
@@ -1015,7 +1015,7 @@
   issue: 3
   year: 1989
   pages: 225-230
-  link:
+  link: http://dx.doi.org/10.1016/0364-5916(89)90002-3
   pdfLink:
 
 - type: journal
@@ -1027,7 +1027,7 @@
   issue: 1
   year: 1989
   pages: 79-82
-  link:
+  link: http://dx.doi.org/10.1016/0364-5916(89)90042-4
   pdfLink:
 
 - type: journal
@@ -1039,7 +1039,7 @@
   issue: 4
   year: 1989
   pages: 22-26
-  link:
+  link: https://www.researchgate.net/publication/279602301_General_representation_of_geometrical_solution_model_for_predicting_ternary_thermodynamic_properties
   pdfLink:
 
 - type: journal
@@ -1051,7 +1051,7 @@
   issue: 2
   year: 1989
   pages: 1-4
-  link:
+  link: http://www.cqvip.com/qk/85314x/198902/3001440754.html
   pdfLink:
 
 - type: journal
@@ -1099,5 +1099,5 @@
   issue: Suppl. I
   year: 1986
   pages: 907-911
-  link:
-  pdfLink:
+  link: http://dx.doi.org/10.1016/0167-2738(86)90285-7
+  pdfLink: /assets/papers/1986/Electrochemical%20Determination%20of%20Thermodynamic%20Properties%20of%20Intermediate%20Compound%20in%20Mo-O%20System.pdf
