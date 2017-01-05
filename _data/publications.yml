@@ -410,13 +410,13 @@
   id: Du
   authors: Du, Y,Chang, YA, Liu, SH,Huang, BY,Xie, FY, Yang, Y, Chen, SL
   title: Thermodynamic description of the Al-Fe-Mg-Mn-Si system and investigation of microstructure and microsegregation during directional solidification of an Al-Fe-Mg-Mn-Si alloy
-  journal: ZEITSCHRIFT FUR METALLKUNDE
+  journal: Zeitschrift für Metallkunde
   volume: 96
   issue: 12
   year: 2005
   pages: 1351-1362
-  link:
-  pdfLink:
+  link: https://doi.org/10.3139/146.101185
+  pdfLink: http://www.paper.edu.cn/scholar/downpaper/duyong-6
 
 - type: journal
   id: Cao
@@ -424,13 +424,13 @@
   title: Application of the Cluster/Site Approximation to the Calculation of Multicomponent Alloy Phase Diagrams
   journal: Acta Mater
   volume: 53
-  issue:
+  issue: 2
   year: 2005
   pages: 331-335
-  link:
-  pdfLink:
+  link: https://doi.org/10.1016/j.actamat.2004.09.028
+  pdfLink: /assets/papers/2005/Application%20of%20the%20Cluster%2FSite%20Approximation%20to%20the%20Calculation%20of%20Multicomponent%20Alloy%20Phase%20Diagrams.pdf
 
-- type:
+- type: journal
   id:
   authors: Y. A. Chang, X.-Y. Yan, F.-Y. Xie, S.-L. Chen
   title: Phase formation and solidification path analysis of multicomponent aluminum alloys
@@ -442,20 +442,20 @@
   link:
   pdfLink:
 
-- type: Chang
-  id: journal
+- type: journal
+  id: Chang
   authors: Y. A. Chang, S.-L. Chen, F. Zhang, X.-Y. Yan, F.-Y. Xie, R. Schmid-Fetzer and W. A. Oates
   title: "Phase Diagram Calculation: Past, Present and Future"
   journal: Progress in Materials Science
   volume: 49
-  issue:
+  issue: 3-4
   year: 2004
   pages: 313-345
-  link:
-  pdfLink:
+  link: https://doi.org/10.1016/S0079-6425(03)00025-2
+  pdfLink: /assets/papers/2004/Phase%20Diagram%20Calculation-%20Past%2C%20Present%20and%20Future.pdf
 
-- type: Chen
-  id: journal
+- type: journal
+  id: Chen
   authors: S.-W. Chen and S.-L. Chen
   title: Phase Diagram and Its Calculation with an Example of Lead-free Solder
   journal: Materials Science Bulletin (in Chinese)
@@ -487,7 +487,7 @@
   issue: 12
   year: 2003
   pages: 48-51
-  link:
+  link: https://doi.org/10.1007/s11837-003-0010-5
   pdfLink:
 
 - type: journal
