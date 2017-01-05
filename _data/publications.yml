@@ -103,8 +103,8 @@
   issue: 2
   year: 2013
   pages: 123-129
-  link:
-  pdfLink:
+  link: http://dx.doi.org/10.1007/s40436-013-0021-6
+  pdfLink: /assets/papers/2013/Development%20of%20a%20computational%20tool%20for%20materials%20design.pdf
 
 - type: journal
   id: Zhang
@@ -115,19 +115,19 @@
   issue:
   year: 2013
   pages: 195-200
-  link:
+  link: http://dx.doi.org/10.1002/9781118767061.ch31
   pdfLink:
 
 - type: journal
   id: Zhang
   authors: C. Zhang, F. Zhang, S. L. Chen, W. S. Cao
-  title:  Computational Thermodynamics Aided High-Entropy Alloy Design
+  title: Computational Thermodynamics Aided High-Entropy Alloy Design
   journal: JOM
   volume: 64
   issue: 7
   year: 2012
   pages: 839-845
-  link:
+  link: http://dx.doi.org/10.1007/s11837-012-0365-6
   pdfLink:
 
 - type: journal
@@ -139,8 +139,8 @@
   issue:
   year: 2012
   pages: 8–15
-  link:
-  pdfLink:
+  link: http://dx.doi.org/10.1016/j.calphad.2011.10.004
+  pdfLink: /assets/papers/2012/Phase%20equilibria%20of%20the%20La-Ni-Cu%20ternary%20system%20at%20673%20K%20Thermodynamic.pdf
 
 - type: journal
   id: Cao
