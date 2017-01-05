@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Phase Diagram Calculation
+title: Phase Diagram
 weight: 1
 ---
 
