@@ -79,7 +79,7 @@
   issue:
   year: 2013
   pages: 48–55
-  link: http://dx.doi.org/10.1016/j.calphad.2012.12.002
+  link: https://doi.org/10.1016/j.calphad.2012.12.002
   pdfLink:
 
 - type: journal
@@ -91,7 +91,7 @@
   issue:
   year: 2013
   pages: 73-80
-  link: http://dx.doi.org/10.1016/j.intermet.2012.09.027
+  link: https://doi.org/10.1016/j.intermet.2012.09.027
   pdfLink: /assets/papers/2013/Experimental%20investigation%20and%20thermodynamic%20optimization%20of%20the%20AleZneTi.pdf
 
 - type: journal
@@ -103,7 +103,7 @@
   issue: 2
   year: 2013
   pages: 123-129
-  link: http://dx.doi.org/10.1007/s40436-013-0021-6
+  link: https://doi.org/10.1007/s40436-013-0021-6
   pdfLink: /assets/papers/2013/Development%20of%20a%20computational%20tool%20for%20materials%20design.pdf
 
 - type: journal
@@ -115,7 +115,7 @@
   issue:
   year: 2013
   pages: 195-200
-  link: http://dx.doi.org/10.1002/9781118767061.ch31
+  link: https://doi.org/10.1002/9781118767061.ch31
   pdfLink:
 
 - type: journal
@@ -127,7 +127,7 @@
   issue: 7
   year: 2012
   pages: 839-845
-  link: http://dx.doi.org/10.1007/s11837-012-0365-6
+  link: https://doi.org/10.1007/s11837-012-0365-6
   pdfLink:
 
 - type: journal
@@ -139,7 +139,7 @@
   issue:
   year: 2012
   pages: 8–15
-  link: http://dx.doi.org/10.1016/j.calphad.2011.10.004
+  link: https://doi.org/10.1016/j.calphad.2011.10.004
   pdfLink: /assets/papers/2012/Phase%20equilibria%20of%20the%20La-Ni-Cu%20ternary%20system%20at%20673%20K%20Thermodynamic.pdf
 
 - type: journal
@@ -667,7 +667,7 @@
   issue:
   year: 1999
   pages: 11221-11225
-  link:
+  link: https://doi.org/10.1103/PhysRevB.59.11221
   pdfLink:
 
 - type:
@@ -715,7 +715,7 @@
   issue:
   year: 1997
   pages: 471-482
-  link:
+  link: https://doi.org/10.1016/S0966-9795(97)00030-7
   pdfLink:
 
 - type: journal
@@ -727,7 +727,7 @@
   issue:
   year: 1997
   pages: 1725
-  link:
+  link: https://doi.org/10.1007/s11661-997-0104-8
   pdfLink:
 
 - type: journal
@@ -739,7 +739,7 @@
   issue:
   year: 1997
   pages: 435-446
-  link:
+  link: https://doi.org/10.1007/s11661-997-0144-0
   pdfLink:
 
 - type:
@@ -823,7 +823,7 @@
   issue:
   year: 1995
   pages: 233
-  link:
+  link: https://doi.org/10.1016/0966-9795(95)98934-Z
   pdfLink:
 
 - type: journal
@@ -835,7 +835,7 @@
   issue:
   year: 1994
   pages: 235-247
-  link: http://dx.doi.org/10.1016/0966-9795(94)90010-8
+  link: https://doi.org/10.1016/0966-9795(94)90010-8
   pdfLink:
 
 - type: journal
@@ -847,7 +847,7 @@
   issue: 7
   year: 1994
   pages: 1525-1533
-  link: http://dx.doi.org/10.1007/BF02665484
+  link: https://doi.org/10.1007/BF02665484
   pdfLink:
 
 - type: journal
@@ -859,7 +859,7 @@
   issue: 3
   year: 1994
   pages: 656-658
-  link: http://dx.doi.org/10.1007/BF02651610
+  link: https://doi.org/10.1007/BF02651610
   pdfLink:
 
 - type: journal
@@ -871,7 +871,7 @@
   issue: 1
   year: 1993
   pages: 22-30
-  link: http://dx.doi.org/10.1007/BF02652158
+  link: https://doi.org/10.1007/BF02652158
   pdfLink:
 
 - type: journal
@@ -883,7 +883,7 @@
   issue: 3
   year: 1993
   pages: 237-250
-  link: http://dx.doi.org/10.1016/0364-5916(93)90003-T
+  link: https://doi.org/10.1016/0364-5916(93)90003-T
   pdfLink:
 
 - type: journal
@@ -895,7 +895,7 @@
   issue: 3
   year: 1993
   pages: 287-302
-  link: http://dx.doi.org/10.1016/0364-5916(93)90007-X
+  link: https://doi.org/10.1016/0364-5916(93)90007-X
   pdfLink:
 
 - type: journal
@@ -907,7 +907,7 @@
   issue: 2
   year: 1993
   pages: 113-124
-  link: http://dx.doi.org/10.1016/0364-5916(93)90011-Y
+  link: https://doi.org/10.1016/0364-5916(93)90011-Y
   pdfLink:
 
 - type: journal
@@ -919,7 +919,7 @@
   issue: 1
   year: 1993
   pages: 47-56
-  link: http://dx.doi.org/10.1016/0364-5916(93)90033-8
+  link: https://doi.org/10.1016/0364-5916(93)90033-8
   pdfLink:
 
 - type: journal
@@ -931,7 +931,7 @@
   issue: 3
   year: 1992
   pages: 269-276
-  link: http://dx.doi.org/10.1016/0364-5916(92)90024-R
+  link: https://doi.org/10.1016/0364-5916(92)90024-R
   pdfLink:
 
 - type:
@@ -991,7 +991,7 @@
   issue: 1
   year: 1990
   pages: 41-48
-  link: http://dx.doi.org/10.1016/0364-5916(90)90038-2
+  link: https://doi.org/10.1016/0364-5916(90)90038-2
   pdfLink:
 
 - type: journal
@@ -1015,7 +1015,7 @@
   issue: 3
   year: 1989
   pages: 225-230
-  link: http://dx.doi.org/10.1016/0364-5916(89)90002-3
+  link: https://doi.org/10.1016/0364-5916(89)90002-3
   pdfLink:
 
 - type: journal
@@ -1027,7 +1027,7 @@
   issue: 1
   year: 1989
   pages: 79-82
-  link: http://dx.doi.org/10.1016/0364-5916(89)90042-4
+  link: https://doi.org/10.1016/0364-5916(89)90042-4
   pdfLink:
 
 - type: journal
@@ -1099,5 +1099,5 @@
   issue: Suppl. I
   year: 1986
   pages: 907-911
-  link: http://dx.doi.org/10.1016/0167-2738(86)90285-7
+  link: https://doi.org/10.1016/0167-2738(86)90285-7
   pdfLink: /assets/papers/1986/Electrochemical%20Determination%20of%20Thermodynamic%20Properties%20of%20Intermediate%20Compound%20in%20Mo-O%20System.pdf
