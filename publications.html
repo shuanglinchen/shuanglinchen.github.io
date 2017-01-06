@@ -9,5 +9,5 @@ weight: 1
 
 {% for p in site.data.publications %}
   {% if p.year != year %}{% if first == 1 %}{% assign first = 0 %}{% else %}</ul>{% endif %}<h3>{% assign year = p.year %}{{ year }}</h3><ul>{% endif %}
-  <li>[{{ p.year }}{{ p.id }}]&nbsp{{ p.authors }},&nbsp<b>{{ p.title }}</b>,&nbsp<i>{{ p.journal }}</i>&nbsp{{ p.volume }}{% if p.issue %}&nbsp({{ p.issue }}){% endif %},&nbsp({{ p.year }}){% if p.pages %}&nbsp{{ p.pages }}{% endif %}.{% if p.link or p.pdfLink %}<br>{% if p.link %}<a href="{{ p.link }}">View Online</a>{% endif %}{% if p.pdfLink %}&nbsp&nbsp<a href="{{ p.pdfLink }}">Download PDF</a>{% endif %}{% endif %}</li>
+  <li>[{{ p.year }}{{ p.id }}]&nbsp{{ p.authors }},&nbsp<b>{{ p.title }}</b>,&nbsp<i>{{ p.journal }}</i>&nbsp{{ p.volume }}{% if p.issue %}&nbsp({{ p.issue }}){% endif %},&nbsp({{ p.year }}){% if p.pages %}&nbsp{{ p.pages }}{% endif %}.{% if p.link or p.pdfLink %}<br>{% if p.link %}<a href="{{ p.link }}">View Online</a>{% endif %}{% if p.pdfLink %}&nbsp&nbsp<a href="mailto:shuanglin.chen@hotmail.com?subject=Request%20{{ p.title | uri_escape }}">Request PDF</a>{% endif %}{% endif %}</li>
 {% endfor %}
