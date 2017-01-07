@@ -35,6 +35,18 @@
   pdfLink: yes
 
 - type: journal
+  id: Luo
+  authors: "Qun Luo, Kuochih Chou, Shuanglin Chen, Qian Li, Jieyui Zhang"
+  title: "Material Design of Mg-Ni-RE(La,Nd,Ce,Y)-H System Based on Thermodynamics and Kinetics Calculation (in Chinese)"
+  journal: "Materials China"
+  volume: "35"
+  issue: 1
+  year: 2016
+  pages: "49-56"
+  link:
+  pdfLink: yes
+
+- type: journal
   id: Chen
   authors: S. Chen, W. Cao, F. Zhang, Q. Li, J. Zhang, C. Zhang, and J. Zhu
   title: Calculation of 2D and 3D Phase Diagram
