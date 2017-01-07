@@ -68,7 +68,7 @@
   year: 2015
   pages: 1881-1885
   link: https://doi.org/10.1007/s11837-015-1493-6
-  pdfLink:
+  pdfLink: yes
 
 - type: journal
   id: Dai
@@ -164,7 +164,7 @@
   year: 2012
   pages: 839-845
   link: https://doi.org/10.1007/s11837-012-0365-6
-  pdfLink:
+  pdfLink: yes
 
 - type: journal
   id: An
@@ -188,7 +188,7 @@
   year: 2011
   pages: 29-34
   link: https://doi.org/10.1007/s11837-011-0106-2
-  pdfLink:
+  pdfLink: yes
 
 - type: journal
   id: Zhang
@@ -272,7 +272,7 @@
   year: 2009
   pages: 491-495
   link: https://doi.org/10.1016/j.intermet.2008.12.006
-  pdfLink:
+  pdfLink: yes
 
 - type: journal
   id: Cao
@@ -308,7 +308,7 @@
   year: 2008
   pages: 390-397
   link: https://doi.org/10.1007/s11669-008-9356-2
-  pdfLink:
+  pdfLink: yes
 
 - type: journal
   id: Chen
@@ -392,7 +392,7 @@
   year: 2006
   pages: 1-5
   link: https://doi.org/10.1007/s11669-006-0034-y
-  pdfLink:
+  pdfLink: yes
 
 - type: journal
   id: Wang
@@ -428,7 +428,7 @@
   year: 2005
   pages: 32-39
   link: https://doi.org/10.1007/s11837-005-0112-3
-  pdfLink:
+  pdfLink: yes
 
 - type: journal
   id: Wang
@@ -452,7 +452,7 @@
   year: 2005
   pages: 717-721
   link: https://doi.org/10.1361/105994905X75501
-  pdfLink:
+  pdfLink: yes
 
 - type: journal
   id: Du
@@ -536,7 +536,7 @@
   year: 2003
   pages: 48-51
   link: https://doi.org/10.1007/s11837-003-0010-5
-  pdfLink:
+  pdfLink: yes
 
 - type: journal
   id: Du
@@ -656,7 +656,7 @@
   year: 2001
   pages: 373-378
   link: https://doi.org/10.1361/105497101770332910
-  pdfLink:
+  pdfLink: yes
 
 - type: journal
   id: Yan
@@ -716,7 +716,7 @@
   year: 1999
   pages: 11221-11225
   link: https://doi.org/10.1103/PhysRevB.59.11221
-  pdfLink:
+  pdfLink: yes
 
 - type:
   id: Kraft
@@ -776,19 +776,19 @@
   year: 1997
   pages: 1725
   link: https://doi.org/10.1007/s11661-997-0104-8
-  pdfLink:
+  pdfLink: yes
 
 - type: journal
   id: Chen
   authors: S.-L. Chen, Y. Zuo, H. Liang and Y. A. Chang
-  title: A Thermodynamic Description of Al-Mg-Cu
+  title: A Thermodynamic Description for the Ternary Al-Mg-Cu System
   journal: Metall. Mater. Trans.
   volume: 28A
   issue:
   year: 1997
   pages: 435-446
   link: https://doi.org/10.1007/s11661-997-0144-0
-  pdfLink:
+  pdfLink: yes
 
 - type:
   id: Zhang
@@ -829,13 +829,13 @@
 - type:
   id: Zhang
   authors: F. Zhang, S.-L. Chen, Y. A. Chang and U. R. Kattner
-  title: Thermodynamic Stability and Point Defects of *-TiAl and the Phase Relationships of Ti-Al
+  title: Thermodynamic Stability and Point Defects of {gamma}-TiAl and the Phase Relationships of Ti-Al
   journal: "in Gamma Titanium Aluminides (Eds.: Y.-W. Kim, R. Wagner and M. Yamaguchi) The Mineral, Metals and Materials Society, Warrendale, PA"
   volume:
   issue:
   year: 1995
   pages: 131-140
-  link:
+  link: https://www.osti.gov/scitech/biblio/225083-thermodynamic-stability-point-defects-gamma-tial-phase-relationships-ti-al
   pdfLink:
 
 - type:
@@ -896,7 +896,7 @@
   year: 1994
   pages: 1525-1533
   link: https://doi.org/10.1007/BF02665484
-  pdfLink:
+  pdfLink: yes
 
 - type: journal
   id: Chen
@@ -908,7 +908,7 @@
   year: 1994
   pages: 656-658
   link: https://doi.org/10.1007/BF02651610
-  pdfLink:
+  pdfLink: yes
 
 - type: journal
   id: Kao
@@ -920,7 +920,7 @@
   year: 1993
   pages: 22-30
   link: https://doi.org/10.1007/BF02652158
-  pdfLink:
+  pdfLink: yes
 
 - type: journal
   id: Chen
@@ -932,7 +932,7 @@
   year: 1993
   pages: 237-250
   link: https://doi.org/10.1016/0364-5916(93)90003-T
-  pdfLink:
+  pdfLink: yes
 
 - type: journal
   id: Chen
@@ -944,7 +944,7 @@
   year: 1993
   pages: 287-302
   link: https://doi.org/10.1016/0364-5916(93)90007-X
-  pdfLink:
+  pdfLink: yes
 
 - type: journal
   id: Chen
@@ -956,7 +956,7 @@
   year: 1993
   pages: 113-124
   link: https://doi.org/10.1016/0364-5916(93)90011-Y
-  pdfLink:
+  pdfLink: yes
 
 - type: journal
   id: Chen
@@ -968,7 +968,7 @@
   year: 1993
   pages: 47-56
   link: https://doi.org/10.1016/0364-5916(93)90033-8
-  pdfLink:
+  pdfLink: yes
 
 - type: journal
   id: Zhang
@@ -980,7 +980,7 @@
   year: 1992
   pages: 269-276
   link: https://doi.org/10.1016/0364-5916(92)90024-R
-  pdfLink:
+  pdfLink: yes
 
 - type:
   id: Shiau
@@ -1004,7 +1004,7 @@
   year: 1991
   pages: 1532-1541
   link: https://doi.org/10.1557/JMR.1991.1532
-  pdfLink:
+  pdfLink: yes
 
 - type: book
   id: Chang
@@ -1040,7 +1040,7 @@
   year: 1990
   pages: 41-48
   link: https://doi.org/10.1016/0364-5916(90)90038-2
-  pdfLink:
+  pdfLink: yes
 
 - type: journal
   id: Chen
@@ -1064,7 +1064,7 @@
   year: 1989
   pages: 225-230
   link: https://doi.org/10.1016/0364-5916(89)90002-3
-  pdfLink:
+  pdfLink: yes
 
 - type: journal
   id: Chen
@@ -1076,7 +1076,7 @@
   year: 1989
   pages: 79-82
   link: https://doi.org/10.1016/0364-5916(89)90042-4
-  pdfLink:
+  pdfLink: yes
 
 - type: journal
   id: Chen
