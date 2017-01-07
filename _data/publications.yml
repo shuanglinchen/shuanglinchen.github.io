@@ -129,6 +129,7 @@
   pages: 73-80
   link: https://doi.org/10.1016/j.intermet.2012.09.027
   pdfLink: yes
+
 - type: journal
   id: Chen
   authors: S.L. Chen, W.S. Cao, F. Zhang, C. Zhang, J. Zhu, J. Y. Zhang
@@ -538,7 +539,7 @@
   pdfLink: yes
 
 - type: journal
-  id:
+  id: Chang
   authors: Y. A. Chang, X.-Y. Yan, F.-Y. Xie, S.-L. Chen
   title: Phase formation and solidification path analysis of multicomponent aluminum alloys
   journal: Solidification of Aluminium Alloys Symposium
@@ -1208,3 +1209,4 @@
   pages: 907-911
   link: https://doi.org/10.1016/0167-2738(86)90285-7
   pdfLink: yes
+  
