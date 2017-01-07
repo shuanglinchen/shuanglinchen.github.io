@@ -31,9 +31,13 @@ Thermodynamic models
 
 Algorithm design and software development
 
-
 ## Memberships
 
 [ASM](http://www.asminternational.org/home), [TMS][tms link]
 
 [tms link]: http://www.tms.org/TMSHome.aspx
+
+
+## Other Interest
+
+Reading, stamp collecting, playing bridge
