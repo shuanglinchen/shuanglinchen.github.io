@@ -456,7 +456,7 @@
 
 - type: journal
   id: Du
-  authors: Du, Y,Chang, YA, Liu, SH,Huang, BY,Xie, FY, Yang, Y, Chen, SL
+  authors: Y. Du, Y.A. Chang, S.H. Liu, B.Y. Huang, F.Y. Xie,Y. Yang, S.L. Chen
   title: Thermodynamic description of the Al-Fe-Mg-Mn-Si system and investigation of microstructure and microsegregation during directional solidification of an Al-Fe-Mg-Mn-Si alloy
   journal: Zeitschrift für Metallkunde
   volume: 96
@@ -552,7 +552,7 @@
 
 - type: journal
   id: Xie
-  authors: F.-Y. Xie, X-Y Yan, L. Ding, F. Zhang, S.-L. Chen, M. G. Chu, and Y. A. Chang
+  authors: F.-Y. Xie, X.-Y. Yan, L. Ding, F. Zhang, S.-L. Chen, M. G. Chu, and Y. A. Chang
   title: A Study of Microstructure and Microsegregation on Aluminum 7050 Alloy
   journal: Mater. Sci. Engin.
   volume: A355
