@@ -337,13 +337,13 @@
 - type: journal
   id: Dai
   authors: Ting Dai, Mingfang Zhu, Shuanglin Chen, Weisheng Cao, Chunpyo Hong
-  title: Modeling of Dendritic Structure and Microsegregation in Solidification of Al-Rich Quaternary Alloys (in Chinese)
-  journal:Acta Metall Sinica
+  title: "Modeling of Dendritic Structure and Microsegregation in Solidification of Al-Rich Quaternary Alloys (in Chinese)"
+  journal: Acta Metall Sinica
   volume: 44
   issue: 10
   year: 2008
   pages: 1175-1182
-  link: 
+  link:
   pdfLink: yes
 
 - type: journal
