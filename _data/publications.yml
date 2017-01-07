@@ -332,7 +332,19 @@
   year: 2008
   pages: 5255-5266
   link: https://doi.org/10.1016/j.actamat.2008.07.002
-  pdfLink: /assets/papers/2008/Vacancy%20Thermodynamics%20for%20Intermediate%20Phase%20Using%20the%20Compound%20Energy%20Formalism.pdf
+  pdfLink: yes
+
+- type: journal
+  id: Dai
+  authors: Ting Dai, Mingfang Zhu, Shuanglin Chen, Weisheng Cao, Chunpyo Hong
+  title: Modeling of Dendritic Structure and Microsegregation in Solidification of Al-Rich Quaternary Alloys (in Chinese)
+  journal:Acta Metall Sinica
+  volume: 44
+  issue: 10
+  year: 2008
+  pages: 1175-1182
+  link: 
+  pdfLink: yes
 
 - type: journal
   id: Zhang
