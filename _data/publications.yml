@@ -14,23 +14,23 @@
   id: Chen
   authors: "Shuanglin Chen, Weisheng Cao, Chuan Zhang, Jun Zhu, Fan Zhang, Qian Li, Jieyu Zhang"
   title: Calculation of property contour diagrams
-  journal: "CALPHAD"
-  volume: "55"
-  issue: "Part 1"
+  journal: CALPHAD
+  volume: 55
+  issue: Part 1
   year: 2016
-  pages: "63-68"
+  pages: 63-68
   link: https://doi.org/10.1016/j.calphad.2016.05.004
   pdfLink:
 
 - type: journal
   id: Li
-  authors: "Yang Li, Qin-Fen Gu, Qun Luo, Yuepeng Pang, Shuang-Lin Chen, Kuo-Chih Chou, Xun-Li Wang, Qian Li"
+  authors: Yang Li, Qin-Fen Gu, Qun Luo, Yuepeng Pang, Shuang-Lin Chen, Kuo-Chih Chou, Xun-Li Wang, Qian Li
   title: Thermodynamic investigation on phase formation in the Al–Si rich region of Al–Si–Ti system
-  journal: "Materials and Design"
-  volume: "102"
+  journal: Materials and Design
+  volume: 102
   issue:
   year: 2016
-  pages: "78-90"
+  pages: 78-90
   link: https://doi.org/10.1016/j.matdes.2016.03.144
   pdfLink: yes
 
@@ -38,11 +38,11 @@
   id: Luo
   authors: "Qun Luo, Kuochih Chou, Shuanglin Chen, Qian Li, Jieyui Zhang"
   title: "Material Design of Mg-Ni-RE(La,Nd,Ce,Y)-H System Based on Thermodynamics and Kinetics Calculation (in Chinese)"
-  journal: "Materials China"
-  volume: "35"
+  journal: Materials China
+  volume: 35
   issue: 1
   year: 2016
-  pages: "49-56"
+  pages: 49-56
   link:
   pdfLink: yes
 
@@ -75,7 +75,7 @@
   authors: Ting Dai, Mingfang Zhu, Shuanglin Chen and Weisheng Cao
   title: Modeling of Dendritic Structure and Microsegregation in Solidification of Al-Rich Quaternary Alloys
   journal: "Advances in the Science and Engineering of Casting Solidification: An MPMD Symposium Honoring Doru Michael Stefanescu"
-  volume: " eds L. Nastac, B. Liu, H. Fredriksson, J. Lacaze, C.-P. Hong, A. V. Catalina, A. Buhrig-Polaczek, C. Monroe, A. S. Sabau, R. E. L. Ruxanda, A. Luo, S. Sen and A. Diószegi, John Wiley & Sons, Inc., Hoboken, NJ, USA"
+  volume: "eds L. Nastac, B. Liu, H. Fredriksson, J. Lacaze, C.-P. Hong, A. V. Catalina, A. Buhrig-Polaczek, C. Monroe, A. S. Sabau, R. E. L. Ruxanda, A. Luo, S. Sen and A. Diószegi, John Wiley & Sons, Inc., Hoboken, NJ, USA"
   issue:
   year: 2015
   pages:
@@ -446,7 +446,7 @@
   id: Zhang
   authors: Zhang, F, Xie, FY, Chen, SL, Chang, YA, Furrer, D, Venkatesh, V,
   title: Predictions of titanium alloy properties using thermodynamic modeling tools
-  journal: Journal OF Materials Engineering and Performance
+  journal: Journal of Materials Engineering and Performance
   volume: 14
   issue: 6
   year: 2005
