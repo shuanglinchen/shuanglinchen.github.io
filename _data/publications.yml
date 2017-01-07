@@ -56,7 +56,7 @@
   year: 2015
   pages: 1876-1880
   link: https://doi.org/10.1007/s11837-015-1490-9
-  pdfLink: /assets/papers/2015/Calculation%20of%202D%20and%203D%20Phase%20Diagram.pdf
+  pdfLink: yes
 
 - type: journal
   id: Zhu
@@ -92,7 +92,7 @@
   year: 2015
   pages: 145s-157s
   link: https://www.researchgate.net/publication/292489336_Creep_Rupture_Performance_of_Welds_of_P91_Pipe_Steel
-  pdfLink: /assets/papers/2015/Creep%20Rupture%20Performance%20of%20Welds%20of%20P91%20Pipe%20Steel.pdf
+  pdfLink: yes
 
 - type: journal
   id: Zhang
@@ -128,8 +128,7 @@
   year: 2013
   pages: 73-80
   link: https://doi.org/10.1016/j.intermet.2012.09.027
-  pdfLink: /assets/papers/2013/Experimental%20investigation%20and%20thermodynamic%20optimization%20of%20the%20AleZneTi.pdf
-
+  pdfLink: yes
 - type: journal
   id: Chen
   authors: S.L. Chen, W.S. Cao, F. Zhang, C. Zhang, J. Zhu, J. Y. Zhang
@@ -140,7 +139,7 @@
   year: 2013
   pages: 123-129
   link: https://doi.org/10.1007/s40436-013-0021-6
-  pdfLink: /assets/papers/2013/Development%20of%20a%20computational%20tool%20for%20materials%20design.pdf
+  pdfLink: yes
 
 - type: journal
   id: Zhang
@@ -176,7 +175,7 @@
   year: 2012
   pages: 8–15
   link: https://doi.org/10.1016/j.calphad.2011.10.004
-  pdfLink: /assets/papers/2012/Phase%20equilibria%20of%20the%20La-Ni-Cu%20ternary%20system%20at%20673%20K%20Thermodynamic.pdf
+  pdfLink: yes
 
 - type: journal
   id: Cao
@@ -200,7 +199,7 @@
   year: 2011
   pages: 6246-6256
   link: https://doi.org/10.1016/j.actamat.2011.06.034
-  pdfLink: /assets/papers/2011/Thermodynamic%20Modeling%20and%20Experimental%20Investigation%20of%20the%20Phase%20Stability%20at%20the%20Ni-rich%20Region%20of%20the%20Ni-Al-Cr-Ir%20System.pdf
+  pdfLink: yes
 
 - type: journal
   id: Li
@@ -296,7 +295,7 @@
   year: 2009
   pages: 429-434
   link: https://doi.org/10.1007/s11669-009-9568-0
-  pdfLink: /assets/papers/2009/Solidification%20Simulation%20Using%20Scheil%20Model%20in%20Multicomponent%20Systems.pdf
+  pdfLink: yes
 
 - type: journal
   id: Zhao
@@ -320,7 +319,7 @@
   year: 2009
   pages: 328-342
   link: https://doi.org/10.1016/j.calphad.2008.08.004
-  pdfLink: http://mcmf.fzu.edu.cn/attach/2014/12/17/57890.pdf
+  pdfLink: yes
 
 - type: journal
   id: Yang
@@ -333,7 +332,7 @@
   pages: U05-42
   link: https://doi.org/10.1557/PROC-1128-U05-42
   pdfLink: yes
-  
+
 - type: journal
   id: Wu
   authors: Kaisheng Wu, Shuanglin Chen, Fan Zhang, and Y.A. Chang
@@ -440,7 +439,7 @@
   year: 2006
   pages: 532-537
   link: https://doi.org/10.1016/S1001-0521(06)60094-6
-  pdfLink: http://public.cntech.com.cn/Public/Uploads/ckfinder/userfiles/files/attach200710101719250.pdf
+  pdfLink: yes
 
 - type: journal
   id: Chen
@@ -476,7 +475,7 @@
   year: 2005
   pages: 4189-4197
   link: https://doi.org/10.1016/j.actamat.2005.05.016
-  pdfLink: /assets/papers/2005/Application%20of%20the%20cluster%2Fsite%20approximation%20to%20fcc%20phases%20in%20Ni-Al-Cr%20system.pdf
+  pdfLink: yes
 
 - type: journal
   id: Wang
@@ -524,7 +523,7 @@
   year: 2005
   pages: 1351-1362
   link: https://doi.org/10.3139/146.101185
-  pdfLink: http://www.paper.edu.cn/scholar/downpaper/duyong-6
+  pdfLink: yes
 
 - type: journal
   id: Cao
@@ -536,7 +535,7 @@
   year: 2005
   pages: 331-335
   link: https://doi.org/10.1016/j.actamat.2004.09.028
-  pdfLink: /assets/papers/2005/Application%20of%20the%20Cluster%2FSite%20Approximation%20to%20the%20Calculation%20of%20Multicomponent%20Alloy%20Phase%20Diagrams.pdf
+  pdfLink: yes
 
 - type: journal
   id:
@@ -560,7 +559,7 @@
   year: 2004
   pages: 313-345
   link: https://doi.org/10.1016/S0079-6425(03)00025-2
-  pdfLink: /assets/papers/2004/Phase%20Diagram%20Calculation-%20Past%2C%20Present%20and%20Future.pdf
+  pdfLink: yes
 
 - type: journal
   id: Chen
@@ -608,7 +607,7 @@
   year: 2003
   pages: 995-1013
   link: https://doi.org/10.1016/S0966-9795(03)00123-7
-  pdfLink: /assets/papers/2003/Thermodynamic%20Properties%20of%20the%20Al-Nb-Ni%20System.pdf
+  pdfLink: yes
 
 - type: journal
   id: Xie
@@ -620,7 +619,7 @@
   year: 2003
   pages: 144-153
   link: https://doi.org/10.1016/S0921-5093(03)00056-X
-  pdfLink: /assets/papers/2003/A%20Study%20of%20Microstructure%20and%20Microsegregation%20on%20Aluminum%207050%20Alloy.pdf
+  pdfLink: yes
 
 - type: journal
   id: Zhang
@@ -632,7 +631,7 @@
   year: 2003
   pages: 207-216
   link: https://doi.org/10.1016/S1359-6454(02)00392-0
-  pdfLink: /assets/papers/2003/Application%20of%20the%20Cluster-Site%20Approximation%20(CSA)%20Model%20to%20the%20FCC%20Phase%20in%20the%20Ni-Al%20System.pdf
+  pdfLink: yes
 
 - type:
   id: Chang
@@ -656,7 +655,7 @@
   year: 2002
   pages: 2199-2207
   link: https://doi.org/10.1016/S1359-6454(01)00431-1
-  pdfLink: /assets/papers/Computational%20and%20Experimental%20Investigation%20of%20Microsegregation%20in%20an%20Al-rich%20Al-Cu-Mg-Si%20Quaternary%20Alloy.pdf
+  pdfLink: yes
 
 - type: journal
   id: Chen
@@ -730,7 +729,7 @@
   link: https://doi.org/10.1016/s0925-8388(00)01469-9
   pdfLink:
 
-- type:
+- type: book
   id: Yan
   authors: X.Y. Yan, L. Ding, S.-L. Chen, F.-Y. Xie, M. Chu and Y. A. Chang
   title: Predicting Microstructure and Microsegregation in Multicomponent Aluminum Alloys
@@ -1208,4 +1207,4 @@
   year: 1986
   pages: 907-911
   link: https://doi.org/10.1016/0167-2738(86)90285-7
-  pdfLink: /assets/papers/1986/Electrochemical%20Determination%20of%20Thermodynamic%20Properties%20of%20Intermediate%20Compound%20in%20Mo-O%20System.pdf
+  pdfLink: yes
