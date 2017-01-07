@@ -40,4 +40,10 @@ Algorithm design and software development
 
 ## Other Interest
 
-Reading, stamp collecting, playing bridge
+Reading, stamp collecting, playing bridge, golfing
+
+## Charity
+
+[Hometown Education Foundation][HEF link]
+
+[HEF link]: www.hometowneducation.org
