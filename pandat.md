@@ -4,9 +4,9 @@ title: Pandat
 weight: 1
 ---
 
-Download a demo version of [Pandat][pandat_download].
+Learn more about Pandat at
+  [www.computherm.com][computherm.com]
+  [www.computherm.cn][computherm.cn]
 
-Download a demo version of [PanEngine][panengine_download].
-
-[pandat_download]: http://www.computherm.com/
-[panengine_download]: http://www.computherm.com/
+[computherm.com]: http://www.computherm.com/
+[computherm.cn]: http://www.computherm.cn/
