@@ -46,4 +46,4 @@ Reading, stamp collecting, playing bridge, golfing
 
 [Hometown Education Foundation 家乡教育基金会][HEF link]
 
-[HEF link]: www.hometowneducation.org
+[HEF link]: http://www.hometowneducation.org
