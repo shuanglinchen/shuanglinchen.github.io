@@ -23,6 +23,18 @@
   pdfLink:
 
 - type: journal
+  id: Li
+  authors: "Yang Li, Qin-Fen Gu, Qun Luo, Yuepeng Pang, Shuang-Lin Chen, Kuo-Chih Chou, Xun-Li Wang, Qian Li"
+  title: Thermodynamic investigation on phase formation in the Al–Si rich region of Al–Si–Ti system
+  journal: "Materials and Design"
+  volume: "102"
+  issue:
+  year: 2016
+  pages: "78-90"
+  link: https://doi.org/10.1016/j.matdes.2016.03.144
+  pdfLink: yes
+
+- type: journal
   id: Chen
   authors: S. Chen, W. Cao, F. Zhang, Q. Li, J. Zhang, C. Zhang, and J. Zhu
   title: Calculation of 2D and 3D Phase Diagram
