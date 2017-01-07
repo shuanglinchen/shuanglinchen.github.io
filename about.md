@@ -24,9 +24,13 @@ Shanghai University, China
 ## Research Interest
 
 Thermodynamics in materials science
+
 Multicomponent phase equilibrium and phase diagram calculation
+
 Thermodynamic models
+
 Algorithm design and software development
+
 
 ## Memberships
 
