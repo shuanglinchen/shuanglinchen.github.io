@@ -27,7 +27,7 @@ Thermodynamics in materials science
 
 Multicomponent phase equilibrium and phase diagram calculation
 
-Thermodynamic models
+Thermodynamic models of alloys
 
 Algorithm design and software development
 
