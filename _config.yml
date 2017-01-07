@@ -6,7 +6,7 @@ highlighter: rouge
 permalink:        pretty
 
 # Setup
-title:            Shuanglin Chen
+title:            Shuanglin Chen<br>陈双林
 url:              //shuanglinchen.com
 paginate:         5
 baseurl:          /
