@@ -153,3 +153,159 @@
   pages: 195-200
   link: https://doi.org/10.1002/9781118767061.ch31
   pdfLink:
+
+- type: journal
+  id: Zhang
+  authors: C. Zhang, F. Zhang, S. L. Chen, W. S. Cao
+  title: Computational Thermodynamics Aided High-Entropy Alloy Design
+  journal: JOM
+  volume: 64
+  issue: 7
+  year: 2012
+  pages: 839-845
+  link: https://doi.org/10.1007/s11837-012-0365-6
+  pdfLink: yes
+
+- type: journal
+  id: An
+  authors: Xuehui An, Qian Li, Jieyu Zhang, Shuanglin Chen, Ying Yang
+  title: "Phase equilibria of the La–Ni–Cu ternary system at 673 K: Thermodynamic modeling and experimental validation"
+  journal: CALPHAD
+  volume: 36
+  issue:
+  year: 2012
+  pages: 8–15
+  link: https://doi.org/10.1016/j.calphad.2011.10.004
+  pdfLink: yes
+
+- type: journal
+  id: Cao
+  authors: W. Cao, F. Zhang, S.-L. Chen, C. Zhang, Y. A. Chang
+  title: An Integrated Computational Tool for Precipitation Simulation
+  journal: JOM
+  volume: 63
+  issue: 7
+  year: 2011
+  pages: 29-34
+  link: https://doi.org/10.1007/s11837-011-0106-2
+  pdfLink: yes
+
+- type: journal
+  id: Zhang
+  authors: C. Zhang, F. Zhang, S. L. Chen, W. S. Cao, and Y. A. Chang
+  title: Thermodynamic Modeling and Experimental Investigation of the Phase Stability at the Ni-rich Region of the Ni-Al-Cr-Ir System
+  journal: Acta Materialia
+  volume: 59
+  issue: 16
+  year: 2011
+  pages: 6246-6256
+  link: https://doi.org/10.1016/j.actamat.2011.06.034
+  pdfLink: yes
+
+- type: journal
+  id: Li
+  authors: Qian Li, Xu Zhang, Xue-Hui An, Shuang-Lin Chen, Jie-Yu Zhang
+  title: Experimental investigation and thermodynamic modeling of the phase equilibria at the Mg–Ni side in the La–Mg–Ni ternary system
+  journal: J. Alloys and Compounds
+  volume: 509
+  issue: 5
+  year: 2011
+  pages: 2478–2486
+  link: https://doi.org/10.1016/j.jallcom.2010.11.057
+  pdfLink:
+
+- type: journal
+  id: Li
+  authors: Qian Li, Yang-Zi Zhao, Qun Luo, Shuang-Lin Chen, Jie-Yu Zhang, Kuo-Chih Chou
+  title: Experimental study and phase diagram calculation in Al–Zn–Mg–Si quaternary system
+  journal: J. Alloys and Compounds
+  volume: 501
+  issue: 2
+  year: 2010
+  pages: 282–290
+  link: https://doi.org/10.1016/j.jallcom.2010.04.089
+  pdfLink:
+
+- type: journal
+  id: Wen
+  authors: Y.H. Wen, J.V. Lill, S.L. Chen, J.P. Simmons
+  title: A ternary phase-field model incorporating commercial CALPHAD software and its application to precipitation in superalloys
+  journal: Acta Materialia
+  volume: 58
+  issue: 1
+  year: 2010
+  pages: 875–885
+  link: https://doi.org/10.1016/j.actamat.2009.10.002
+  pdfLink: yes
+
+- type: journal
+  id: Zhang
+  authors: F. Zhang, Y. Yang, W.S. Cao, S.L. Chen, K.S. Wu and Y.A. Chang
+  title: Commercial Alloy Phase Diagrams and Their Industrial Applications
+  journal: ASM Handbook on Metals Process Simulation, Edited by D.U. Furrer and S.L. Semiatin
+  volume: 22B
+  issue:
+  year: 2010
+  pages: 117-131
+  link: http://www.asminternational.org/web/smst/search;jsessionid=E9DDEE82D192C47DF09F94BF53F3CDE8?p_p_auth=7Jg8zkQR&p_p_id=101&p_p_lifecycle=0&p_p_state=maximized&_101_struts_action=%2Fasset_publisher%2Fview_content&_101_assetEntryId=5957987&_101_type=content&_101_groupId=10192&_101_urlTitle=commercial-alloy-phase-diagrams-and-their-industrial-applications&redirect=%2Fweb%2Fsmst%2Fsearch%3Bjsessionid%3DEAA6FEFA50314F66672348BEC83C0F67%2F-%2Fjournal_content%2F56%2F10192%2F05281G%2FPUBLICATION
+  pdfLink:
+
+- type: journal
+  id: Zhao
+  authors: Bingjian Zhao, Xionggang Lu, Qingdong Zhong, Chonghe Li, Shuanglin Chen
+  title: Direct electrochemical preparation of CeNi5 and LaxCe1−xNi5 alloys from mixed oxides by SOM process
+  journal: Electrochimica Acta
+  volume: 55
+  issue:
+  year: 2010
+  pages: 2996–3001
+  link: http://dx.doi.org/10.1016/j.electacta.2010.01.008
+  pdfLink: yes
+
+- type: journal
+  id: Yang
+  authors: Ying Yang, Chuan Zhang, Shuanglin Chen, Dane Morgan, Y. Austin Chang
+  title: First-principles calculation aided thermodynamic modeling of the Mo–Re system
+  journal: Intermetallics
+  volume: 18
+  issue:
+  year: 2010
+  pages: 574–581
+  link: http://dx.doi.org/10.1016/j.intermet.2009.10.012
+  pdfLink: yes
+
+- type: journal
+  id: Yang
+  authors: Ying Yang, H. Bei, Shuanglin Chen, E.P. George, Jaimie Tiley, Y. A. Chang
+  title: Effects of Ti, Zr, and Hf on the phase stability of Mo_ss + Mo3Si + Mo5SiB2 alloys at 1600C
+  journal: Acta Materialia
+  volume: 58
+  issue: 2
+  year: 2010
+  pages: 541–548
+  link: http://dx.doi.org/10.1016/j.actamat.2009.09.032
+  pdfLink: yes
+
+- type: journal
+  id: Chen
+  authors: Shuang-Lin Chen, Ying Yang, Sinn-Wen Chen, Xiong-Gang Lu, and Y. Austin Chang
+  title: Solidification Simulation Using Scheil Model in Multicomponent Systems
+  journal: J. Phase Equilib. Diffus.
+  volume: 30
+  issue:
+  year: 2009
+  pages: 429-434
+  link: https://doi.org/10.1007/s11669-009-9568-0
+  pdfLink: yes
+
+- type: journal
+  id: Zhao
+  authors: Yang-Zi Zhao, Yun-He Zhao, Qian Li, Shuang-Lin Chen, Jie-Yu Zhang, Kuo-Chih Chou
+  title: Effects of step size and cut-off limit of residual liquid amount on solidification simulation of Al–Mg–Zn system with Scheil model
+  journal: Intermetallics
+  volume: 17
+  issue: 7
+  year: 2009
+  pages: 491-495
+  link: https://doi.org/10.1016/j.intermet.2008.12.006
+  pdfLink: yes
