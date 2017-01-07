@@ -17,7 +17,7 @@ Colleges: University of Science and Technology Beijing, China (北京科技大�
 
 ## Employment
 
-CompuTherm, LLC, Middleton, Wisconsin, USA
+[CompuTherm, LLC](http://www.computherm.com), Middleton, Wisconsin, USA
 
 Shanghai University, China
 
