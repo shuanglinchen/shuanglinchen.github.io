@@ -21,7 +21,7 @@ CompuTherm, LLC, Middleton, Wisconsin, USA
 
 Shanghai University, China
 
-## Research Interest
+## Research Interests
 
 Thermodynamics in materials science
 
@@ -38,7 +38,7 @@ Algorithm design and software development
 [tms link]: http://www.tms.org/TMSHome.aspx
 
 
-## Other Interest
+## Other Interests
 
 Reading, stamp collecting, playing bridge, golfing
 
