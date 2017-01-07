@@ -277,7 +277,7 @@
 - type: journal
   id: Cao
   authors: W. Cao, S.-L. Chen, F. Zhang, K. Wu, Y. Yang, Y. A. Chang, R. Schmid-Fetzer, W. A. Oates
-  title: PANDAT Software with PanEngine, PanOptimization and PanPrecipitation for Materials Property Simulation of Multi-Component Systems
+  title: PANDAT Software with PanEngine, PanOptimizer and PanPrecipitation for Multi-Component Phase Diagram Calculation and Materials Property Simulation
   journal: CALPHAD
   volume: 33
   issue: 2
