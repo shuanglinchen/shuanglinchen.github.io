@@ -232,6 +232,11 @@ img + em {
   margin: 0 0 1em 1em;
 }
 
+.img-plain {
+  margin: 0;
+  max-height: 15rem;
+}
+
 /* Paragraph Alignment */
 .center {
   text-align: center;
