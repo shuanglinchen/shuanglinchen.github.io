@@ -236,7 +236,7 @@
   year: 2010
   pages: 875–885
   link: https://doi.org/10.1016/j.actamat.2009.10.002
-  pdfLink:
+  pdfLink: yes
 
 - type: journal
   id: Zhang
@@ -249,6 +249,42 @@
   pages: 117-131
   link: http://www.asminternational.org/web/smst/search;jsessionid=E9DDEE82D192C47DF09F94BF53F3CDE8?p_p_auth=7Jg8zkQR&p_p_id=101&p_p_lifecycle=0&p_p_state=maximized&_101_struts_action=%2Fasset_publisher%2Fview_content&_101_assetEntryId=5957987&_101_type=content&_101_groupId=10192&_101_urlTitle=commercial-alloy-phase-diagrams-and-their-industrial-applications&redirect=%2Fweb%2Fsmst%2Fsearch%3Bjsessionid%3DEAA6FEFA50314F66672348BEC83C0F67%2F-%2Fjournal_content%2F56%2F10192%2F05281G%2FPUBLICATION
   pdfLink:
+
+- type: journal
+  id: Zhao
+  authors: Bingjian Zhao, Xionggang Lu, Qingdong Zhong, Chonghe Li, Shuanglin Chen
+  title: Direct electrochemical preparation of CeNi5 and LaxCe1−xNi5 alloys from mixed oxides by SOM process
+  journal: Electrochimica Acta
+  volume: 55
+  issue:
+  year: 2010
+  pages: 2996–3001
+  link: http://dx.doi.org/10.1016/j.electacta.2010.01.008
+  pdfLink: yes
+
+- type: journal
+  id: Yang
+  authors: Ying Yang, Chuan Zhang, Shuanglin Chen, Dane Morgan, Y. Austin Chang
+  title: First-principles calculation aided thermodynamic modeling of the Mo–Re system
+  journal: Intermetallics
+  volume: 18
+  issue:
+  year: 2010
+  pages: 574–581
+  link: http://dx.doi.org/10.1016/j.intermet.2009.10.012
+  pdfLink: yes
+
+- type: journal
+  id: Yang
+  authors: Ying Yang, H. Bei, Shuanglin Chen, E.P. George, Jaimie Tiley, Y. A. Chang
+  title: Effects of Ti, Zr, and Hf on the phase stability of Mo_ss + Mo3Si + Mo5SiB2 alloys at 1600C
+  journal: Acta Materialia
+  volume: 58
+  issue: 2
+  year: 2010
+  pages: 541–548
+  link: http://dx.doi.org/10.1016/j.actamat.2009.09.032
+  pdfLink: yes
 
 - type: journal
   id: Chen
@@ -296,7 +332,19 @@
   year: 2009
   pages: U05-42
   link: https://doi.org/10.1557/PROC-1128-U05-42
-  pdfLink:
+  pdfLink: yes
+  
+- type: journal
+  id: Wu
+  authors: Kaisheng Wu, Shuanglin Chen, Fan Zhang, and Y.A. Chang
+  title: Integrating CALPHAD into Phase Field Simulations for Practical Applications
+  journal: J. Phase Equilibria and Diff.
+  volume: 30
+  issue: 5
+  year: 2009
+  pages: 571–576
+  link: https://doi:10.1007/s11669-009-9567-1
+  pdfLink: yes
 
 - type: journal
   id: Chen
@@ -320,7 +368,7 @@
   year: 2008
   pages: 1210-1212
   link: https://doi.org/10.3139/146.101754
-  pdfLink:
+  pdfLink: yes
 
 - type: journal
   id: Oates
@@ -356,7 +404,7 @@
   year: 2007
   pages: 115-120
   link: https://doi.org/10.1007/s11669-006-9006-5
-  pdfLink: /assets/papers/2007/Development%20of%20Thermodynamic%20Description%20of%20a%20Pseudo-Ternary%20System%20for%20Multicomponent%20Ti64%20Alloy.pdf
+  pdfLink: yes
 
 - type: journal
   id: Chen
@@ -368,7 +416,19 @@
   year: 2007
   pages: 243-250
   link: https://doi.org/10.1016/j.actamat.2006.07.025
-  pdfLink: /assets/papers/2007/Calculation%20of%20Rose%20Diagrams.pdf
+  pdfLink: yes
+
+- type: journal
+  id: Yang
+  authors: Y. Yang, B.P. Bewlay, S.-L. Chen, Y.A. Chang
+  title: Application of phase diagram calculations to development of new ultra-high temperature structural materials
+  journal: Trans. Nonferrous Met. Soc. China
+  volume: 17
+  issue: 6
+  year: 2007
+  pages: 1396-1404
+  link: https://doi:10.1016/S1003-6326(07)60284-2
+  pdfLink:
 
 - type: journal
   id: Chen
@@ -444,7 +504,7 @@
 
 - type: journal
   id: Zhang
-  authors: Zhang, F, Xie, FY, Chen, SL, Chang, YA, Furrer, D, Venkatesh, V,
+  authors: F. Zhang, F.Y. Xie, S.L. Chen, Y. A. Chang, D. Furrer,V. Venkatesh
   title: Predictions of titanium alloy properties using thermodynamic modeling tools
   journal: Journal of Materials Engineering and Performance
   volume: 14
@@ -870,9 +930,9 @@
   volume: 3
   issue:
   year: 1995
-  pages: 233
+  pages: 233-242
   link: https://doi.org/10.1016/0966-9795(95)98934-Z
-  pdfLink:
+  pdfLink: yes
 
 - type: journal
   id: Kao
@@ -1052,7 +1112,7 @@
   year: 1989
   pages: 376-381
   link:
-  pdfLink:
+  pdfLink: yes
 
 - type: journal
   id: Chen
@@ -1112,7 +1172,7 @@
   year: 1988
   pages: B55-57
   link:
-  pdfLink:
+  pdfLink: yes
 
 - type: journal
   id: Chen
@@ -1124,7 +1184,7 @@
   year: 1988
   pages: B58-62
   link:
-  pdfLink:
+  pdfLink: yes
 
 - type: journal
   id: Chen
