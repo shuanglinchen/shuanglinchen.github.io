@@ -8,7 +8,7 @@
   year: 2017
   pages: 10-18
   link: https://doi.org/10.1016/j.calphad.2016.11.007
-  pdfLink:
+  pdfLink: yes
 
 - type: journal
   id: Chen
@@ -104,7 +104,7 @@
   year: 2014
   pages: 1-10
   link: https://doi.org/10.1016/j.calphad.2013.10.006
-  pdfLink:
+  pdfLink: yes
 
 - type: journal
   id: An
@@ -227,16 +227,16 @@
   pdfLink:
 
 - type: journal
-  id: Zhu
-  authors: J. Zhu, C. Zhang, W. Cao, Y. Yang, F. Zhang, S. Chen, and Y. A. Chang
-  title: Study of the Ni-rich multi-phase Equilibria in Ni-Al-Pt Alloys using the Cluster/site Approximation for the Face-centered Cubic Phases
+  id: Wen
+  authors: Y.H. Wen, J.V. Lill, S.L. Chen, J.P. Simmons
+  title: A ternary phase-field model incorporating commercial CALPHAD software and its application to precipitation in superalloys
   journal: Acta Materialia
   volume: 58
   issue: 1
   year: 2010
-  pages: 180-188
-  link: https://doi.org/10.1016/j.actamat.2009.08.068
-  pdfLink: /assets/papers/2010/Study%20of%20the%20Ni-rich%20multi-phase%20Equilibria%20in%20Ni-Al-Pt%20Alloys%20using%20the%20Cluster%2Fsite%20Approximation%20for%20the%20Face-centered%20Cubic%20Phases.pdf
+  pages: 875–885
+  link: https://doi.org/10.1016/j.actamat.2009.10.002
+  pdfLink:
 
 - type: journal
   id: Zhang
