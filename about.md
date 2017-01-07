@@ -44,6 +44,6 @@ Reading, stamp collecting, playing bridge, golfing
 
 ## Charity
 
-[Hometown Education Foundation 家乡教育基金会][HEF link]
+[Hometown Education Foundation by Prof. Tonghai Yang 杨同海教授的 家乡教育基金会][HEF link]
 
 [HEF link]: http://www.hometowneducation.org
