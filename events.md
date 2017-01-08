@@ -19,3 +19,4 @@ weight: 3
 [CUSE2017]: http://cuse2017.shu.edu.cn/Default.aspx
 
 - 材料热力学计算和动力学模拟 培训班 (Shanghai, June 28-29, 2017)
+A
