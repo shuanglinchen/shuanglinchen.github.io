@@ -4,8 +4,12 @@ title: Phase Diagram
 weight: 1
 ---
 
-Introduction to Database File: [Part 1][Part_1]
+-Index
+[Al-Mg] /assets/phasediagrams/AlMg.JPEG
+[Al-Zn] /assets/phasediagrams/AlZn.JPEG
+[Mg-Zn] /assets/phasediagrams/MgZn.JPEG
 
-[Part_1]: /assets/presentations/Introduction_to_Database_File_(tdb)_Part_1.pptx
-
-More on phase diagram calculation coming soon ...
+-Diagrams
+[Al-Mg] /assets/phasediagrams/AlMg.JPEG
+[Al-Zn] /assets/phasediagrams/AlZn.JPEG
+[Mg-Zn] /assets/phasediagrams/MgZn.JPEG
