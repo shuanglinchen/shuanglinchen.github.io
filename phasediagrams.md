@@ -6,14 +6,14 @@ weight: 1
 
 ## Index
 
-[Al-Mg](/assets/phasediagrams/AlMg.JPEG)
-[Al-Zn](/assets/phasediagrams/AlZn.JPEG)
-[Mg-Zn](/assets/phasediagrams/MgZn.JPEG)
+[Al-Mg](/assets/phasediagrams/AlMg.jpg)
+[Al-Zn](/assets/phasediagrams/AlZn.jpg)
+[Mg-Zn](/assets/phasediagrams/MgZn.jpg)
 
 ## Diagrams
 
-![Al-Mg](/assets/phasediagrams/AlMg.JPEG)
+![Al-Mg](/assets/phasediagrams/AlMg.jpg)
 
-![Al-Zn](/assets/phasediagrams/AlZn.JPEG)
+![Al-Zn](/assets/phasediagrams/AlZn.jpg)
 
-![Mg-Zn](/assets/phasediagrams/MgZn.JPEG)
+![Mg-Zn](/assets/phasediagrams/MgZn.jpg)
