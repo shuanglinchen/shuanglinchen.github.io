@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Pandat
-weight: 1
+weight: 2
 ---
 
 Learn more about Pandat at

@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Phase Diagram
-weight: 1
+title: Phase Diagrams
+weight: 3
 ---
 
 ## Index
