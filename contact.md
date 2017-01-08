@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contact
-weight: 2
+weight: 3
 ---
 
 [shuanglin.chen@hotmail.com](mailto:shuanglin.chen@hotmail.com)

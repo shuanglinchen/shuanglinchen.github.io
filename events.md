@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Events
-weight: 1
+weight: 2
 ---
 
 Upcoming
