@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Events
-weight: 5
+weight: 3
 ---
 
 - [TMS 2017][TMS2017] (San Diego, Feb. 26 - Mar. 2, 2017)
