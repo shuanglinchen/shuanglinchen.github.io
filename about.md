@@ -6,11 +6,11 @@ weight: 1
 
 ## Education
 
-- High School
+### High School
 
 * Huoshan High School, Anhui Province, China (安徽省霍山中学)
 
-- Colleges
+### Colleges
 
 + University of Science and Technology Beijing, China (北京科技大学)
 
