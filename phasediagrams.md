@@ -4,7 +4,60 @@ title: Phase Diagrams
 weight: 1
 ---
 
-## Index
+## Ag Binary Phase Diagrams
+
+[Ag-Al](/assets/PhaseDiagrams/Ag/Ag-Al.jpg)
+[Ag-Au](/assets/PhaseDiagrams/Ag/Ag-Au.jpg)
+[Ag-B](/assets/PhaseDiagrams/Ag/Ag-B.jpg)
+[Ag-Bi](/assets/PhaseDiagrams/Ag/Ag-Bi.jpg)
+[Ag-Ca](/assets/PhaseDiagrams/Ag/Ag-Ca.jpg)
+[Ag-Ce](/assets/PhaseDiagrams/Ag/Ag-Ce.jpg)
+[Ag-Co](/assets/PhaseDiagrams/Ag/Ag-Co.jpg)
+[Ag-Cr](/assets/PhaseDiagrams/Ag/Ag-Cr.jpg)
+[Ag-Cu](/assets/PhaseDiagrams/Ag/Ag-Cu.jpg)
+[Ag-Dy](/assets/PhaseDiagrams/Ag/Ag-Dy.jpg)
+[Ag-Er](/assets/PhaseDiagrams/Ag/Ag-Er.jpg)
+[Ag-Fe](/assets/PhaseDiagrams/Ag/Ag-Fe.jpg)
+[Ag-Ga](/assets/PhaseDiagrams/Ag/Ag-Ga.jpg)
+[Ag-Gd](/assets/PhaseDiagrams/Ag/Ag-Gd.jpg)
+[Ag-Ge](/assets/PhaseDiagrams/Ag/Ag-Ge.jpg)
+[Ag-Hf](/assets/PhaseDiagrams/Ag/Ag-Hf.jpg)
+[Ag-Hg](/assets/PhaseDiagrams/Ag/Ag-Hg.jpg)
+[Ag-Ho](/assets/PhaseDiagrams/Ag/Ag-Ho.jpg)
+[Ag-In](/assets/PhaseDiagrams/Ag/Ag-In.jpg)
+[Ag-Ir](/assets/PhaseDiagrams/Ag/Ag-Ir.jpg)
+[Ag-La](/assets/PhaseDiagrams/Ag/Ag-La.jpg)
+[Ag-Mg](/assets/PhaseDiagrams/Ag/Ag-Mg.jpg)
+[Ag-Mo](/assets/PhaseDiagrams/Ag/Ag-Mo.jpg)
+[Ag-Na](/assets/PhaseDiagrams/Ag/Ag-Na.jpg)
+[Ag-Nd](/assets/PhaseDiagrams/Ag/Ag-Nd.jpg)
+[Ag-Ni](/assets/PhaseDiagrams/Ag/Ag-Ni.jpg)
+[Ag-Os](/assets/PhaseDiagrams/Ag/Ag-Os.jpg)
+[Ag-Pb](/assets/PhaseDiagrams/Ag/Ag-Pb.jpg)
+[Ag-Pd](/assets/PhaseDiagrams/Ag/Ag-Pd.jpg)
+[Ag-Pr](/assets/PhaseDiagrams/Ag/Ag-Pr.jpg)
+[Ag-Pt](/assets/PhaseDiagrams/Ag/Ag-Pt.jpg)
+[Ag-Rh](/assets/PhaseDiagrams/Ag/Ag-Rh.jpg)
+[Ag-Ru](/assets/PhaseDiagrams/Ag/Ag-Ru.jpg)
+[Ag-Sb](/assets/PhaseDiagrams/Ag/Ag-Sb.jpg)
+[Ag-Sc](/assets/PhaseDiagrams/Ag/Ag-Sc.jpg)
+[Ag-Si](/assets/PhaseDiagrams/Ag/Ag-Si.jpg)
+[Ag-Sn](/assets/PhaseDiagrams/Ag/Ag-Sn.jpg)
+[Ag-Sr](/assets/PhaseDiagrams/Ag/Ag-Sr.jpg)
+[Ag-Tb](/assets/PhaseDiagrams/Ag/Ag-Tb.jpg)
+[Ag-Te](/assets/PhaseDiagrams/Ag/Ag-Te.jpg)
+[Ag-Ti](/assets/PhaseDiagrams/Ag/Ag-Ti.jpg)
+[Ag-V](/assets/PhaseDiagrams/Ag/Ag-V.jpg)
+[Ag-W](/assets/PhaseDiagrams/Ag/Ag-W.jpg)
+[Ag-Y](/assets/PhaseDiagrams/Ag/Ag-Y.jpg)
+[Ag-Yb](/assets/PhaseDiagrams/Ag/Ag-Yb.jpg)
+[Ag-Y](/assets/PhaseDiagrams/Ag/Ag-Y.jpg)
+[Ag-Yb](/assets/PhaseDiagrams/Ag/Ag-Yb.jpg)
+[Ag-Zn](/assets/PhaseDiagrams/Ag/Ag-Zn.jpg)
+[Ag-Zr](/assets/PhaseDiagrams/Ag/Ag-Zr.jpg)
+
+
+## Al Binary Phase Diagrams
 
 [Al-Ag](/assets/PhaseDiagrams/Al/Al-Ag.jpg)
 [Al-As](/assets/PhaseDiagrams/Al/Al-As.jpg)
@@ -60,12 +113,3 @@ weight: 1
 [Al-Yb](/assets/PhaseDiagrams/Al/Al-Yb.jpg)
 [Al-Zn](/assets/PhaseDiagrams/Al/Al-Zn.jpg)
 [Al-Zr](/assets/PhaseDiagrams/Al/Al-Zr.jpg)
-
-
-## Diagrams
-
-![Al-Ag](/assets/PhaseDiagrams/Al/Al-Ag.jpg)
-
-![Al-Zn](/assets/PhaseDiagrams/AlZn.jpg)
-
-![Mg-Zn](/assets/PhaseDiagrams/MgZn.jpg)
