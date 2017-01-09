@@ -12,9 +12,9 @@ weight: 1
 
 - Colleges
 
-* University of Science and Technology Beijing, China (北京科技大学)
++ University of Science and Technology Beijing, China (北京科技大学)
 
-* University of Wisconsin – Madison, Wisconsin, USA
++ University of Wisconsin – Madison, Wisconsin, USA
 
 
 ## Employment
