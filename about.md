@@ -8,13 +8,13 @@ weight: 1
 
 - High School
 
-		- Huoshan High School, Anhui Province, China (安徽省霍山中学)
+* Huoshan High School, Anhui Province, China (安徽省霍山中学)
 
 - Colleges
 
-		- University of Science and Technology Beijing, China (北京科技大学)
+* University of Science and Technology Beijing, China (北京科技大学)
 
-		- University of Wisconsin – Madison, Wisconsin, USA
+* University of Wisconsin – Madison, Wisconsin, USA
 
 
 ## Employment
