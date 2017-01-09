@@ -19,19 +19,19 @@ weight: 1
 
 ## Employment
 
-[CompuTherm, LLC](http://www.computherm.com), Middleton, Wisconsin, USA
++ [CompuTherm, LLC](http://www.computherm.com), Middleton, Wisconsin, USA
 
-Shanghai University, China
++ Shanghai University, China
 
 ## Research Interests
 
-Thermodynamics in materials science
++ Thermodynamics in materials science
 
-Multicomponent phase equilibrium and phase diagram calculation
++ Multicomponent phase equilibrium and phase diagram calculation
 
-Thermodynamic models of alloys
++ Thermodynamic models of alloys
 
-Algorithm design and software development
++ Algorithm design and software development
 
 ## Memberships
 
