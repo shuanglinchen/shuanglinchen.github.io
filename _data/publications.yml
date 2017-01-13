@@ -382,6 +382,18 @@
   pdfLink: yes
 
 - type: journal
+  id: Cui
+  authors: Xiao-Yang Cui, Qian Li, Kuo-Chih Chou, Shuang-Lin Chen, Gen-Wen Lin, Kuang-Di Xu
+  title: A comparative study on the hydriding kinetics of Zr-based AB2 hydrogen storage alloys
+  journal: Intermetallics
+  volume: 16
+  issue: 5
+  year: 2008
+  pages: 662-667
+  link: http://dx.doi.org/10.1016/j.intermet.2008.02.009
+  pdfLink: yes
+
+- type: journal
   id: Dai
   authors: Ting Dai, Mingfang Zhu, Shuanglin Chen, Weisheng Cao, Chunpyo Hong
   title: "Modeling of Dendritic Structure and Microsegregation in Solidification of Al-Rich Quaternary Alloys (in Chinese)"
