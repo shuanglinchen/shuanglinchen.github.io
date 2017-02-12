@@ -20,4 +20,4 @@ weight: 3
 
 - 材料热力学计算和动力学模拟 培训班 (Shanghai, June 28-29, 2017)
 
-- [IUMRS-ICA 2017] (Taipei, Taiwan, Nov. 5-10, 2017)
+- IUMRS-ICA 2017 (Taipei, Taiwan, Nov. 5-10, 2017)
