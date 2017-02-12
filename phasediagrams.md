@@ -115,3 +115,22 @@ weight: 1
 [Al-Yb](/assets/PhaseDiagrams/Al/Al-Yb.jpg)
 [Al-Zn](/assets/PhaseDiagrams/Al/Al-Zn.jpg)
 [Al-Zr](/assets/PhaseDiagrams/Al/Al-Zr.jpg)
+
+## Ni Binary Phase Diagrams
+
+[Al-Ag](/assets/PhaseDiagrams/Ni/Ni-Ag.jpg)
+[Al-Ag](/assets/PhaseDiagrams/Ni/Ni-Al.jpg)
+[Al-Ag](/assets/PhaseDiagrams/Ni/Ni-Au.jpg)
+[Al-Ag](/assets/PhaseDiagrams/Ni/Ni-B.jpg)
+[Al-Ag](/assets/PhaseDiagrams/Ni/Ni-Bi.jpg)
+[Al-Ag](/assets/PhaseDiagrams/Ni/Ni-C.jpg)
+[Al-Ag](/assets/PhaseDiagrams/Ni/Ni-Ca.jpg)
+[Al-Ag](/assets/PhaseDiagrams/Ni/Ni-Ce.jpg)
+[Al-Ag](/assets/PhaseDiagrams/Ni/Ni-Co.jpg)
+[Al-Ag](/assets/PhaseDiagrams/Ni/Ni-Cr.jpg)
+[Al-Ag](/assets/PhaseDiagrams/Ni/Ni-Cu.jpg)
+[Al-Ag](/assets/PhaseDiagrams/Ni/Ni-Dy.jpg)
+[Al-Ag](/assets/PhaseDiagrams/Ni/Ni-Fe.jpg)
+[Al-Ag](/assets/PhaseDiagrams/Ni/Ni-Gd.jpg)
+[Al-Ag](/assets/PhaseDiagrams/Ni/Ni-Ge.jpg)
+[Al-Ag](/assets/PhaseDiagrams/Ni/Ni-Hf.jpg)
