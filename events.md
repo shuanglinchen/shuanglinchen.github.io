@@ -4,10 +4,6 @@ title: Events
 weight: 3
 ---
 
-- [TMS 2017][TMS2017] (San Diego, Feb. 26 - Mar. 2, 2017)
-
-[TMS2017]: http://www.tms.org/meetings/annual-17/AM17home.aspx
-
 - [CALPHAD XLVI][CALPHAD2017] (Saint-Malo, France, June 11-16, 2017)
 
 [CALPHAD2017]: http://www.calphad.org/
