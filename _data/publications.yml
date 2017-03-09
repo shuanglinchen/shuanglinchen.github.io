@@ -47,25 +47,25 @@
   pdfLink: yes
 
 - type: journal
- id: Chen
- authors: S. Chen, W. Cao, F. Zhang, Q. Li, J. Zhang, C. Zhang, and J. Zhu
- title: Calculation of 2D and 3D Phase Diagram
- journal: JOM
- volume: 67
- issue: 8
- year: 2015
- pages: 1876-1880
- link: https://doi.org/10.1007/s11837-015-1490-9
- pdfLink: yes
+  id: Chen
+  authors: S. Chen, W. Cao, F. Zhang, Q. Li, J. Zhang, C. Zhang, and J. Zhu
+  title: Calculation of 2D and 3D Phase Diagram
+  journal: JOM
+  volume: 67
+  issue: 8
+  year: 2015
+  pages: 1876-1880
+  link: https://doi.org/10.1007/s11837-015-1490-9
+  pdfLink: yes
 
 - type: journal
- id: Zhu
- authors: J. Zhu, C. Zhang, W. Cao, S. Chen, F. Zhang, J. S. Park, and S. Yi
- title: Molar Volume Modeling of Ti-Al-Nb and Ti-Al-Mo Ternary Systems
- journal: JOM
+  id: Zhu
+  authors: J. Zhu, C. Zhang, W. Cao, S. Chen, F. Zhang, J. S. Park, and S. Yi
+  title: Molar Volume Modeling of Ti-Al-Nb and Ti-Al-Mo Ternary Systems
+  journal: JOM
  volume: 67
- issue: 8
- year: 2015
- pages: 1881-1885
- link: https://doi.org/10.1007/s11837-015-1493-6
- pdfLink: yes
+  issue: 8
+  year: 2015
+  pages: 1881-1885
+  link: https://doi.org/10.1007/s11837-015-1493-6
+  pdfLink: yes
