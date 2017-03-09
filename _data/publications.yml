@@ -165,3 +165,15 @@
   pages: 839-845
   link: https://doi.org/10.1007/s11837-012-0365-6
   pdfLink: yes
+
+- type: journal
+  id: An
+  authors: Xuehui An, Qian Li, Jieyu Zhang, Shuanglin Chen, Ying Yang
+  title: "Phase equilibria of the La–Ni–Cu ternary system at 673 K: Thermodynamic modeling and experimental validation"
+  journal: CALPHAD
+  volume: 36
+  issue:
+  year: 2012
+  pages: 8–15
+  link: https://doi.org/10.1016/j.calphad.2011.10.004
+  pdfLink: yes
