@@ -237,39 +237,3 @@
   pages: 875–885
   link: https://doi.org/10.1016/j.actamat.2009.10.002
   pdfLink: yes
-
-- type: journal
-  id: Zhang
-  authors: F. Zhang, Y. Yang, W.S. Cao, S.L. Chen, K.S. Wu and Y.A. Chang
-  title: Commercial Alloy Phase Diagrams and Their Industrial Applications
-  journal: ASM Handbook on Metals Process Simulation, Edited by D.U. Furrer and S.L. Semiatin
-  volume: 22B
-  issue:
-  year: 2010
-  pages: 117-131
-  link:
-  pdfLink:
-
-- type: journal
-  id: Zhao
-  authors: Bingjian Zhao, Xionggang Lu, Qingdong Zhong, Chonghe Li, Shuanglin Chen
-  title: Direct electrochemical preparation of CeNi5 and LaxCe1−xNi5 alloys from mixed oxides by SOM process
-  journal: Electrochimica Acta
-  volume: 55
-  issue:
-  year: 2010
-  pages: 2996–3001
-  link: http://dx.doi.org/10.1016/j.electacta.2010.01.008
-  pdfLink: yes
-
-- type: journal
-  id: Yang
-  authors: Ying Yang, Chuan Zhang, Shuanglin Chen, Dane Morgan, Y. Austin Chang
-  title: First-principles calculation aided thermodynamic modeling of the Mo–Re system
-  journal: Intermetallics
-  volume: 18
-  issue:
-  year: 2010
-  pages: 574–581
-  link: http://dx.doi.org/10.1016/j.intermet.2009.10.012
-  pdfLink: yes
