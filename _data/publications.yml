@@ -141,3 +141,15 @@
   pages: 123-129
   link: https://doi.org/10.1007/s40436-013-0021-6
   pdfLink: yes
+
+- type: journal
+  id: Zhang
+  authors: F. Zhang, W. Cao, S.L. Chen, C. Zhang, and J. Zhu
+  title: The Role of the CALPHAD Approach in ICME
+  journal: Proceedings of the 2nd World Congress on Integrated Computational Materials Engineering (ICME), Edited by M. Li, C. Campbell, K. Thornton, E. Holm, and P. Gumbsch, TMS
+  volume:
+  issue:
+  year: 2013
+  pages: 195-200
+  link: https://doi.org/10.1002/9781118767061.ch31
+  pdfLink:
