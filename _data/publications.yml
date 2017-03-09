@@ -33,3 +33,63 @@
   pages: 78-90
   link: https://doi.org/10.1016/j.matdes.2016.03.144
   pdfLink: yes
+
+- type: journal
+  id: Luo
+  authors: "Qun Luo, Kuochih Chou, Shuanglin Chen, Qian Li, Jieyui Zhang"
+  title: "Material Design of Mg-Ni-RE(La,Nd,Ce,Y)-H System Based on Thermodynamics and Kinetics Calculation (in Chinese)"
+  journal: Materials China
+  volume: 35
+  issue: 1
+  year: 2016
+  pages: 49-56
+  link:
+  pdfLink: yes
+
+- type: journal
+  id: Chen
+  authors: S. Chen, W. Cao, F. Zhang, Q. Li, J. Zhang, C. Zhang, and J. Zhu
+  title: Calculation of 2D and 3D Phase Diagram
+  journal: JOM
+  volume: 67
+  issue: 8
+  year: 2015
+  pages: 1876-1880
+  link: https://doi.org/10.1007/s11837-015-1490-9
+  pdfLink: yes
+
+- type: journal
+  id: Zhu
+  authors: J. Zhu, C. Zhang, W. Cao, S. Chen, F. Zhang, J. S. Park, and S. Yi
+  title: Molar Volume Modeling of Ti-Al-Nb and Ti-Al-Mo Ternary Systems
+  journal: JOM
+  volume: 67
+  issue: 8
+  year: 2015
+  pages: 1881-1885
+  link: https://doi.org/10.1007/s11837-015-1493-6
+  pdfLink: yes
+
+- type: journal
+  id: Dai
+  authors: Ting Dai, Mingfang Zhu, Shuanglin Chen and Weisheng Cao
+  title: Modeling of Dendritic Structure and Microsegregation in Solidification of Al-Rich Quaternary Alloys
+  journal: "Advances in the Science and Engineering of Casting Solidification: An MPMD Symposium Honoring Doru Michael Stefanescu"
+  volume: "eds L. Nastac, B. Liu, H. Fredriksson, J. Lacaze, C.-P. Hong, A. V. Catalina, A. Buhrig-Polaczek, C. Monroe, A. S. Sabau, R. E. L. Ruxanda, A. Luo, S. Sen and A. Diószegi, John Wiley & Sons, Inc., Hoboken, NJ, USA"
+  issue:
+  year: 2015
+  pages:
+  link: https://doi.org/10.1002/9781119093367.ch24
+  pdfLink:
+
+- type: journal
+  id: Chai
+  authors: X. Chai, J. C. Bundy, M. A. Amata, C. Zhang, F. Zhang, S. Chen, S. S. Babu, and S. Kou
+  title: Creep Rupture Performance of Welds of P91 Pipe Steel
+  journal: Welding Journal
+  volume: 94
+  issue: 5
+  year: 2015
+  pages: 145s-157s
+  link: https://www.researchgate.net/publication/292489336_Creep_Rupture_Performance_of_Welds_of_P91_Pipe_Steel
+  pdfLink: yes
