@@ -201,39 +201,3 @@
   pages: 6246-6256
   link: https://doi.org/10.1016/j.actamat.2011.06.034
   pdfLink: yes
-
-- type: journal
-  id: Li
-  authors: Qian Li, Xu Zhang, Xue-Hui An, Shuang-Lin Chen, Jie-Yu Zhang
-  title: Experimental investigation and thermodynamic modeling of the phase equilibria at the Mg–Ni side in the La–Mg–Ni ternary system
-  journal: J. Alloys and Compounds
-  volume: 509
-  issue: 5
-  year: 2011
-  pages: 2478–2486
-  link: https://doi.org/10.1016/j.jallcom.2010.11.057
-  pdfLink:
-
-- type: journal
-  id: Li
-  authors: Qian Li, Yang-Zi Zhao, Qun Luo, Shuang-Lin Chen, Jie-Yu Zhang, Kuo-Chih Chou
-  title: Experimental study and phase diagram calculation in Al–Zn–Mg–Si quaternary system
-  journal: J. Alloys and Compounds
-  volume: 501
-  issue: 2
-  year: 2010
-  pages: 282–290
-  link: https://doi.org/10.1016/j.jallcom.2010.04.089
-  pdfLink:
-
-- type: journal
-  id: Wen
-  authors: Y.H. Wen, J.V. Lill, S.L. Chen, J.P. Simmons
-  title: A ternary phase-field model incorporating commercial CALPHAD software and its application to precipitation in superalloys
-  journal: Acta Materialia
-  volume: 58
-  issue: 1
-  year: 2010
-  pages: 875–885
-  link: https://doi.org/10.1016/j.actamat.2009.10.002
-  pdfLink: yes
