@@ -153,3 +153,15 @@
   pages: 195-200
   link: https://doi.org/10.1002/9781118767061.ch31
   pdfLink:
+
+- type: journal
+  id: Zhang
+  authors: C. Zhang, F. Zhang, S. L. Chen, W. S. Cao
+  title: Computational Thermodynamics Aided High-Entropy Alloy Design
+  journal: JOM
+  volume: 64
+  issue: 7
+  year: 2012
+  pages: 839-845
+  link: https://doi.org/10.1007/s11837-012-0365-6
+  pdfLink: yes
