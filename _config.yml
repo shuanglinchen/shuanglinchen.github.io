@@ -10,9 +10,6 @@ baseurl:          /
 header:           "http:"
 author:
   name:           Shuanglin Chen
-
-gems:
-  - jekyll-sitemap
-
+  
 sass:
   style: :compressed
