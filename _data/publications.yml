@@ -12,7 +12,7 @@
 
 - type: journal
   id: Chen
-  authors: "Shuanglin Chen, Weisheng Cao, Chuan Zhang, Jun Zhu, Fan Zhang, Qian Li, Jieyu Zhang"
+  authors: Shuanglin Chen, Weisheng Cao, Chuan Zhang, Jun Zhu, Fan Zhang, Qian Li, Jieyu Zhang
   title: Calculation of property contour diagrams
   journal: CALPHAD
   volume: 55
@@ -74,7 +74,7 @@
   id: Dai
   authors: Ting Dai, Mingfang Zhu, Shuanglin Chen and Weisheng Cao
   title: Modeling of Dendritic Structure and Microsegregation in Solidification of Al-Rich Quaternary Alloys
-  journal: "Advances in the Science and Engineering of Casting Solidification: An MPMD Symposium Honoring Doru Michael Stefanescu"
+  journal: "Advances in the Science and Engineering of Casting Solidification&#58; An MPMD Symposium Honoring Doru Michael Stefanescu"
   volume: "eds L. Nastac, B. Liu, H. Fredriksson, J. Lacaze, C.-P. Hong, A. V. Catalina, A. Buhrig-Polaczek, C. Monroe, A. S. Sabau, R. E. L. Ruxanda, A. Luo, S. Sen and A. Diószegi, John Wiley & Sons, Inc., Hoboken, NJ, USA"
   issue:
   year: 2015
@@ -565,7 +565,7 @@
 - type: journal
   id: Chang
   authors: Y. A. Chang, S.-L. Chen, F. Zhang, X.-Y. Yan, F.-Y. Xie, R. Schmid-Fetzer and W. A. Oates
-  title: "Phase Diagram Calculation: Past, Present and Future"
+  title: "Phase Diagram Calculation&#58; Past, Present and Future"
   journal: Progress in Materials Science
   volume: 49
   issue: 3-4
@@ -650,7 +650,7 @@
   id: Chang
   authors: Y. A. Chang, S.-L. Chen, F. Zhang and W. A. Oates
   title: Improving Multicomponent Phase Diagram Calculations
-  journal: "CALPHAD and Alloy Thermodynamics (Eds.: P. E. A. Turch, A. Gonis and R. D. Shull) TMS, Warrendale, PA"
+  journal: "CALPHAD and Alloy Thermodynamics (Eds.&#58; P. E. A. Turch, A. Gonis and R. D. Shull) TMS, Warrendale, PA"
   volume:
   issue:
   year: 2002
@@ -746,7 +746,7 @@
   id: Yan
   authors: X.Y. Yan, L. Ding, S.-L. Chen, F.-Y. Xie, M. Chu and Y. A. Chang
   title: Predicting Microstructure and Microsegregation in Multicomponent Aluminum Alloys
-  journal: "in Light Metals 2001, (Editor: J. L. Anjier) TMS, Warrendale, PA"
+  journal: "in Light Metals 2001, (Editor&#58; J. L. Anjier) TMS, Warrendale, PA"
   volume:
   issue:
   year: 2001
@@ -794,7 +794,7 @@
   id: Kraft
   authors: T. Kraft, S.-L. Chen and Y. A. Chang
   title: Prediction of Microsegregation in Castings using Calculated Phase diagrams
-  journal: "in Proceedings of the Fifth Asian Foundry Congress, (Eds.: G. Sun, H.-Y Yuan, R.-B. Yao and X.-Y. Yan) Southeast University Press, Nanjing, P. R. China"
+  journal: "in Proceedings of the Fifth Asian Foundry Congress, (Eds.&#58; G. Sun, H.-Y Yuan, R.-B. Yao and X.-Y. Yan) Southeast University Press, Nanjing, P. R. China"
   volume:
   issue:
   year: 1997
@@ -806,7 +806,7 @@
   id: Chang
   authors: Y. A. Chang, F.-Y. Shiau, S.-L. Chen and S. Mohney
   title: Thermodynamic Considerations in the Rationalization of Solid-State Amorphization Between Metals and III_V Semiconductors
-  journal: "in Thermodynamics of Alloy Formation (Eds: Y. A. Chang and F. Sommer), TMS, Warrendale, PA"
+  journal: "in Thermodynamics of Alloy Formation (Eds&#58; Y. A. Chang and F. Sommer), TMS, Warrendale, PA"
   volume:
   issue:
   year: 1997
@@ -818,7 +818,7 @@
   id: Chang
   authors: Y. A. Chang and S.-L. Chen
   title: Thermodynamics of Metallic Solutions
-  journal: "in Advanced Physical Chemistry in Process Metallurgy (Eds.: N. Sano, W-K Lu and P. V. Riboud), Academic Press Ltd., London, U. K."
+  journal: "in Advanced Physical Chemistry in Process Metallurgy (Eds.&#58; N. Sano, W-K Lu and P. V. Riboud), Academic Press Ltd., London, U. K."
   volume:
   issue:
   year: 1997
@@ -866,7 +866,7 @@
   id: Zhang
   authors: F. Zhang, S.-L. Chen and Y. A. Chang
   title: A Thermodynamic Description of the Ti-Al-V System
-  journal: "in Proceedings of the International Conference on Modeling and simulation in Metallurgical Engineering and Materials Science, (Editors: Zongsen Yu, Zeqiang Xiao and Xishan Xie), Metallurgical Industry Press, Beijing, PRC"
+  journal: "in Proceedings of the International Conference on Modeling and simulation in Metallurgical Engineering and Materials Science, (Editors&#58; Zongsen Yu, Zeqiang Xiao and Xishan Xie), Metallurgical Industry Press, Beijing, PRC"
   volume:
   issue:
   year: 1996
@@ -878,7 +878,7 @@
   id: Chang
   authors: Y. A. Chang, S.-L. Chen, Y. Zuo, F. Zhang, S. L. Daniel, C.-H. Moon, H. Liang, F.-Y. Xie, W. Huang, Z.K. Liu and K.C. Chou
   title: "Phase Diagram Calculation: A Critical Tool For Alloy and Processing Design"
-  journal: "in Proceedings of the International Conference on Modeling and simulation in Metallurgical Engineering and Materials Science, (Editors: Zongsen Yu, Zeqiang Xiao and Xishan Xie), Metallurgical Industry Press, Beijing, PRC"
+  journal: "in Proceedings of the International Conference on Modeling and simulation in Metallurgical Engineering and Materials Science, (Editors&#58; Zongsen Yu, Zeqiang Xiao and Xishan Xie), Metallurgical Industry Press, Beijing, PRC"
   volume:
   issue:
   year: 1996
@@ -890,7 +890,7 @@
   id: Pike
   authors: L. M. Pike, C. R. Kao, S.-L. Chen and Y. A. Chang
   title: On the Site Preferences of Ternary Additions to Triple Defect B2 Intermetallic Compounds
-  journal: "in Design Fundamentals of High Temperature Composites, Intermetallics and Metal-Ceramic Systems (Ed: R. Y. Lin, Y. A. Chang, R. G. Reddy and C. T. Liu) The Mineral, Metals and Materials Society, Warrendale, PA"
+  journal: "in Design Fundamentals of High Temperature Composites, Intermetallics and Metal-Ceramic Systems (Ed&#58; R. Y. Lin, Y. A. Chang, R. G. Reddy and C. T. Liu) The Mineral, Metals and Materials Society, Warrendale, PA"
   volume:
   issue:
   year: 1996
@@ -902,7 +902,7 @@
   id: Zhang
   authors: F. Zhang, S.-L. Chen, Y. A. Chang and U. R. Kattner
   title: Thermodynamic Stability and Point Defects of {gamma}-TiAl and the Phase Relationships of Ti-Al
-  journal: "in Gamma Titanium Aluminides (Eds.: Y.-W. Kim, R. Wagner and M. Yamaguchi) The Mineral, Metals and Materials Society, Warrendale, PA"
+  journal: "in Gamma Titanium Aluminides (Eds.&#58; Y.-W. Kim, R. Wagner and M. Yamaguchi) The Mineral, Metals and Materials Society, Warrendale, PA"
   volume:
   issue:
   year: 1995
@@ -914,7 +914,7 @@
   id: Chen
   authors: S.-L. Chen and Y. A. Chang
   title: On the Calculation of Multi-Component Stability Diagrams
-  journal: "in Applications of Thermodynamics in the Synthesis and Processing of Materials (Eds.: P. Nash and B. Sundman) The Minerals, Metals and Materials Society, Warrendale, PA"
+  journal: "in Applications of Thermodynamics in the Synthesis and Processing of Materials (Eds.&#58; P. Nash and B. Sundman) The Minerals, Metals and Materials Society, Warrendale, PA"
   volume:
   issue:
   year: 1995
@@ -926,7 +926,7 @@
   id: Bolcavage
   authors: A. Bolcavage, C. R. Kao, S.-L. Chen and Y. A. Chang
   title: Thermodynamic Calculation of Phase Stability Between Copper and Lead-Indium Solder
-  journal: "in Applications of Thermodynamics in the Synthesis and Processing of Materials (Eds.: P. Nash and B. Sundman) The Minerals, Metals and Materials Society, Warrendale, PA"
+  journal: "in Applications of Thermodynamics in the Synthesis and Processing of Materials (Eds.&#58; P. Nash and B. Sundman) The Minerals, Metals and Materials Society, Warrendale, PA"
   volume:
   issue:
   year: 1995
@@ -985,7 +985,7 @@
 - type: journal
   id: Kao
   authors: C. R. Kao, A. Bolcavage, Shuang-Lin Chen, Y. A. Chang and A. D. Romig, Jr.
-  title: "Phase Equilibria of the Cu-In System, II: Thermodynamic Assessment and Calculation of Phase Diagram"
+  title: "Phase Equilibria of the Cu-In System, II&#58; Thermodynamic Assessment and Calculation of Phase Diagram"
   journal: J. Phase Equilibria
   volume: 14
   issue: 1
