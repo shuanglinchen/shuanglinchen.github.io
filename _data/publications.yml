@@ -93,3 +93,39 @@
   pages: 145s-157s
   link: https://www.researchgate.net/publication/292489336_Creep_Rupture_Performance_of_Welds_of_P91_Pipe_Steel
   pdfLink: yes
+
+- type: journal
+  id: Zhang
+  authors: F. Zhang, C. Zhang, S.L. Chen, J. Zhu, W.S. Cao, and U.R. Kattner
+  title: An understanding of high entropy alloys from phase diagram calculations
+  journal: CALPHAD
+  volume: 45
+  issue: 8
+  year: 2014
+  pages: 1-10
+  link: https://doi.org/10.1016/j.calphad.2013.10.006
+  pdfLink: yes
+
+- type: journal
+  id: An
+  authors: X.H. An, Q.F. Gu, J.Y. Zhang, S.L. Chen, X.B. Yu, Q. Li
+  title: Experimental investigation and thermodynamic reassessment of La–Ni and LaNi5–H systems
+  journal: CALPHAD
+  volume: 40
+  issue:
+  year: 2013
+  pages: 48–55
+  link: https://doi.org/10.1016/j.calphad.2012.12.002
+  pdfLink:
+
+- type: journal
+  id: Luo
+  authors: Qun Luo, Qian Li, Jie-Yu Zhang, Shuang-Lin Chen, Kuo-Chih Chou
+  title: Experimental investigation and thermodynamic optimization of the Al-Zn-Ti system in the Al-rich corner
+  journal: Intermetallics
+  volume: 33
+  issue:
+  year: 2013
+  pages: 73-80
+  link: https://doi.org/10.1016/j.intermet.2012.09.027
+  pdfLink: yes
