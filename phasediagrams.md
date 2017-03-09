@@ -3,8 +3,8 @@ layout: page
 title: Phase Diagrams
 weight: 1
 ---
-### All the phase diagrams were calculated by [Pandat](http://www.computherm.com/).
 
+### All the phase diagrams were calculated by [Pandat](http://www.computherm.com/).
 
 ## Ag Binary Phase Diagrams
 
@@ -57,7 +57,6 @@ weight: 1
 [Ag-Yb](/assets/PhaseDiagrams/Ag/Ag-Yb.jpg)
 [Ag-Zn](/assets/PhaseDiagrams/Ag/Ag-Zn.jpg)
 [Ag-Zr](/assets/PhaseDiagrams/Ag/Ag-Zr.jpg)
-
 
 ## Al Binary Phase Diagrams
 
