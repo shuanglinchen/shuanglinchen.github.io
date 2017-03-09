@@ -239,7 +239,7 @@
   pdfLink: yes
 
 - type: journal
-id: Zhang
+  id: Zhang
   authors: F. Zhang, Y. Yang, W.S. Cao, S.L. Chen, K.S. Wu and Y.A. Chang
   title: Commercial Alloy Phase Diagrams and Their Industrial Applications
   journal: ASM Handbook on Metals Process Simulation, Edited by D.U. Furrer and S.L. Semiatin
