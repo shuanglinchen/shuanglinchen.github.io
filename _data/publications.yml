@@ -1,28 +1,4 @@
 ﻿- type: journal
-  id: Xu
-  authors: C. Xu, C. Li, S. Chen, C. Guo, Z. Du, Y. Yuan
-  title: Thermodynamic descriptions of the Sb/Ge unary systems
-  journal: CALPHAD
-  volume: 56
-  issue:
-  year: 2017
-  pages: 10-18
-  link: https://doi.org/10.1016/j.calphad.2016.11.007
-  pdfLink: yes
-
-- type: journal
-  id: Chen
-  authors: "Shuanglin Chen, Weisheng Cao, Chuan Zhang, Jun Zhu, Fan Zhang, Qian Li, Jieyu Zhang"
-  title: Calculation of property contour diagrams
-  journal: CALPHAD
-  volume: 55
-  issue: Part 1
-  year: 2016
-  pages: 63-68
-  link: https://doi.org/10.1016/j.calphad.2016.05.004
-  pdfLink:
-
-- type: journal
   id: Li
   authors: Yang Li, Qin-Fen Gu, Qun Luo, Yuepeng Pang, Shuang-Lin Chen, Kuo-Chih Chou, Xun-Li Wang, Qian Li
   title: Thermodynamic investigation on phase formation in the Al–Si rich region of Al–Si–Ti system
