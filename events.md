@@ -16,4 +16,7 @@ weight: 3
 
 - 材料热力学计算和动力学模拟 培训班 (Shanghai, June 28-29, 2017)
 
+- [MS&T 2017][MST_2017] (Pittsburgh, PA, Oct. 8-12, 2017)
+[MST_2017]: http://www.matscitech.org/
+
 - IUMRS-ICA 2017 (Taipei, Taiwan, Nov. 5-10, 2017)
