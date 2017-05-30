@@ -10,7 +10,7 @@
   link: https://link.springer.com/article/10.1007/s11669-017-0547-6
   pdfLink: yes
 
-  - type: journal
+- type: journal
   id: Morral
   authors: J. E. Morral, S.-L. Chen
   title: High Entropy Alloys, Miscibility Gaps and the Rose Geometry
