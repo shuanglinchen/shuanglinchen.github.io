@@ -1,4 +1,16 @@
 - type: journal
+  id: Morral
+  authors: J. E. Morral, S.-L. Chen
+  title: High Entropy Alloys, Miscibility Gaps and the Rose Geometry
+  journal: J. Phase Equilib. Diffus.
+  volume: 38
+  issue: 3
+  year: 2017
+  pages: 319-331
+  link: https://link.springer.com/article/10.1007/s11669-017-0547-6
+  pdfLink: yes
+
+- type: journal
   id: Xu
   authors: C. Xu, C. Li, S. Chen, C. Guo, Z. Du, Y. Yuan
   title: Thermodynamic descriptions of the Sb/Ge unary systems
