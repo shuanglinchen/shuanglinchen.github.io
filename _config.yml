@@ -6,10 +6,10 @@ title:            Shuanglin Chen
 title-chinese:    陈双林
 url:              //shuanglinchen.com
 paginate:         5
-baseurl:          /
+baseurl:          
 header:           "http:"
 author:
   name:           Shuanglin Chen
-  
+
 sass:
   style: :compressed

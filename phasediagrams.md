@@ -8,7 +8,7 @@ weight: 1
 
 ## Ag Binary Phase Diagrams
 
-[Ag-Al](assets/PhaseDiagrams/Ag/Ag-Al.jpg)
+[Ag-Al](/assets/PhaseDiagrams/Ag/Ag-Al.jpg)
 [Ag-Au](/assets/PhaseDiagrams/Ag/Ag-Au.jpg)
 [Ag-B](/assets/PhaseDiagrams/Ag/Ag-B.jpg)
 [Ag-Bi](/assets/PhaseDiagrams/Ag/Ag-Bi.jpg)
