@@ -1,4 +1,16 @@
 - type: journal
+  id: Morral_2
+  authors: J. E. Morral, S.-L. Chen
+  title: A regular solution model for a single-phase high entropy and enthalpy alloy
+  journal: J. Phase Equilib. Diffus.
+  volume: 38
+  issue:  
+  year: 2017
+  pages:  
+  link:
+  pdfLink: no
+
+- type: journal
   id: Yang
   authors: Y. Yang, S.-L. Chen
   title: Thermodynamic and kinetic modeling of grain boundary equilibrium segregation of P in α-Fe
@@ -11,7 +23,7 @@
   pdfLink: yes
 
 - type: journal
-  id: Morral
+  id: Morral_1
   authors: J. E. Morral, S.-L. Chen
   title: High Entropy Alloys, Miscibility Gaps and the Rose Geometry
   journal: J. Phase Equilib. Diffus.
