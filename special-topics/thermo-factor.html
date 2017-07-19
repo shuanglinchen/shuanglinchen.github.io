@@ -4,38 +4,7 @@ title: Thermodynamic Factor
 weight: 0
 ---
 
-Let \(w_{ij} = w_{ji}\) and \(w_{ii} =0\).
-
-\begin{equation}
-G = RT \sum_{i=1}^{n} x_i \ln x_i +\frac{1}{2} \sum_{i=1}^{n} \sum_{j=1}^{n} w_{ij}x_i x_j
-\end{equation}
-
-\begin{align}
-\frac{\partial G}{\partial x_k} &= RT(\ln x_k+1) + \frac{1}{2} \sum_{j=1}^{n} w_{kj}x_j +\frac{1}{2} \sum_{i=1}^{n} w_{ik}x_i \nonumber \\
-&=RT(\ln x_k+1) +\sum_{i=1}^{n} w_{ik}x_i \quad \quad \quad \quad (k=1,\cdots,n)
-\end{align}
-
-Chemical potential of the component \(k\) is
-
-\begin{align}
-\mu_k =& G-\sum_{j=1}^{n} x_j \frac{\partial G}{\partial x_j} +\frac{\partial G}{\partial x_k} \nonumber \\
-=&RT \sum_{i=1}^{n} x_i \ln x_i +\frac{1}{2} \sum_{i=1}^{n} \sum_{j=1}^{n} w_{ij}x_i x_j-\sum_{j=1}^{n} x_j[RT (\ln x_j+1)+\sum_{i=1}^{n} w_{ij}x_i] \nonumber \\
-&+RT (\ln x_j+1)+\sum_{i=1}^{n} w_{ik}x_i \nonumber \\
-=&RT \ln x_k -\frac{1}{2} \sum_{i=1}^{n} \sum_{j=1}^{n} w_{ij}x_i x_j+\sum_{i=1}^{n} w_{ik}x_i \quad \quad \quad \quad (k=1,\cdots,n) \label {A4}
-\end{align}
-
-Let \(w_{ij}=m_{ij}RT_{C}\). Then, Eq.\eqref{A4} could be written as
-
-\begin{align}
-\mu_k &=RT \ln x_k -\frac{1}{2} \sum_{i=1}^{n} \sum_{j=1}^{n} m_{ij}RT_{C}x_i x_j+\sum_{i=1}^{n} m_{ik}RT_{C}x_i \nonumber\\
-&=RT_{C}\left[\tau \ln x_k -\frac{1}{2} \sum_{i=1}^{n} \sum_{j=1}^{n} m_{ij}x_i x_j+\sum_{i=1}^{n} m_{ik}x_i \right] \quad \quad \quad \quad (k=1,\cdots,n)
-\end{align}
-
-where \(\tau = \frac{T}{T_C}\) is the reduced temperature. As long as every \(m_{ij}\) is not a function of \(T\), all the phase diagrams should be identical for the same given value of the reduced temperature, \(\tau\). This statement is also true even if the interaction parameter \(w_{ij}\) is a function of composition, e.g. a subregular solution model.
-
-
-
-\section*{The First Order Derivative of Gibbs Energy w.r.t Molar Fraction}
+- The First Order Derivative of Gibbs Energy w.r.t Molar Fraction
 
 
 Let \(G\) be the molar Gibbs energy of a \(c\)-component phase and \(\mu _k\) the chemical potential of component \(k\).
@@ -69,7 +38,6 @@ The chemical potential of the component \(k\), \(\mu _k\), is now calculated by 
 
 Please note that \(\displaystyle \frac{\partial G}{\partial x_k}\) in Eq.\eqref{A5} and Eq.\eqref{A6} is different from that in Eq.\eqref{A2}.
 
-\vspace{0.5cm}
 
 Therefore, the first order derivative of \(G\) w.r.t molar fraction, \(x_j\), is given by
 \begin{align}
@@ -77,7 +45,7 @@ Therefore, the first order derivative of \(G\) w.r.t molar fraction, \(x_j\), is
 \end{align}
 
 
-\section*{Thermodynamic Factor}
+- Thermodynamic Factor
 
 Assume the Gibbs energy is a function of \(c-1\) independent composition variables,
 
