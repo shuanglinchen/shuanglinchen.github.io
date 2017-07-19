@@ -6,10 +6,7 @@ weight: 0
 
 Let \(w_{ij} =w_{ji}\) and \(w_{ii} =0\).
 
-\[
-G = RT \sum_{i=1}^{n} x_i \ln x_i +\frac{1}{2} \sum_{i=1}^{n} \sum_{j=1}^{n} w_{ij}x_i x_j
-\]
-
+$$G = RT \sum_{i=1}^{n} x_i \ln x_i +\frac{1}{2} \sum_{i=1}^{n} \sum_{j=1}^{n} w_{ij}x_i x_j$$
 
 \begin{empheq}  {align}
 \frac{\partial G}{\partial x_k} &= RT(\ln x_k+1) +\frac{1}{2} \sum_{j=1}^{n} w_{kj}x_j +\frac{1}{2} \sum_{i=1}^{n} w_{ik}x_i \nonumber \\
