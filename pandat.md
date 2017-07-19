@@ -13,3 +13,5 @@ Learn more about Pandat at
 ### Special Topics
 
 - [Regular Solution](http://shuanglinchen.com/special-topics/regular-solution)
+
+- [Thermodynamic Factors](http://shuanglinchen.com/special-topics/thermo-factor)
