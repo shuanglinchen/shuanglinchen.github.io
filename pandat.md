@@ -11,4 +11,5 @@ Learn more about Pandat at
   [www.computherm.cn](http://www.computherm.cn/)
 
 ### Special Topics
+
 - [Regular Solution](http://shuanglinchen.com/special-topics/regular-solution)
