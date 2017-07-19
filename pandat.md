@@ -13,5 +13,5 @@ Learn more about Pandat at
 [computherm.com]: http://www.computherm.com/
 [computherm.cn]: http://www.computherm.cn/
 
-## Special Topics
+### Special Topics
 - Gibbs Free Energy
