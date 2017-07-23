@@ -19,7 +19,7 @@ weight: 0
 
 -  Frederick N. Rhines, [Phase Diagrams in Metallurgy-Their Development and Application] [RHI56], McGraw-Hill (1956) 
 
-[RHI56]: https://www.amazon.com/Phase-Diagrams-Metallurgy-Development-Application/dp/B0000EGN1G/ref=sr_1_18?s=books&ie=UTF8&qid=1328200270&sr=1-18
+[RHI56]: https://www.amazon.com/Phase-Diagrams-Metallurgy-Development-Application/dp/0070520704/ref=sr_1_2?s=books&ie=UTF8&qid=1500570487&sr=1-2
 
 -  H.A.J. Oonk and M.T. Calvet , [Equilibrium Between Phases of Matter: Phenomenology and Thermodynamics] [OON08], Springer, 1st ed. 2008 edition. 
 
@@ -37,7 +37,7 @@ weight: 0
 
 [KAU70]: https://www.amazon.com/Computer-Calculation-Phase-Diagrams-Refractory/dp/012402050X/ref=sr_1_1?s=books&ie=UTF8&qid=1345091421&sr=1-1
 
--  L.S. Palatnik And A.I. Landau, [Phase Equilibria in Multicomponent Systems] [PAL64], Holt, Rinehart and Winston; First American Edition edition (1964) 
+-  L.S. Palatnik and A.I. Landau, [Phase Equilibria in Multicomponent Systems] [PAL64], Holt, Rinehart and Winston; First American Edition edition (1964) 
 
 [PAL64]: https://www.amazon.com/Equilibria-Multicomponent-Systems-Landau-Palatnik/dp/B003PXTPMI/ref=sr_1_1?s=books&ie=UTF8&qid=1345091980&sr=1-1
 
@@ -49,7 +49,7 @@ weight: 0
 
 [PRE04]: https://www.amazon.com/Phase-Diagrams-Heterogeneous-Equilibria-Introduction/dp/3642057276/ref=sr_1_20?s=books&ie=UTF8&qid=1345124091&sr=1-20
 
--  Ji-Cheng Zhao (Ed), [Methods for Phase Diagram Determination] [ZHA07], Elsevier Science (2007). 
+-  Ji-Cheng Zhao (Ed), [Methods for Phase Diagram Determination] [ZHA07], Elsevier Science (2007)
 
 [ZHA07]: https://www.amazon.com/Methods-Phase-Diagram-Determination-Ji-Cheng/dp/0080446299/ref=sr_1_fkmr0_1?s=books&ie=UTF8&qid=1345124547&sr=1-1
 
