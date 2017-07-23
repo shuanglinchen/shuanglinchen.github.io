@@ -9,3 +9,4 @@ weight: 3
 - [Regular Solution](http://shuanglinchen.com/special-topics/regular-solution)
 
 - [Thermodynamic Factors](http://shuanglinchen.com/special-topics/thermo-factor)
+ 
