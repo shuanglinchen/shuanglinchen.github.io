@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Special Topics
+title: Notes
 weight: 3
 ---
 
