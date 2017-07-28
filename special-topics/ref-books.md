@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Reference Books on Thermodynamics and Phase Diagrams
+title: Reference Books on Materials Science
 weight: 0
 ---
 
@@ -66,3 +66,17 @@ weight: 0
 
 [WEI06]: https://www.amazon.com/Measurement-Thermodynamic-Propertie*perimental-Thermodynamics/dp/0444519777/ref=sr_1_1?s=books&ie=UTF8&qid=1345516819&sr=1-1
 
+
+## Solidification
+
+- W. Kurz and D. J. Fisher, [Fundamentals of Solidification] [Kur98], CRC Press; 4th edition (1998)
+
+[Kur98]: https://amazon.com/Fundamentals-Solidification-W-Kurz/dp/0878498044/ref=sr_1_1
+
+- M. E. Glicksman, [Principles of Solidification: An Introduction to Modern Casting and Crystal Growth Concepts] [Gli11], Springer; (2010)
+
+[Gli11]: https://amazon.com/Principles-Solidification-Introduction-Casting-Concepts/dp/1441973435/ref=sr_1_2
+
+- M. C. Flemings, [Solidification Processing] [Fle74], Mcgraw-Hill College (1974)
+
+[Fle74]: https://www.amazon.com/Solidification-Processing-Materials-Science-Engineering/dp/007021283X/ref=sr_1_sc_1
