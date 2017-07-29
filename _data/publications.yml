@@ -1,4 +1,16 @@
 - type: journal
+  id: An
+  authors: X. An, P. Zhang, J. Cheng, S. Chen and J. Wang
+  title: Thermodynamic Reevaluation and Experimental Validation of  the CsNO3-KNO3-NaNO3 System and Its Subsystems
+  journal: Chem. Res. Chin. Univ.
+  volume: 33
+  issue: 1
+  year: 2017
+  pages:  122-128
+  link: https://link.springer.com/article/10.1007/s40242-017-6137-7
+  pdfLink: yes
+
+- type: journal
   id: Morral_2
   authors: J. E. Morral, S.-L. Chen
   title: A regular solution model for a single-phase high entropy and enthalpy alloy
