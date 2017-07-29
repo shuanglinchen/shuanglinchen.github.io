@@ -1,9 +1,8 @@
 ---
 layout: page
-title: **Reference Books on Materials Science**
+title: Reference Books on Materials Science
 weight: 0
 ---
-
 
 ## _Thermodynamics and Phase Diagrams_
 
