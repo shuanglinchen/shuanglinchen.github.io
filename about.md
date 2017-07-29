@@ -49,3 +49,10 @@ Reading, stamp collecting, playing bridge, golfing
 [Hometown Education Foundation by Prof. Tonghai Yang 杨同海教授的 家乡教育基金会][HEF link]
 
 [HEF link]: http://www.hometowneducation.org
+
+## Contact
+
+shuanglin.chen~at~hotmail~dot~com
+
+wechat ID: pandat4201
+
