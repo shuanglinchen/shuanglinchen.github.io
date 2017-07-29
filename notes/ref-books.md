@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Reference Books on Materials Science
+title: __Reference Books on Materials Science__
 weight: 0
 ---
 
-## __Thermodynamics and Phase Diagrams__
+## _Thermodynamics and Phase Diagrams_
 
 - Mats Hillert, [Phase Equilibria, Phase Diagrams and Phase Transformations : Their Thermodynamic Basis] [Hil07], Cambridge University Press; 2 edition (2007)
 
@@ -80,7 +80,7 @@ weight: 0
 
 -  徐祖耀，李麟, 材料热力学，（第三版），科学出版社，北京，2005
 
-## __Solidification__
+## _Solidification_
 
 - W. Kurz and D. J. Fisher, [Fundamentals of Solidification] [Kur98], CRC Press; 4th edition (1998)
 
