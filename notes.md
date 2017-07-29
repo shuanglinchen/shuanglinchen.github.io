@@ -4,9 +4,9 @@ title: Notes
 weight: 3
 ---
 
-- [Reference Books](http://shuanglinchen.com/special-topics/ref-books)
+- [Reference Books](http://shuanglinchen.com/notes/ref-books)
 
-- [Regular Solution](http://shuanglinchen.com/special-topics/regular-solution)
+- [Regular Solution](http://shuanglinchen.com/notes/regular-solution)
 
-- [Thermodynamic Factors](http://shuanglinchen.com/special-topics/thermo-factor)
+- [Thermodynamic Factors](http://shuanglinchen.com/notes/thermo-factor)
  
