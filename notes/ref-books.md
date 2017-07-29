@@ -46,7 +46,7 @@ weight: 0
 
 [CAM12]: https://www.amazon.com/Phase-Diagrams-Understanding-F-Campbell/dp/1615038353/ref=sr_1_1?s=books&ie=UTF8&qid=1345123894&sr=1-1
 
--  Bruno Predel, Michael Hoch and Monte J. Pool, [Phase Diagrams and Heterogeneous Equilibria: A Practical Introduction] [PRE04], Springer; (2004) 
+-  Bruno Predel, Michael Hoch and Monte J. Pool, [Phase Diagrams and Heterogeneous Equilibria: A Practical Introduction] [PRE04], Springer (2004) 
 
 [PRE04]: https://www.amazon.com/Phase-Diagrams-Heterogeneous-Equilibria-Introduction/dp/3642057276/ref=sr_1_20?s=books&ie=UTF8&qid=1345124091&sr=1-20
 
@@ -58,14 +58,27 @@ weight: 0
 
 [LUP83]: https://www.amazon.com/Chemical-Thermodynamics-Materials-C-H-P-Lupis/dp/0444007792/ref=sr_1_1?s=books&ie=UTF8&qid=1345263241&sr=1-1
 
--  Anthony Goodwin , KN Marsh , WA Wakeham, [Measurement of the Thermodynamic Properties of Single Phases] [GOO03], Elsevier Science(2003)  
+-  Anthony Goodwin , KN Marsh , WA Wakeham, [Measurement of the Thermodynamic Properties of Single Phases] [GOO03], Elsevier Science (2003)  
 
 [GOO03]: https://www.amazon.com/Measurement-Thermodynamic-Propertie*perimental-Thermodynamics/dp/0444509313/ref=sr_1_1?s=books&ie=UTF8&qid=1345516653&sr=1-1
 
--  Ron D. D. Weir (ed), [Measurement of the Thermodynamic Properties of multiple Phases] [WEI06], Elsevier Science(2006) 
+-  Ron D. D. Weir (ed), [Measurement of the Thermodynamic Properties of multiple Phases] [WEI06], Elsevier Science (2006) 
 
-[WEI06]: https://www.amazon.com/Measurement-Thermodynamic-Propertie*perimental-Thermodynamics/dp/0444519777/ref=sr_1_1?s=books&ie=UTF8&qid=1345516819&sr=1-1
+[WEI06]: https://www.amazon.com/Measurement-Thermodynamic-Propertie*perimental-Thermodynamics/dp/0444519777
 
+-  Qing Jiang (蒋青), Zi Wen (文子), [Thermodynamics of Materials] [JIA11], High Education Press (高等教育出版社) and Springer (2011) 
+
+[JIA11]: https://www.amazon.com/Thermodynamics-Materials-Qing-Jiang/dp/3642147178
+
+-  Richard A. Swalin, [Thermodynamics of Solids] [SWA72], 2 edition, Wiley-VCH (1972)
+
+[SWA72]: https://www.amazon.com/Thermodynamics-Solids-2nd-Richard-Swalin/dp/0471838543
+
+-  郝士明, 材料热力学，化学工业出版社，北京，2004.
+
+-  郝士明, 材料设计的热力学解析，化学工业出版社，北京，2010.
+
+-  徐祖耀，李麟, 材料热力学，（第三版），科学出版社，北京，2005.
 
 ## Solidification
 
