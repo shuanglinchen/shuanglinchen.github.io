@@ -21,7 +21,7 @@ weight: 4
 
 - TMS 2019 (San Antonio, TX, Mar. 10-14, 2019)
 
-- MS&T 2019 (Patland, OR, Sept.29 - Oct.3, 2019)
+- MS&T 2019 (Portland, OR, Sept.29 - Oct.3, 2019)
 
 - TMS 2020 (San Diego, CA, Feb. 23-27, 2020)
 

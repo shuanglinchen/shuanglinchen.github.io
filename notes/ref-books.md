@@ -90,6 +90,6 @@ weight: 0
 
 [Gli11]: https://amazon.com/Principles-Solidification-Introduction-Casting-Concepts/dp/1441973435
 
-- M. C. Flemings, [Solidification Processing] [Fle74], Mcgraw-Hill College (1974)
+- M. C. Flemings, [Solidification Processing] [Fle74], McGraw-Hill College (1974)
 
 [Fle74]: https://www.amazon.com/Solidification-Processing-Materials-Science-Engineering/dp/007021283X
