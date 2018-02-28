@@ -4,71 +4,17 @@ title: Lever Rule
 weight: 0
 ---
 
+<h1>热力学与相图计算讲座<br>第一讲：杠杆原理</h1>
 
-<b><i>杠杆原理 </b/></i> <br/><br/>
+<h3>陈双林</h3>
 
-- \(x_i^{\alpha}\)& \(\alpha\)相中组元$i$\)的摩尔分数 \\
-- \(w_i^{\alpha}\)& \(\alpha\)相中组元$i\)的质量分数 \\
-- \(f^{\alpha}\)& \(\alpha\)相的摩尔分数 \\
-- \(f_w^{\alpha}\)& \(\alpha\)相的质量分数 \\
-- \(M_i\)&组元 \(i\)的分子量 \\
-- \(m^{(j)}\) & 第\(j\)个相的摩尔数
+<h2>符号</h2>
 
-
-Let \(G\) be the molar Gibbs energy of a \(c\)-component phase and \(\mu _k\) the chemical potential of component \(k\).
-
-\begin{equation}
-G = G(x_1,x_2,\cdots,x_c)
-\end{equation}
-
-The chemical potential of the component \(k\), \(\mu _k\), is calculated by the following equation,
-
-\begin{align}
-\mu_k = G-\sum_{j=1}^{c} x_j \frac{\partial G}{\partial x_j} +\frac{\partial G}{\partial x_k}  \quad \quad \quad \quad (k=1,2,\cdots,c) \label {A2}
-\end{align}
-
-If the component \(c\) is taken as the dependent component,
-
-\begin{align}
-x_c =1 - \sum_{j=1}^{c-1} x_j
-\end{align}
-
-then, the Gibbs energy is a function of \(c-1\) variables only,
-\begin{equation}
-G = G(x_1,x_2,\cdots,x_{c-1})
-\end{equation}
-
-The chemical potential of the component \(k\), \(\mu _k\), is now calculated by these following equations,
-\begin{align}
-\mu_k = &G-\sum_{j=1}^{c-1} x_j \frac{\partial G}{\partial x_j} +\frac{\partial G}{\partial x_k}  \quad \quad \quad \quad (k=1,2,\cdots,c-1) \label {A5} \\
-\mu_c = &G-\sum_{j=1}^{c-1} x_j \frac{\partial G}{\partial x_j} \label {A6}
-\end{align}
-
-Please note that \(\displaystyle \frac{\partial G}{\partial x_k}\) in Eq.\eqref{A5} and Eq.\eqref{A6} is different from that in Eq.\eqref{A2}.
-
-
-Therefore, the first order derivative of \(G\) w.r.t molar fraction, \(x_j\), is given by
-\begin{align}
-\frac{\partial G}{\partial x_k} = \mu_k -  \mu_c \quad \quad \quad \quad (k=1,2,\cdots,c-1) \label {A7}
-\end{align}
-
-<br/>
-
-<b><i>Thermodynamic Factor </b/></i> <br/><br/>
-
-Assume the Gibbs energy is a function of \(c-1\) independent composition variables,
-
-\begin{equation}
-G = G(x_1,x_2,\cdots,x_{c-1})
-\end{equation}
-
-
-The second order derivatives of \(G\) w.r.t molar fraction can be calculated by
-
-\begin{align}
-\frac{\partial^2 G}{\partial x_j \partial x_k}= &\frac{\partial \mu_k}{\partial x_j} - \frac{\partial \mu_c}{\partial x_j}  \\
-= &\frac{\partial \mu_j}{\partial x_k} - \frac{\partial \mu_c}{\partial x_k}\quad \quad \quad \quad (j, k=1,2,\cdots,c-1)
-\label {A8}
-\end{align}
-
-where the thermodynamic factor, \(\displaystyle \frac{\partial \mu_j}{\partial x_k}\), can be evaluated numerically by the finite difference method. Thermodynamic factors are available from PanEngine.
+<ul>
+  <li>\(x_i^{\alpha}\)  \(\alpha\)相中组元$i$\)的摩尔分数</li>
+  <li>\(w_i^{\alpha}\)  \(\alpha\)相中组元$i\)的质量分数 </li>
+  <li>\(f^{\alpha}\)  \(\alpha\)相的摩尔分数</li>
+  <li>\(f_w^{\alpha}\)& \(\alpha\)相的质量分数</li>
+  <li>\(M_i\)&组元 \(i\)的分子量</li>
+  <li>\(m^{(j)}\) & 第\(j\)个相的摩尔数</li>
+</ul>
