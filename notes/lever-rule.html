@@ -7,18 +7,17 @@ weight: 0
 
 <b><i>杠杆原理 </b/></i> <br/><br/>
 
-\begin{tabular}{ c l }
-\(x_i^{\alpha}\)& \(\alpha\)相中组元$i$\)的摩尔分数 \\
-\(w_i^{\alpha}\)& \(\alpha\)相中组元$i\)的质量分数 \\
-\(f^{\alpha}\)& \(\alpha\)相的摩尔分数 \\
-\(f_w^{\alpha}\)& \(\alpha\)相的质量分数 \\ 
-\(M_i\)&组元 \(i\)的分子量 \\  
-\(m^{(j)}\) & 第\(j\)个相的摩尔数 
-\end{tabular}
+- \(x_i^{\alpha}\)& \(\alpha\)相中组元$i$\)的摩尔分数 \\
+- \(w_i^{\alpha}\)& \(\alpha\)相中组元$i\)的质量分数 \\
+- \(f^{\alpha}\)& \(\alpha\)相的摩尔分数 \\
+- \(f_w^{\alpha}\)& \(\alpha\)相的质量分数 \\
+- \(M_i\)&组元 \(i\)的分子量 \\
+- \(m^{(j)}\) & 第\(j\)个相的摩尔数
+
 
 Let \(G\) be the molar Gibbs energy of a \(c\)-component phase and \(\mu _k\) the chemical potential of component \(k\).
 
-\begin{equation} 
+\begin{equation}
 G = G(x_1,x_2,\cdots,x_c)
 \end{equation}
 
@@ -28,14 +27,14 @@ The chemical potential of the component \(k\), \(\mu _k\), is calculated by the 
 \mu_k = G-\sum_{j=1}^{c} x_j \frac{\partial G}{\partial x_j} +\frac{\partial G}{\partial x_k}  \quad \quad \quad \quad (k=1,2,\cdots,c) \label {A2}
 \end{align}
 
-If the component \(c\) is taken as the dependent component, 
+If the component \(c\) is taken as the dependent component,
 
 \begin{align}
 x_c =1 - \sum_{j=1}^{c-1} x_j
 \end{align}
 
 then, the Gibbs energy is a function of \(c-1\) variables only,
-\begin{equation} 
+\begin{equation}
 G = G(x_1,x_2,\cdots,x_{c-1})
 \end{equation}
 
@@ -59,7 +58,7 @@ Therefore, the first order derivative of \(G\) w.r.t molar fraction, \(x_j\), is
 
 Assume the Gibbs energy is a function of \(c-1\) independent composition variables,
 
-\begin{equation} 
+\begin{equation}
 G = G(x_1,x_2,\cdots,x_{c-1})
 \end{equation}
 
@@ -67,8 +66,8 @@ G = G(x_1,x_2,\cdots,x_{c-1})
 The second order derivatives of \(G\) w.r.t molar fraction can be calculated by
 
 \begin{align}
-\frac{\partial^2 G}{\partial x_j \partial x_k}= &\frac{\partial \mu_k}{\partial x_j} - \frac{\partial \mu_c}{\partial x_j}  \\ 
-= &\frac{\partial \mu_j}{\partial x_k} - \frac{\partial \mu_c}{\partial x_k}\quad \quad \quad \quad (j, k=1,2,\cdots,c-1) 
+\frac{\partial^2 G}{\partial x_j \partial x_k}= &\frac{\partial \mu_k}{\partial x_j} - \frac{\partial \mu_c}{\partial x_j}  \\
+= &\frac{\partial \mu_j}{\partial x_k} - \frac{\partial \mu_c}{\partial x_k}\quad \quad \quad \quad (j, k=1,2,\cdots,c-1)
 \label {A8}
 \end{align}
 
