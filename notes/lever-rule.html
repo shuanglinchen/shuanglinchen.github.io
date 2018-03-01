@@ -23,7 +23,7 @@ weight: 0
 
 <h2>两相平衡</h2>
 
-设在一个由$c$个组元构成的$\alpha$-$\beta$两相平衡体系。体系的平均组成由体系组元的摩尔分数\(x_i^{s}\) 表示。上标\(s\)代表体系的量，下标\(i\)代表组元的序号。从质量守恒和摩尔分数归一化条件，我们有以下两个方程，
+设在一个由\(c\)个组元构成的$\alpha$-\(\beta\)两相平衡体系。体系的平均组成由体系组元的摩尔分数\(x_i^{s}\) 表示。上标\(s\)代表体系的量，下标\(i\)代表组元的序号。从质量守恒和摩尔分数归一化条件，我们有以下两个方程，
 
 \[
 \begin{align}
@@ -32,7 +32,7 @@ weight: 0
 \end{align}
 \]
 
-式(\ref{EQ1})代表组元的质量守恒，式(\ref{EQ2})表明两个相$\alpha$和$\beta$的摩尔分数\(f^{\alpha}\)和\(f^{\beta}\)满足归一化条件。摩尔分数\(f^{\alpha}\)和\(f^{\beta}\)可以从上面的公式中解出，
+式(\ref{EQ1})代表组元的质量守恒，式(\ref{EQ2})表明两个相$\alpha$和\(\beta\)的摩尔分数\(f^{\alpha}\)和\(f^{\beta}\)满足归一化条件。摩尔分数\(f^{\alpha}\)和\(f^{\beta}\)可以从上面的公式中解出，
 
 \[
 \begin{align}
@@ -66,7 +66,7 @@ weight: 0
 \end{align}
 \]
 
-式(\ref{EQ8})包含$c$个方程，至少有两个是相互独立的。假设在式(\ref{EQ8})中，组元是$i$和$j$的组成是相互独立的，那么我们就有下面的方程,
+式(\ref{EQ8})包含\(c\)个方程，至少有两个是相互独立的。假设在式(\ref{EQ8})中，组元是$i$和$j$的组成是相互独立的，那么我们就有下面的方程,
 
 \[
 \begin{align}
@@ -160,3 +160,21 @@ weight: 0
  &f^{a}  = \frac {\overline{\alpha s}} {\overline{\alpha a}} = 1 - f^{\alpha} =  f^{\beta} +  f^{\gamma}  \label{EQ30}
 \end{align}
 \]
+
+因此，\(a\)点可以看作体系中除去\(\alpha\)相以外的其它的相的平均组成点，即\(\beta\) 和 $\gamma$相的平均组成，它的相分数是\(f^{\alpha}+f^{\gamma}\)。显然，\(a\)点处组成可以用两相的杠杆原理计算，
+
+\[
+\begin{align}
+&x_i^{a} = \frac {f^{\beta}} {f^{\beta}+f^{\gamma}} x_i^{\beta} + \frac {f^{\gamma}} {f^{\beta}+f^{\gamma}} x_i^{\gamma}   \quad \quad (i=1,2,\cdots,c)  \label{EQ30B}
+\end{empheq}
+\]
+
+体系在\(a\)点总的组成可以看作\(\alpha\)和\(a\)两个点的组成的加权平均，
+
+\[
+\begin{align} 
+&x_i^{s}= f^{\alpha} x_i^{\alpha}  + f^{a} x_i^{a} \quad \quad (i=1,2,\cdots,c)     \label{EQ30C}
+\end{align}
+\]
+
+这种分析方法将有助于我们对凝固过程的理解。
