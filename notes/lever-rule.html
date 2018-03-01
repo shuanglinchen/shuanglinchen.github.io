@@ -169,10 +169,30 @@ weight: 0
 
 体系在\(a\)点总的组成可以看作\(\alpha\)和\(a\)两个点的组成的加权平均，
 
-\[
 \begin{align}
 &x_i^{s}= f^{\alpha} x_i^{\alpha}  + f^{a} x_i^{a} \quad \quad (i=1,2,\cdots,c)     \label{EQ30C}
 \end{align}
-\]
 
 这种分析方法将有助于我们对凝固过程的理解。
+
+<h2>多相平衡</h2>
+
+三相平衡的杠杆原理很容易推广到多相平衡中。假设一个平衡体系由$p$个相构成\((p\leq c)\)。每个相的组成是\(x_i^{(k)} (k=1,2,\cdots,p;i=1,2,\cdots,c)\)。从质量守恒和相的摩尔分数归一化，我们得到
+
+\begin{align}
+&x_i^{(s)} = \sum_{k=1}^{p} f^{(k)} x_i^{(k)} \quad \quad (i=1,2,\cdots,p-1)   \label{EQ31} \\
+&\sum_{k=1}^{p} f^{(k)} = 1 \label{EQ32}
+\end{align}
+
+这里取\(x_i (i=1,2,\cdots,p-1)\)作为相互独立的组成变量。定义
+
+\begin  {equation}
+ &\Delta =
+\begin {array} {|cccc|}
+ x_1^{(1)}  &   x_1^{(2)} &  \cdots & x_1^{(p)}\\
+ x_2^{(1)}  &   x_2^{(2)} &  \cdots & x_2^{(p)}\\
+     \vdots                  &     \vdots                 &    \ddots  &    \vdots  \\
+  x_{p-1}^{(1)}  &   x_{p-1}^{(2)} &  \cdots & x_{p-1}^{(p)}\\
+   1                 &  1                & 1 & 1
+\end {array}  \label{EQ33}
+\end{equation}
