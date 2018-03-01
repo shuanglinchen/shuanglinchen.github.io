@@ -120,3 +120,43 @@ weight: 0
 \end {array}  \label{EQ19}
 \end{align}
 \]
+
+根据解析几何的知识，我们知道，这里的\(\Delta\)，\(\Delta ^{\alpha}\)，\(\Delta ^{\beta}\)，以及 \(\Delta ^{\gamma}\)都和三角形的面积有关，它们的关系是
+
+\[
+\begin{align}
+  &\Delta \;\;=2 S_{\alpha \beta \gamma}  \label{EQ20} \\
+  &\Delta ^{\alpha}=2 S_{s \beta \gamma}  \label{EQ21} \\
+  &\Delta^{\beta}=2 S_{\alpha s \gamma}  \label{EQ22} \\
+  &\Delta^{\gamma}=2 S_{\alpha \beta s}  \label{EQ23}
+\end{align}
+\]
+
+这里\(S_{\alpha \beta \gamma}\)、\(S_{s \beta \gamma}\)、\(S_{\alpha s \gamma}\)和\(S_{\alpha \beta s}\)分别代表它们的下标三个点在图\ref{Fig_lever_rule_ternary}中构成的三角形的面积。因此，每个相的相分数也可以用图\ref{Fig_lever_rule_ternary}中相应的三角形的面积比来表示，
+
+\[
+\begin{align}
+  &f^{\alpha}  = \frac {S_{s \beta \gamma}} {S_{\alpha \beta \gamma}} \label{EQ24} \\
+  &f^{\beta}  = \frac {S_{\alpha s \gamma}} {S_{\alpha \beta \gamma}} \label{EQ25} \\
+  &f^{\gamma}  = \frac {S_{\alpha \beta s}} {S_{\alpha \beta \gamma}} \label{EQ26}
+\end{align}
+\]
+
+又因为三角形的面积比与相对应的线段比相等，相分数又可以表示成，
+
+\[
+\begin{align}
+  &f^{\alpha}  = \frac {\overline{s a}} {\overline{\alpha a}} \label{EQ27} \\
+  &f^{\beta}  = \frac  {\overline{s b}} {\overline{\beta b}} \label{EQ28} \\
+  &f^{\gamma}  = \frac  {\overline{s c}} {\overline{\gamma c}} \label{EQ29}
+\end{align}
+\]
+
+上面公式中的\(\overline{s a}\)代表点\(s\)和点\(a\)之间的距离，其余类推。
+公式(\ref{EQ27})表示线段\(\overline{s a}\)与线段\(\overline{\alpha a}\)的比值是\(\alpha\)相的相分数\(f^{\alpha}\)。那么，线段\(\overline{\alpha s}\)与线段\(\overline{\alpha a}\)的比值又代表什么呢？上一节两相平衡的杠杆原理告诉我们，这个比值是\(f^{a}\)，\(a\)点处的相分数，
+
+\[
+\begin{align}
+ &f^{a}  = \frac {\overline{\alpha s}} {\overline{\alpha a}} = 1 - f^{\alpha} =  f^{\beta} +  f^{\gamma}  \label{EQ30}
+\end{align}
+\]
