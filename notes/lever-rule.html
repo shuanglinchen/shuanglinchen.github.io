@@ -57,13 +57,33 @@ weight: 0
 
 <h2>三相平衡</h2>
 
-假设一个平衡体系中有三个相：\(\alpha$、\(\beta\)和\(\gamma\)。体系的组成与各个相的组成之间的关系是
+假设一个平衡体系中有三个相：\(\alpha\)、\(\beta\)和\(\gamma\)。体系的组成与各个相的组成之间的关系是
 
 \[
 \begin{align}
-x_i^{s} =  f^{\alpha} x_i^{\alpha} + f^{\beta} x_i^{\beta} + f^{\gamma} x_i^{\gamma} \quad \quad (i=1,2,\cdots,c)   \label{EQ8} \\
-f^{\alpha} + f^{\beta} + f^{\gamma}= 1 \label{EQ9}
+&x_i^{s} =  f^{\alpha} x_i^{\alpha} + f^{\beta} x_i^{\beta} + f^{\gamma} x_i^{\gamma} \quad \quad (i=1,2,\cdots,c)   \label{EQ8} \\
+&f^{\alpha} + f^{\beta} + f^{\gamma}= 1 \label{EQ9}
 \end{align}
 \]
 
 式(\ref{EQ8})包含$c$个方程，至少有两个是相互独立的。假设在式(\ref{EQ8})中，组元是$i$和$j$的组成是相互独立的，那么我们就有下面的方程,
+
+\[
+\begin{align}
+&x_i^{s} =  f^{\alpha} x_i^{\alpha} + f^{\beta} x_i^{\beta}+ f^{\gamma} x_i^{\gamma} \quad \quad (i=1,2,\cdots,c)   \label{EQ10} \\
+&x_j^{s} =  f^{\alpha} x_j^{\alpha} + f^{\beta} x_j^{\beta} + f^{\gamma} x_j^{\gamma} \quad \quad (j=1,2,\cdots,c;j \neq i)   \label{EQ11} \\
+&f^{\alpha} + f^{\beta} + f^{\gamma}= 1 \label{EQ12}
+\end{align}
+\]
+
+<img src="/assets/notes/lever-rule/fig2.png"></img>
+
+图\ref{Fig_lever_rule_ternary}表明在二维组成空间 \(x_i\)-\(x_j\)中，体系总的组成点 \(s\)以及三个相 \(\alpha\)、\(\beta\)和\(\gamma\) 的组成点的示意图。\(s\)点位于三个相的组成点\(\alpha\)、\(\beta\)和\(\gamma\) 构成的三角形 $\Delta _{\alpha \beta \gamma}$的中间。 三角形 \(\Delta _{\alpha \beta \gamma}\)的三个顶点 \(\alpha\)、\(\beta\)和\(\gamma\)与\(s\)点的连线分别与三角形的边交于\(a\)、\(b\)和\(c\)。式(\ref{EQ10})-(\ref{EQ12})的解是
+
+\[
+\begin{align}
+ f^{\alpha}  = \frac {\Delta ^{\alpha}} {\Delta} \label{EQ13} \\
+ f^{\beta}  = \frac {\Delta ^{\beta}} {\Delta} \label{EQ14} \\
+  f^{\gamma}  = \frac {\Delta ^{\gamma}} {\Delta} \label{EQ15}
+\end{align}
+\]
