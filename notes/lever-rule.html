@@ -186,21 +186,17 @@ weight: 0
 
 这里取\(x_i (i=1,2,\cdots,p-1)\)作为相互独立的组成变量。定义
 
-\[
-\begin  {equation}
- \Delta =
+
+\begin  {align}
+ &\Delta =
 \begin {array} {|cccc|}
  x_1^{(1)}  &   x_1^{(2)} &  \cdots & x_1^{(p)}\\
  x_2^{(1)}  &   x_2^{(2)} &  \cdots & x_2^{(p)}\\
      \vdots                  &     \vdots                 &    \ddots  &    \vdots  \\
   x_{p-1}^{(1)}  &   x_{p-1}^{(2)} &  \cdots & x_{p-1}^{(p)}\\
    1                 &  1                & 1 & 1
-\end {array}  \label{EQ33}
-\end{equation}
-\]
-
-\begin{equation}
- \Delta^{(k)} =
+\end {array}  \label{EQ33} \\
+ &\Delta^{(k)} =
 \begin {array} {|cccccccc|}
  x_1^{(1)}       &   x_1^{(2)}        &  \cdots  & x_1^{(k-1)}         &   x_1^{s} & x_1^{(k+1)}  &  \cdots & x_1^{(p)}\\
  x_2^{(1)}       &   x_2^{(2)}        &  \cdots  & x_2^{(k-1)}          &   x_2^{s} & x_2^{(k+1)}  &  \cdots & x_2^{(p)}\\
@@ -208,12 +204,26 @@ weight: 0
  x_{p-1}^{(1)}  &   x_{p-1}^{(2)} &  \cdots  & x_{p-1}^{(k-1)}  &   x_{p-1}^{s} & x_{p-1}^{(k+1)}  &  \cdots & x_{p-1}^{(p)}\\
    1                   &  1                     &     1       & 1                        &     1                &      1       &   1      & 1
 \end {array}  \quad \quad (k=1,2,\cdots,p)   \label{EQ34}
-\end{equation}
+\end{align}
 
 那么，体系中每个相的相分数可以由下式求得，
 
 \begin{equation}
- f^{(k)}  = \frac {\Delta^{(k)}} {\Delta} \quad \quad  (k=1,2,\cdots,p)  \label{EQ35}
+ f^{(k)} = \frac {\Delta^{(k)}} {\Delta} \quad \quad  (k=1,2,\cdots,p)  \label{EQ35}
 \end{equation}
 
 式(\ref{EQ34})和式(\ref{EQ35})中的行列式与$p$-$1$维空间中$p$个点围成的体积有关，这里不再详细讨论。
+
+
+<h2>摩尔分数和质量分数</h2>
+
+
+一个相成份可以用组元的摩尔分数或质量分数来描述。它们之间的转换是通过组元的分子量或原子量进行的。
+一个相中组元的摩尔分数($x_i$)和质量分数($w_i$)的关系是
+
+\begin{align}
+&x_{i} =\frac{ \frac {w_i} {M_i}} {\sum\limits_{k=1}^{c} \frac {w_k} {M_k}} \quad \quad (i=1,2,\cdots,c)   \label{EQ36} \\
+&w_{i} =\frac{ x_i M_i} {\sum\limits_{k=1}^{c} x_k M_k} \quad \quad (i=1,2,\cdots,c) \label{EQ37}
+\end{align}
+
+其中$M_i$代表组元$i$的分子量。
