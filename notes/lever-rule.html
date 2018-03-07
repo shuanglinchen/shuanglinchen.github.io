@@ -190,24 +190,62 @@ weight: 0
 
 <h2>4. 摩尔分数和质量分数</h2>
 
-一个相成份可以用组元的摩尔分数或质量分数来描述。它们之间的转换是通过组元的分子量或原子量进行的。
-一个相中组元的摩尔分数(\(x_i\))和质量分数(\(w_i\))的关系是
-
+一个相的成份可以用组元的摩尔分数或质量分数来描述。它们之间的转换是通过组元的原子量或分子量进行的。
+\(\alpha\)相中组元的摩尔分数(\(x_i^\alpha\))和质量分数(\(w_i^\alpha\))的关系是
 \begin{align}
-&x_{i} =\frac{ \frac {w_i} {M_i}} {\sum\limits_{k=1}^{c} \frac {w_k} {M_k}} \quad \quad (i=1,2,\cdots,c)   \label{EQ36} \\
-&w_{i} =\frac{ x_i M_i} {\sum\limits_{k=1}^{c} x_k M_k} \quad \quad (i=1,2,\cdots,c) \label{EQ37}
+x_{i}^\alpha =\frac{ \frac {w_i^\alpha} {M_i}} {\sum\limits_{k=1}^{c} \frac {w_k^\alpha} {M_k}} \quad \quad (i=1,2,\cdots,c)   \label{EQ36} \\
+w_{i}^\alpha =\frac{ x_i^\alpha M_i} {\sum\limits_{k=1}^{c} x_k^\alpha M_k} \quad \quad (i=1,2,\cdots,c) \label{EQ37}
 \end{align}
+其中\(M_i\)代表组元\(i\)的原子量或分子量。定义\(\alpha\)相的分子量\(M^\alpha\)为
+\begin {equation} 
+M^\alpha =\sum\limits_{k=1}^{c} x_k^\alpha M_k  \label{EQ37A}
+\end{equation}
+那么，式(\ref{EQ37})可写成
+\begin{equation} 
+w_{i}^\alpha =\frac{ x_i^\alpha M_i} {M^\alpha} \quad \quad (i=1,2,\cdots,c) \label{EQ37B} 
+\end{equation}
 
-其中\(M_i\)代表组元\(i\)的分子量。
-
-在一个由多个相构成的体系中，每个相的相对量可以用它的摩尔分数或质量分数来描述。如果\(f^{(j)}\)代表第\(j\)个相的摩尔分数，\(f_w^{(j)}\)代表第\(j\)个相的质量分数，那么它们之间的关系是
-
+在一个由多个相构成的体系中，每个相的相对量可以用它的相摩尔分数或相质量分数来描述。如果\(f^{(j)}\)代表第\(j\)个相的摩尔分数，\(f_w^{(j)}\)代表第\(j\)个相的质量分数，那么它们之间的关系是
 \begin{align}
-&f^{(j)} =\frac{ \frac {f_w^{(j)}} {M^{(j)}}} {\sum\limits_{k=1}^{p} \frac {f_w^{(k)}} {M^{(k)}}} \quad \quad (j=1,2,\cdots,p)   \label{EQ38} \\
-&f_w^{(j)} =\frac{ f^{(j)} M^{(j)}} {\sum\limits_{k=1}^{p} f^{(k)} M^{(k)}} \quad \quad (j=1,2,\cdots,p) \label{EQ39}
+f^{(j)} =\frac{ \frac {f_w^{(j)}} {M^{(j)}}} {\sum\limits_{k=1}^{p} \frac {f_w^{(k)}} {M^{(k)}}} \quad \quad (j=1,2,\cdots,p)   \label{EQ38} \\
+f_w^{(j)} =\frac{ f^{(j)} M^{(j)}} {\sum\limits_{k=1}^{p} f^{(k)} M^{(k)}} \quad \quad (j=1,2,\cdots,p) \label{EQ39}
 \end{align}
+其中\(M^{(j)}\)代表第\(j\)相的分子量，\(p\)是体系中相的个数。
 
-其中\({M^{(j)}}\)代表第\(j\)相的分子量，\(p\)是体系中相的个数。
+我们把表示多相平衡的杠杆原理的公式(\ref{EQ31})重新写在下面。对每一个组元\(i\)，体系中组元\(i\)的平均摩尔分数为
+\begin{equation} 
+x_i^{(s)} = \sum_{k=1}^{p} f^{(k)} x_i^{(k)} \quad \quad (i=1,2,\cdots,c)   \label{EQ31A}
+\end{equation}
+两边乘以组元\(i\)的分子量\(M_i\)
+\begin{equation}   
+x_i^{(s)}M_i = \sum_{k=1}^{p} f^{(k)} x_i^{(k)}M_i \quad \quad (i=1,2,\cdots,c)   \label{EQ31B}
+\end{equation}
+对上式中的所有组元\(i\)求和，
+\begin{equation}  
+\sum_{i=1}^{c}x_i^{(s)}M_i = \sum_{k=1}^{p} f^{(k)} \sum_{i=1}^{c}  x_i^{(k)}M_i   \label{EQ31C}
+\end{equation}
+用相的分子量\(M^{(k)}\)替代\(\sum\limits_{i=1}^{c}x_i^{(k)}M_i\),上式变成
+\begin{equation} 
+M^{(s)}= \sum_{k=1}^{p} f^{(k)} M^{(k)}   \label{EQ31D}
+\end{equation}
+即体系的总的分子量是各个相的分子量的相摩尔分数的加权平均。从式(\ref{EQ37B})，我们有
+\begin{equation}  
+x_i^{(k)} M_i = w_{i}^{(k)} M^{(k)}  \quad \quad (i=1,2,\cdots,c) \label{EQ37C}
+\end{equation}
+将上式代入式(\ref{EQ31B})， 我们得到
+\begin{equation}   
+w_i^{(s)} M^{(s)}= \sum_{k=1}^{p}f^{(k)} w_i^{(k)} M^{(k)} \quad \quad (i=1,2,\cdots,c) \label{EQ37D}
+\end{equation}
+两边同除以\(M^{(s)}\)，并运用式(\ref{EQ31D})，
+\begin {align} 
+w_i^{(s)} &= \sum_{k=1}^{p} \frac{f^{(k)}M^{(k)}} {M^{(s)}} w_i^{(k)} \nonumber \\
+               &= \sum_{k=1}^{p} \frac{f^{(k)}M^{(k)}} {\sum\limits_{r=1}^{p} f^{(r)} M^{(r)}} w_i^{(k)}  \quad \quad (i=1,2,\cdots,c) \label{EQ37E}
+\end{align}
+根据相的质量分数定义，公式(\ref{EQ39})，上式变成
+\begin{equation}
+w_i^{(s)} = \sum_{k=1}^{p} f_w^{(k)} w_i^{(k)}  \quad \quad (i=1,2,\cdots,c) \label{EQ37E}
+\end{equation}
+这就是用质量分数表达的杠杆原理。 因此，质量分数表达的杠杆原理与摩尔分数表达的杠杆原理是一致的。
 
 
 <h2>参考文献</h2>
