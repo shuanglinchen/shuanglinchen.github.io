@@ -235,7 +235,7 @@ x_i^{(s)}M_i = \sum_{k=1}^{p} f^{(k)} x_i^{(k)}M_i \quad \quad (i=1,2,\cdots,c) 
 M^{(s)}= \sum_{k=1}^{p} f^{(k)} M^{(k)}   \label{EQ31D}
 \end{equation}
 
-即体系的总的分子量是各个相的分子量的相摩尔分数的加权平均。从式(\ref{EQ37B})，我们有
+即体系的总的分子量是各个相的分子量与相摩尔分数的加权平均。从式(\ref{EQ37B})，我们有
 
 \begin{equation}  
 x_i^{(k)} M_i = w_{i}^{(k)} M^{(k)}  \quad \quad (i=1,2,\cdots,c) \label{EQ37C}
@@ -261,6 +261,94 @@ w_i^{(s)} = \sum_{k=1}^{p} f_w^{(k)} w_i^{(k)}  \quad \quad (i=1,2,\cdots,c) \la
 \end{equation}
 
 这就是用质量分数表达的杠杆原理。 因此，质量分数表达的杠杆原理与摩尔分数表达的杠杆原理是一致的。
+
+<h2>5. 摩尔分数空间和质量分数空间的对应关系</h2>
+
+因为不同的组元有不同的分子量，所以相图中的相边界在摩尔分数空间和在质量分数空间是不完全一样的。但是，两个空间的点却是一一对应的，这可以从公式(\ref{EQ36})和(\ref{EQ37})看出：给定一组摩尔分数(\(x_i\))，存在唯一的一组质量分数(\(w_i\))；给定一组质量分数(\(w_i\))，也有唯一的一组摩尔分数(\(x_i\))存在。两个空间中相对应的点处的不同组元\(i\)和\(j\)的摩尔分数和质量分数之间的关系是，
+\begin{equation}
+\frac{x_i M_i}{x_j M_j} =\frac{w_i}{w_j} \quad \quad (i,j=1,2,\cdots,c)   \label{EQ40A}
+\end{equation}
+
+摩尔分数空间和质量分数空间的直线也是一一对应的。假设摩尔分数空间(\(x_i,i=1,2,\cdots,c\))中有一条直线。我们在这条直线上取三个不同的点，(\(x_i^{(s)},i=1,2,\cdots,c;s=1,2,3)\)。因为这三个点共线，它们满足杠杆原理，
+\begin{equation}
+x_i^{(3)} =  f^{(1)} x_i^{(1)} + f^{(2)} x_i^{(2)} \quad \quad (i=1,2,\cdots,c)   \label{EQ51} 
+\end{equation}
+那么，在组元\(i\)、\(j\)和\(k\)组成的三维空间\((x_i, x_j, x_k)\)里，
+\begin{align} 
+\begin {array} {|ccc|}
+ x_i^{(1)}  &   x_i^{(2)} &  x_i^{(3)}\\
+ x_j^{(1)}  &   x_j^{(2)} &  x_j^{(3)}\\
+ x_k^{(1)}  &   x_k^{(2)} &  x_k^{(3)}
+\end {array}
+ = &
+\begin {array} {|ccc|}
+ x_i^{(1)}  &   x_i^{(2)} &  x_i^{(3)}-  f^{(1)} x_i^{(1)} - f^{(2)} x_i^{(2)}\\
+ x_j^{(1)}  &   x_j^{(2)} &  x_j^{(3)}- f^{(1)} x_j^{(1)} - f^{(2)} x_j^{(2)}\\
+ x_k^{(1)}   &  x_k^{(2)} &  x_k^{(3)}-  f^{(1)} x_k^{(1)} - f^{(2)} x_k^{(2)}
+\end {array} \nonumber \\
+ = &
+\begin {array} {|ccc|}
+ x_i^{(1)}  &   x_i^{(2)} &  0\\
+ x_j^{(1)}  &   x_j^{(2)} &  0\\
+ x_k^{(1)}   &  x_k^{(2)} &  0
+\end {array} \label{EQ52}
+\end{align}
+所以，
+\begin{align} 
+\begin {array} {|ccc|}
+ x_i^{(1)}  &   x_i^{(2)} &  x_i^{(3)}\\
+ x_j^{(1)}  &   x_j^{(2)} &  x_j^{(3)}\\
+ x_k^{(1)}  &   x_k^{(2)} &  x_k^{(3)}
+\end {array}
+ = 0 \label{EQ53}
+\end{align}
+即，在摩尔分数空间\((x_i,x_j,x_k)\)中共线的三个点，它们的摩尔分数行列式的值为零。这是一个充分必要条件。
+
+下面我们利用摩尔分数和质量分数之间的关系，公式(\ref{EQ40A})，推导上面三个点在质量分数空间的相对关系。
+\begin{align} 
+\begin {array} {|ccc|}
+ x_i^{(1)}  &   x_i^{(2)} &  x_i^{(3)}\\
+ x_j^{(1)}  &   x_j^{(2)} &  x_j^{(3)}\\
+ x_k^{(1)}  &   x_k^{(2)} &  x_k^{(3)}
+\end {array}
+ =&
+\frac{1}{M_i M_j} \begin {array} {|ccc|}
+ x_i^{(1)}M_i  &   x_i^{(2)}M_i &  x_i^{(3)}M_i\\
+ x_j^{(1)}M_j  &   x_j^{(2)}M_j &  x_j^{(3)}M_j\\
+ x_k^{(1)}  &   x_k^{(2)} &  x_k^{(3)}
+\end {array} \nonumber \\
+ =&
+\frac{1}{M_i M_j} \begin {array} {|ccc|}
+ \frac{w_i^{(1)}}{w_k^{(1)}} x_k^{(1)}M_k  &  
+  \frac{w_i^{(2)}}{w_k^{(2)}} x_k^{(2)}M_k  & 
+   \frac{w_i^{(3)}}{w_k^{(3)}} x_k^{(3)}M_k \\
+ \frac{w_j^{(1)}}{w_k^{(1)}} x_k^{(1)}M_k  &  
+  \frac{w_j^{(2)}}{w_k^{(2)}} x_k^{(2)}M_k  & 
+   \frac{w_j^{(3)}}{w_k^{(3)}} x_k^{(3)}M_k \\
+ x_k^{(1)}  &   x_k^{(2)} &  x_k^{(3)}
+\end {array} \nonumber \\
+ =&
+\frac{ x_k^{(1)} x_k^{(2)} x_k^{(3)}M_k  M_k}{ w_k^{(1)} w_k^{(2)} w_k^{(3)} M_i M_j} \begin {array} {|ccc|}
+w_i^{(1)}  &  w_i^{(2)} &w_i^{(3)} \\
+w_j^{(1)}  &  w_j^{(2)} &w_j^{(3)} \\
+w_k^{(1)}  &  w_k^{(2)} &w_k^{(3)}
+\end {array} \nonumber \\
+ =&  0 \label{EQ54}
+\end{align}
+因此，
+\begin{align} 
+\begin {array} {|ccc|}
+ w_i^{(1)}  &   w_i^{(2)} &  w_i^{(3)}\\
+ w_j^{(1)}  &   w_j^{(2)} &  w_j^{(3)}\\
+ w_k^{(1)}  &   w_k^{(2)} &  w_k^{(3)}
+\end {array}
+ = 0 \label{EQ55}
+\end{align}
+所以，在质量分数空间\((w_i,w_j,w_k)\)里，这三个点也是共线的。它们也满足质量分数的杠杆原理，
+\begin{align}
+w_i^{(3)} =  f_w^{(1)} w_i^{(1)} +  f_w^{(2)} w_i^{(2)} \quad \quad (i=1,2,\cdots,c)   \label{EQ56} 
+\end{align}
+由于组元\((i,j,k)\)的选择是任意的，那么如果在摩尔分数空间，三个点满足杠杆原理，即共线，它们在质量分数空间里也一定满足杠杆原理，即共线。所以，摩尔分数空间中的直线和质量分数空间中的直线是一一对应的。换句话说，如果在摩尔分数空间里有三点共线，那么在质量分数空间里相应的三点也一定是共线的。
 
 <h2>参考文献</h2>
 
