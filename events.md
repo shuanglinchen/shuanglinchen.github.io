@@ -4,9 +4,9 @@ title: Events
 weight: 4
 ---
 
-- [TMS 2018][TMS_2018] (Phoenix, Az, March 11-15, 2018)
+- [Chinese Materials Conference 2018][CMRS_2018] (Xiamen, China, July 12-16, 2018)
 
-[TMS_2018]: http://www.tms.org/tms2018
+[CMRS_2018]: http://cmc2018.medmeeting.org/6886?lang=cn
 
 - MS&T 2018 (Columbus, OH, Oct. 14-18, 2018)
 
