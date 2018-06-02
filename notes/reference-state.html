@@ -1,0 +1,31 @@
+---
+layout: page
+title: 热力学与相图计算讲座
+weight: 0
+---
+
+<h1>第二讲:标准态与参考态</h1>
+
+热力学用能量来判断体系中相的相对稳定性。稳定是相对的。能量是绝对的，又是相对的。爱因斯坦的质能转化定律可以给出绝对的能量。一般来说，绝对能量的数值太大，不适用于热力学相平衡的计算。因此，我们定义一个标准的参考状态，简称为标准态（Standard State）。标准态的定义是：稳定单质元素在$10^5Pa$和298.15K时的焓值为零，\(H_{298.15K}=0\)(HSER:Enthalpy at Standard Element Reference)；零度(T=0K)时熵为零，$S_{0K}=0$。根据这个标准态的定义，就可以计算各个稳定单质元素的Gibbs自由能与温度、压力的函数关系。Alan Dinsdale的文章\cite{Dinsdale91}里给出了大多数元素的Gibbs自由能函数。
+
+热力学、相平衡计算常用的函数是Gibbs自由能。根据标准态的定义，单质元素的Gibbs自由能函数值一般不会等于零。但我们可以任意选定一个状态(温度、压力以及相的结构)作为参考态，因为Gibbs自由能函数值也是相对的，只要保持体系中各个相Gibbs自由能之间的差值不随参考态的选择而变化就可以了。
+
+
+<h2>1. 元素的标准状态 (Standard Element Reference State)</h2>
+
+
+元素的标准状态定义是：稳定单质元素在$10^5Pa$和298.15K时的焓值为零，零度(T=0K)是熵为零。用元素的热容对温度积分，可以得到不同温度下的焓$(H)$和熵$(S)$的值。然后利用$G=H-TS$就可以计算该元素在不同温度下的Gibbs自由能$(G)$。要注意的是，元素磷(P)的标准态的定义比较特殊\cite{Dinsdale91}。
+
+图\ref{Fig_Al_Std_St}和图\ref{Fig_Zn_Std_St}分别是元素铝和锌的液体和几种不同晶体结构的固体的Gibbs自由能随温度变化的曲线。
+
+<img src="/assets/notes/reference-state/Al-Std_St.png"></img>
+
+<p style="text-align: center">
+  图1:铝的Gibbs自由能随温度变化图
+</p>
+
+<img src="/assets/notes/reference-state/Zn-Std_St.png"></img>
+
+<p style="text-align: center">
+  图2:锌的Gibbs自由能随温度变化图
+</p>
