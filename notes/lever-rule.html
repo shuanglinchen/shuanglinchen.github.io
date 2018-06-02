@@ -47,6 +47,11 @@ weight: 0
 
 <img src="/assets/notes/lever-rule/fig1.png"></img>
 
+<p style="text-align: center">
+  图 1: 两相平衡杠杆原理示意图
+</p>
+
+
 <h2>2. 三相平衡</h2>
 
 假设一个平衡体系中有三个相：\(\alpha\)、\(\beta\)和\(\gamma\)。体系的组成与各个相的组成之间的关系是
@@ -65,6 +70,11 @@ weight: 0
 \end{align}
 
 <img src="/assets/notes/lever-rule/fig2.png"></img>
+
+<p style="text-align: center">
+  图 2: 三相平衡杠杆原理示意图
+</p>
+
 
 图2表明在二维组成空间 \(x_i\)-\(x_j\)中，体系总的组成点 \(s\)以及三个相 \(\alpha\)、\(\beta\)和\(\gamma\) 的组成点的示意图。\(s\)点位于三个相的组成点\(\alpha\)、\(\beta\)和\(\gamma\) 构成的三角形 \(\Delta _{\alpha \beta \gamma}\)的中间。 三角形 \(\Delta _{\alpha \beta \gamma}\)的三个顶点 \(\alpha\)、\(\beta\)和\(\gamma\)与\(s\)点的连线分别与三角形的边交于\(a\)、\(b\)和\(c\)。式(\ref{EQ10})-(\ref{EQ12})的解是
 
@@ -204,8 +214,8 @@ M^\alpha =\sum_{k=1}^{c} x_k^\alpha M_k  \label{EQ37A}
 
 那么，式(\ref{EQ37})可写成
 
-\begin{equation} 
-w_{i}^\alpha =\frac{ x_i^\alpha M_i} {M^\alpha} \quad \quad (i=1,2,\cdots,c) \label{EQ37B} 
+\begin{equation}
+w_{i}^\alpha =\frac{ x_i^\alpha M_i} {M^\alpha} \quad \quad (i=1,2,\cdots,c) \label{EQ37B}
 \end{equation}
 
 在一个由多个相构成的体系中，每个相的相对量可以用它的相摩尔分数或相质量分数来描述。如果\(f^{(j)}\)代表第\(j\)个相的摩尔分数，\(f_w^{(j)}\)代表第\(j\)个相的质量分数，那么它们之间的关系是
@@ -216,28 +226,28 @@ f_w^{(j)} =\frac{ f^{(j)} M^{(j)}} {\sum\limits_{k=1}^{p} f^{(k)} M^{(k)}} \quad
 其中\(M^{(j)}\)代表第\(j\)相的分子量，\(p\)是体系中相的个数。
 
 我们把表示多相平衡的杠杆原理的公式(\ref{EQ31})重新写在下面。对每一个组元\(i\)，体系中组元\(i\)的平均摩尔分数为
-\begin{equation} 
+\begin{equation}
 x_i^{(s)} = \sum_{k=1}^{p} f^{(k)} x_i^{(k)} \quad \quad (i=1,2,\cdots,c)   \label{EQ31A}
 \end{equation}
 两边乘以组元\(i\)的分子量\(M_i\)
-\begin{equation}   
+\begin{equation}
 x_i^{(s)}M_i = \sum_{k=1}^{p} f^{(k)} x_i^{(k)}M_i \quad \quad (i=1,2,\cdots,c)   \label{EQ31B}
 \end{equation}
 对上式中的所有组元\(i\)求和，
 
-\begin{equation}  
+\begin{equation}
 \sum_{i=1}^{c}x_i^{(s)}M_i = \sum_{k=1}^{p} f^{(k)} \sum_{i=1}^{c}  x_i^{(k)}M_i   \label{EQ31C}
 \end{equation}
 
 用相的分子量\(M^{(k)}\)替代\(\sum\limits_{i=1}^{c}x_i^{(k)}M_i\),上式变成
 
-\begin{equation} 
+\begin{equation}
 M^{(s)}= \sum_{k=1}^{p} f^{(k)} M^{(k)}   \label{EQ31D}
 \end{equation}
 
 即体系的总的分子量是各个相的分子量与相摩尔分数的加权平均。从式(\ref{EQ37B})，我们有
 
-\begin{equation}  
+\begin{equation}
 x_i^{(k)} M_i = w_{i}^{(k)} M^{(k)}  \quad \quad (i=1,2,\cdots,c) \label{EQ37C}
 \end{equation}
 
@@ -249,7 +259,7 @@ w_i^{(s)} M^{(s)}= \sum_{k=1}^{p}f^{(k)} w_i^{(k)} M^{(k)} \quad \quad (i=1,2,\c
 
 两边同除以\(M^{(s)}\)，并运用式(\ref{EQ31D})，
 
-\begin{align} 
+\begin{align}
 w_i^{(s)} &= \sum_{k=1}^{p} \frac{f^{(k)}M^{(k)}} {M^{(s)}} w_i^{(k)} \nonumber \\
                &= \sum_{k=1}^{p} \frac{f^{(k)}M^{(k)}} {\sum\limits_{r=1}^{p} f^{(r)} M^{(r)}} w_i^{(k)}  \quad \quad (i=1,2,\cdots,c) \label{EQ37E}
 \end{align}
@@ -271,10 +281,10 @@ w_i^{(s)} = \sum_{k=1}^{p} f_w^{(k)} w_i^{(k)}  \quad \quad (i=1,2,\cdots,c) \la
 
 摩尔分数空间和质量分数空间的直线也是一一对应的。假设摩尔分数空间(\(x_i,i=1,2,\cdots,c\))中有一条直线。我们在这条直线上取三个不同的点，(\(x_i^{(s)},i=1,2,\cdots,c;s=1,2,3)\)。因为这三个点共线，它们满足杠杆原理，
 \begin{equation}
-x_i^{(3)} =  f^{(1)} x_i^{(1)} + f^{(2)} x_i^{(2)} \quad \quad (i=1,2,\cdots,c)   \label{EQ51} 
+x_i^{(3)} =  f^{(1)} x_i^{(1)} + f^{(2)} x_i^{(2)} \quad \quad (i=1,2,\cdots,c)   \label{EQ51}
 \end{equation}
 那么，在组元\(i\)、\(j\)和\(k\)组成的三维空间\((x_i, x_j, x_k)\)里，
-\begin{align} 
+\begin{align}
 \begin {array} {|ccc|}
  x_i^{(1)}  &   x_i^{(2)} &  x_i^{(3)}\\
  x_j^{(1)}  &   x_j^{(2)} &  x_j^{(3)}\\
@@ -294,7 +304,7 @@ x_i^{(3)} =  f^{(1)} x_i^{(1)} + f^{(2)} x_i^{(2)} \quad \quad (i=1,2,\cdots,c) 
 \end {array} \label{EQ52}
 \end{align}
 所以，
-\begin{align} 
+\begin{align}
 \begin {array} {|ccc|}
  x_i^{(1)}  &   x_i^{(2)} &  x_i^{(3)}\\
  x_j^{(1)}  &   x_j^{(2)} &  x_j^{(3)}\\
@@ -305,7 +315,7 @@ x_i^{(3)} =  f^{(1)} x_i^{(1)} + f^{(2)} x_i^{(2)} \quad \quad (i=1,2,\cdots,c) 
 即，在摩尔分数空间\((x_i,x_j,x_k)\)中共线的三个点，它们的摩尔分数行列式的值为零。这是一个充分必要条件。
 
 下面我们利用摩尔分数和质量分数之间的关系，公式(\ref{EQ40A})，推导上面三个点在质量分数空间的相对关系。
-\begin{align} 
+\begin{align}
 \begin {array} {|ccc|}
  x_i^{(1)}  &   x_i^{(2)} &  x_i^{(3)}\\
  x_j^{(1)}  &   x_j^{(2)} &  x_j^{(3)}\\
@@ -319,11 +329,11 @@ x_i^{(3)} =  f^{(1)} x_i^{(1)} + f^{(2)} x_i^{(2)} \quad \quad (i=1,2,\cdots,c) 
 \end {array} \nonumber \\
  =&
 \frac{1}{M_i M_j} \begin {array} {|ccc|}
- \frac{w_i^{(1)}}{w_k^{(1)}} x_k^{(1)}M_k  &  
-  \frac{w_i^{(2)}}{w_k^{(2)}} x_k^{(2)}M_k  & 
+ \frac{w_i^{(1)}}{w_k^{(1)}} x_k^{(1)}M_k  &
+  \frac{w_i^{(2)}}{w_k^{(2)}} x_k^{(2)}M_k  &
    \frac{w_i^{(3)}}{w_k^{(3)}} x_k^{(3)}M_k \\
- \frac{w_j^{(1)}}{w_k^{(1)}} x_k^{(1)}M_k  &  
-  \frac{w_j^{(2)}}{w_k^{(2)}} x_k^{(2)}M_k  & 
+ \frac{w_j^{(1)}}{w_k^{(1)}} x_k^{(1)}M_k  &
+  \frac{w_j^{(2)}}{w_k^{(2)}} x_k^{(2)}M_k  &
    \frac{w_j^{(3)}}{w_k^{(3)}} x_k^{(3)}M_k \\
  x_k^{(1)}  &   x_k^{(2)} &  x_k^{(3)}
 \end {array} \nonumber \\
@@ -336,7 +346,7 @@ w_k^{(1)}  &  w_k^{(2)} &w_k^{(3)}
  =&  0 \label{EQ54}
 \end{align}
 因此，
-\begin{align} 
+\begin{align}
 \begin {array} {|ccc|}
  w_i^{(1)}  &   w_i^{(2)} &  w_i^{(3)}\\
  w_j^{(1)}  &   w_j^{(2)} &  w_j^{(3)}\\
@@ -346,7 +356,7 @@ w_k^{(1)}  &  w_k^{(2)} &w_k^{(3)}
 \end{align}
 所以，在质量分数空间\((w_i,w_j,w_k)\)里，这三个点也是共线的。它们也满足质量分数的杠杆原理，
 \begin{align}
-w_i^{(3)} =  f_w^{(1)} w_i^{(1)} +  f_w^{(2)} w_i^{(2)} \quad \quad (i=1,2,\cdots,c)   \label{EQ56} 
+w_i^{(3)} =  f_w^{(1)} w_i^{(1)} +  f_w^{(2)} w_i^{(2)} \quad \quad (i=1,2,\cdots,c)   \label{EQ56}
 \end{align}
 由于组元\(i\)、\(j\)和\(k\)的选择是任意的，那么如果在摩尔分数空间，三个点满足杠杆原理，即共线，它们在质量分数空间里也一定满足杠杆原理，即共线。所以，摩尔分数空间中的直线和质量分数空间中的直线是一一对应的。换句话说，如果在摩尔分数空间里有三点共线，那么在质量分数空间里相应的三点也一定是共线的。
 
