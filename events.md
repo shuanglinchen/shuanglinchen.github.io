@@ -4,7 +4,6 @@ title: Events
 weight: 4
 ---
 
-
 - MS&T 2018 (Columbus, OH, Oct. 14-18, 2018)
 
 - TMS 2019 (San Antonio, TX, Mar. 10-14, 2019)
