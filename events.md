@@ -4,13 +4,21 @@ title: Events
 weight: 4
 ---
 
-- TMS 2019 (San Antonio, TX, Mar. 10-14, 2019)
+- AMDS 2019 (Shanghai, China, Apr. 15-18, 2019)
+
+- Pandat Training Class (Beijing, China, Apr. 18-19, 2019)
+
+- Phase Field Conference (Guilin, China, Apr. 26-29, 2019)
+
+- PF 19 (Bochum, Germany, July 22-25, 2019)
+
+- PRICM-10 (Xi'an, China, Aug. 18-22, 2019)
 
 - MS&T 2019 (Portland, OR, Sept.29 - Oct.3, 2019)
 
 - TMS 2020 (San Diego, CA, Feb. 23-27, 2020)
 
-- ASM 2020 (Cleveland, OH, Sept. 14-17, 2020)
+- IMAT 2020 (ASM) (Cleveland, OH, Sept. 14-17, 2020)
 
 - MS&T 2020 (Pittsburgh, PA, Oct. 4-8, 2020)
 
