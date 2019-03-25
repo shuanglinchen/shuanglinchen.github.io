@@ -23,3 +23,5 @@ weight: 4
 - MS&T 2020 (Pittsburgh, PA, Oct. 4-8, 2020)
 
 - TMS 2021 (Orlando, FL, Mar. 7-11, 2021)
+
+- TMS 2022 (Mar, 2022)
