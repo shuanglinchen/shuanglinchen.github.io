@@ -62,10 +62,14 @@ where \((x_1,x_2,\cdots,x_c)\) are treated as the independent compositional vari
 
 Now let's see how to express the second derivatives of Gibbs free energy in terms of the thermodynamic factors.
 If we use this compositional variable set \((X_2,X_3,\cdots,X_c)\), the first and second derivatives of \(G\) are
+
 \begin {align}
 \frac{\partial G}{\partial X_j}=  & \sum_{i=2}^{c}  \frac{\partial G}{\partial x_i}   \frac{\partial x_i}{\partial x_j} + \frac{\partial G}{\partial x_1} \frac{\partial x_1}{\partial x_j}  \quad \quad \quad \quad  (j=2,3,\cdots,c) \\
 =  &   \frac{\partial G}{\partial x_j}  - \frac{\partial G}{\partial x_1}  \quad \quad \quad \quad \quad \quad  (j=2,3,\cdots,c) \\
-=  &   \mu_j - \mu_1  \quad \quad \quad \quad \quad \quad  (j=2,3,\cdots,c) \\
+=  &   \mu_j - \mu_1  \quad \quad \quad \quad \quad \quad  (j=2,3,\cdots,c) 
+\end{align}
+
+\begin {align}
 \frac{\partial^2 G}{\partial X_j \partial X_k}
      = &\sum_{i=2}^{c} \frac{\partial (\mu_j - \mu_1)}{\partial x_i}   \frac{\partial x_i}{\partial x_k} + \frac{\partial (\mu_j - \mu_1)} {\partial x_1} \frac{\partial x_1}{\partial x_k}  \quad \quad \quad \quad  (j, k=2,3,\cdots,c) \\
          = &  (\frac{\partial \mu_j}{\partial x_k} - \frac{\partial \mu_1}{\partial x_k})  
