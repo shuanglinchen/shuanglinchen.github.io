@@ -47,7 +47,19 @@ Therefore, the first order derivative of \(G\) w.r.t molar fraction, \(x_j\), is
 
 <br/>
 
-<b><i>Thermodynamic Factor </b/></i> <br/><br/>
+<b><i>Thermodynamic Factor and Partial Derivatives of Gibbs Free Energy</b/></i> <br/><br/>
+
+In Pandat, thermodynamic factors are available with the format {\tt ThF(*,*@*)}, which is defined by
+\begin{equation} 
+{\tt ThF(x_i,x_j) }=  \frac{\partial \mu_i}{\partial x_j}  \quad \quad \quad \quad  (i,j=1,2,\cdots,c) 
+\end{equation}
+where \((x_1,x_2,\cdots,x_c))\ are treated as the independent compositional variables. If the component \(1)\ is assumed to be the solvent component and its molar fraction \(x_1)\ is taken as the dependent variable, the independent compositional variables now are \((X_2,X_3,\cdots,X_{c}))\. Here we use capital \(X)\ to distinguish this set of variables from \((x_1,x_2,\cdots,x_c))\. Then we have
+
+\begin{equation} 
+\frac{\partial \mu_j}{\partial X_k}= &\frac{\partial \mu_j}{\partial x_k} - \frac{\partial \mu_1}{\partial x_k}\quad \quad \quad \quad  (j, k=2,3,\cdots,c) \\
+ = &{\tt ThF(x_j,x_k) } - {\tt ThF(x_1,x_k) } \quad \quad \quad \quad  (j, k=2,3,\cdots,c)
+\end{equation}
+Now let's see how to express the second derivatives of Gibbs free energy in terms of the thermodynamic factors.
 
 Assume the Gibbs energy is a function of \(c-1\) independent composition variables,
 
