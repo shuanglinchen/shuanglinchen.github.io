@@ -49,7 +49,7 @@ Therefore, the first order derivative of \(G\) w.r.t molar fraction, \(x_j\), is
 
 <b><i>Thermodynamic Factor and Partial Derivatives of Gibbs Free Energy</b/></i> <br/><br/>
 
-In Pandat, thermodynamic factors are available with the format {\tt ThF(*,*@*)}, which is defined by
+In Pandat, thermodynamic factors are available with the format  \{\tt ThF(*,*@*)\), which is defined by
 \begin{equation} 
 {\tt ThF(x_i,x_j) }=  \frac{\partial \mu_i}{\partial x_j}  \quad \quad \quad \quad  (i,j=1,2,\cdots,c) 
 \end{equation}
@@ -76,4 +76,4 @@ If we use this compositional variable set \((X_2,X_3,\cdots,X_c)\), the first an
            - (\frac{\partial \mu_j}{\partial x_1} - \frac{\partial \mu_1}{\partial x_1})     \quad \quad \quad \quad  (j, k=2,3,\cdots,c) \\             
      = &  {\tt ThF(x_j,x_k) } - {\tt ThF(x_1,x_k) } - {\tt ThF(x_j,x_1) } +  {\tt ThF(x_1,x_1) } \quad \quad  (j, k=2,3,\cdots,c)
 \end{align}
-Thermodynamic factors are available from Pandat.
+
