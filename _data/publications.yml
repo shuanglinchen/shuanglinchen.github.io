@@ -11,6 +11,18 @@
   pdfLink: yes
 
 - type: journal
+  id: Zhang
+  authors: C. Zhang,  J. Miao, S. Chen, F. Zhang and A. Luo
+  title: CALPHAD-Based Modeling and Experimental Validation of Microstructural Evolution and Microsegregation in Magnesium Alloys During Solidification  
+  journal: J. Phase Equilib. Diffus.
+  volume: 40
+  issue: 3
+  year: 2019
+  pages:  0-0
+  link: https://link.springer.com/article/10.1007/s11669-019-00732-0
+  pdfLink: yes
+  
+- type: journal
   id: Shi
   authors: Y. Shi, H. Leng, L. Wei, S. Chen, and Q. Li
   title: The microstructure and electrochemical properties of Mn-doped La-Y-Ni-based metal-hydride electrode materials  
@@ -23,6 +35,18 @@
   pdfLink: yes
 
 - type: journal
+  id: Zhang_2
+  authors: F. Zhang,  C. Zhang,  D. Lv, J. Zhu, W. Cao, S. Chen and R.  Schmid-Fetzer
+  title: Prediction of Glass Forming Ability Through High Throughput Calculation  
+  journal: J. Phase Equilib. Diffus.
+  volume: 39
+  issue: 5
+  year: 2018
+  pages:  562-570
+  link: https://link.springer.com/article/10.1007/s11669-018-0643-2
+  pdfLink: yes
+  
+- type: journal
   id: Shi
   authors: Y. Shi, H. Leng, Q. Luo, S. Chen, and Q. Li
   title: Eﬀect of substituting Y with Mg on the microstructure and electrochemical performance of LaY2Ni9 hydrogen storage alloy 
@@ -34,6 +58,18 @@
   link: https://doi.org/10.1016/j.cattod.2018.08.016
   pdfLink: yes
 
+- type: journal
+  id: Zhang_1
+  authors: C. Zhang, F. Zhang, K. Jin, H. Bei, S. Chen, W, Cao, J, Zhu and D. Lv
+  title: Understanding of the Elemental Diffusion Behavior in Concentrated Solid Solution Alloys
+  journal: J. Phase Equilib. Diffus.
+  volume: 38
+  issue: 4
+  year: 2017
+  pages:  434-444
+  link: https://link.springer.com/article/10.1007/s11669-017-0580-5
+  pdfLink: yes
+  
 - type: journal
   id: An
   authors: X. An, P. Zhang, J. Cheng, S. Chen and J. Wang
