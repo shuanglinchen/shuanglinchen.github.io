@@ -86,4 +86,15 @@ Traditionally, chemical potential can be expressed as a function of activity or 
 
 Substituting  Eq.(\ref{A35}) into  Eq.(\ref{A25}), we have
 
+\begin{align}
+{\tt ThF(x_i,x_j) } =& \frac{\partial (\mu_i^{\circ} + RT \ln \gamma_i x_i)}{\partial x_j}  &\quad \quad \quad \quad  (i,j=1,2,\cdots,c)  \nonumber \\
+=&  RT \frac{\partial ( \ln \gamma_i x_i)}{\partial x_j}  &\quad \quad \quad \quad  (i,j=1,2,\cdots,c)
+\end{align}
+
+When \(i=j\), above equation becomes
+
+\begin {align}
+{\tt ThF(x_i,x_i) }=&  \frac {RT}{x_i}  \frac{\partial ( \ln \gamma_i x_i)}{\partial \ln x_i}  &\quad \quad \quad \quad  (i=1,2,\cdots,c) \nonumber \\
+                         =&  \frac {RT}{x_i}   \left( 1+ \frac{\partial \ln \gamma_i}{\partial \ln x_i}\right)  &\quad \quad \quad \quad  (i=1,2,\cdots,c)
+\end{align}
 
