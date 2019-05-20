@@ -12,6 +12,18 @@
 
 - type: journal
   id: Shi
+  authors: Y. Shi, H. Leng, L. Wei, S. Chen, and Q. Li
+  title: The microstructure and electrochemical properties of Mn-doped La-Y-Ni-based metal-hydride electrode materials  
+  journal: Electrochimica Acta
+  volume: 296
+  issue: 
+  year: 2019
+  pages:  18-26
+  link: https://doi.org/10.1016/j.electacta.2018.11.015
+  pdfLink: yes
+
+- type: journal
+  id: Shi
   authors: Y. Shi, H. Leng, Q. Luo, S. Chen, and Q. Li
   title: Eﬀect of substituting Y with Mg on the microstructure and electrochemical performance of LaY2Ni9 hydrogen storage alloy 
   journal: Catalysis Today
