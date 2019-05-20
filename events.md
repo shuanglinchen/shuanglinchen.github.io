@@ -4,15 +4,7 @@ title: Events
 weight: 4
 ---
 
-- AMDS 2019 (Shanghai, China, Apr. 15-18, 2019)
-
-- Pandat Training Class (Beijing, China, Apr. 18-19, 2019)
-
-- Phase Field Conference (Guilin, China, Apr. 26-29, 2019)
-
 - PF 19 (Bochum, Germany, July 22-25, 2019)
-
-- PRICM-10 (Xi'an, China, Aug. 18-22, 2019)
 
 - MS&T 2019 (Portland, OR, Sept.29 - Oct.3, 2019)
 
