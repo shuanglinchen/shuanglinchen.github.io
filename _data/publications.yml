@@ -1,5 +1,29 @@
 - type: journal
   id: An
+  authors: D. An, S. Chen, D. Sun, S. Pan, B. W. Krakauer and M. Zhu
+  title: A cellular automaton model integrated with CALPHAD-based thermodynamic calculations for ferrite-austenite phase transformations in multicomponent alloys 
+  journal: Computational Materials Science
+  volume: 166
+  issue: 
+  year: 2019
+  pages:  210-220
+  link: https://www.sciencedirect.com/science/article/pii/S0927025619302769
+  pdfLink: yes
+
+- type: journal
+  id: Shi
+  authors: Y. Shi, H. Leng, Q. Luo, S. Chen, and Q. Li
+  title: Eﬀect of substituting Y with Mg on the microstructure and electrochemical performance of LaY2Ni9 hydrogen storage alloy 
+  journal: Catalysis Today
+  volume: 318
+  issue: 
+  year: 2018
+  pages:  86-90
+  link: https://doi.org/10.1016/j.cattod.2018.08.016
+  pdfLink: yes
+
+- type: journal
+  id: An
   authors: X. An, P. Zhang, J. Cheng, S. Chen and J. Wang
   title: Thermodynamic Reevaluation and Experimental Validation of  the CsNO3-KNO3-NaNO3 System and Its Subsystems
   journal: Chem. Res. Chin. Univ.
@@ -9,7 +33,7 @@
   pages:  122-128
   link: https://link.springer.com/article/10.1007/s40242-017-6137-7
   pdfLink: yes
-
+  
 - type: journal
   id: Morral_2
   authors: J. E. Morral, S.-L. Chen
@@ -37,7 +61,7 @@
 - type: journal
   id: Morral_1
   authors: J. E. Morral, S.-L. Chen
-  title: High Entropy Alloys, Miscibility Gaps and the Rose Geometry
+  title: High Entropy Alloys, Miscibility Gaps and the Rose Geometry (2017 APDIC Best Paper Award)
   journal: J. Phase Equilib. Diffus.
   volume: 38
   issue: 3
