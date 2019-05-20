@@ -35,7 +35,7 @@
   pdfLink: yes
 
 - type: journal
-  id: Zhang_2
+  id: Zhang
   authors: F. Zhang,  C. Zhang,  D. Lv, J. Zhu, W. Cao, S. Chen and R.  Schmid-Fetzer
   title: Prediction of Glass Forming Ability Through High Throughput Calculation  
   journal: J. Phase Equilib. Diffus.
@@ -59,7 +59,7 @@
   pdfLink: yes
 
 - type: journal
-  id: Zhang_1
+  id: Zhang
   authors: C. Zhang, F. Zhang, K. Jin, H. Bei, S. Chen, W, Cao, J, Zhu and D. Lv
   title: Understanding of the Elemental Diffusion Behavior in Concentrated Solid Solution Alloys
   journal: J. Phase Equilib. Diffus.
