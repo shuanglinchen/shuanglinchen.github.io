@@ -1,4 +1,16 @@
 - type: journal
+  id: Morral
+  authors: J. E. Morral and Shuanglin Chen
+  title: Gibbs–Schreinemakers–Meijering Mechanisms for 3-Phase Miscibility Gap Formation 
+  journal: J. Phase Equilib. Diffus.
+  volume: 40
+  issue: 4
+  year: 2019
+  pages:  0-0
+  link: https://rdcu.be/bNHac 
+  pdfLink: yes
+
+- type: journal
   id: An
   authors: D. An, S. Chen, D. Sun, S. Pan, B. W. Krakauer and M. Zhu
   title: A cellular automaton model integrated with CALPHAD-based thermodynamic calculations for ferrite-austenite phase transformations in multicomponent alloys 
@@ -16,7 +28,7 @@
   title: CALPHAD-Based Modeling and Experimental Validation of Microstructural Evolution and Microsegregation in Magnesium Alloys During Solidification  
   journal: J. Phase Equilib. Diffus.
   volume: 40
-  issue: 3
+  issue: 4
   year: 2019
   pages:  0-0
   link: https://link.springer.com/article/10.1007/s11669-019-00732-0
