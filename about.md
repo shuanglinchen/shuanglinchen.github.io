@@ -50,6 +50,10 @@ Reading, stamp collecting, playing bridge, golfing
 
 [HEF link]: http://www.hometowneducation.org
 
+[The Needham Research Institute 英国剑桥大学 李约瑟研究所 (所长 梅建军)][NRI link]
+
+[NRI link]: http://www.nri.cam.ac.uk/
+
 ## Contact
 
 shuanglin.chen~at~hotmail~dot~com
