@@ -1,0 +1,124 @@
+---
+layout: page
+title: Thermodynamic Factor
+weight: 0
+---
+
+
+<b><i>The First Order Derivative of Gibbs Energy w.r.t. Molar Fraction </b/></i> <br/><br/>
+
+
+Let \(G\) be the molar Gibbs energy of a \(c\)-component phase and \(\mu _k\) the chemical potential of component \(k\).
+
+\begin{equation} 
+G = G(x_1,x_2,\cdots,x_c)
+\end{equation}
+
+The chemical potential of the component \(k\), \(\mu _k\), is calculated by the following equation,
+
+\begin{align}
+\mu_k = G-\sum_{j=1}^{c} x_j \frac{\partial G}{\partial x_j} +\frac{\partial G}{\partial x_k}  \quad \quad \quad \quad (k=1,2,\cdots,c) \label {A2}
+\end{align}
+
+If the component \(c\) is taken as the dependent component, 
+
+\begin{align}
+x_c =1 - \sum_{j=1}^{c-1} x_j
+\end{align}
+
+then, the Gibbs energy is a function of \(c-1\) variables only,
+\begin{equation} 
+G = G(x_1,x_2,\cdots,x_{c-1})
+\end{equation}
+
+The chemical potential of the component \(k\), \(\mu _k\), is now calculated by these following equations,
+\begin{align}
+\mu_k = &G-\sum_{j=1}^{c-1} x_j \frac{\partial G}{\partial x_j} +\frac{\partial G}{\partial x_k}  \quad \quad \quad \quad (k=1,2,\cdots,c-1) \label {A5} \\
+\mu_c = &G-\sum_{j=1}^{c-1} x_j \frac{\partial G}{\partial x_j} \label {A6}
+\end{align}
+
+Please note that \(\displaystyle \frac{\partial G}{\partial x_k}\) in Eq.\eqref{A5} and Eq.\eqref{A6} is different from that in Eq.\eqref{A2}.
+
+
+Therefore, the first order derivative of \(G\) w.r.t molar fraction, \(x_j\), is given by
+\begin{align}
+\frac{\partial G}{\partial x_k} = \mu_k -  \mu_c \quad \quad \quad \quad (k=1,2,\cdots,c-1) \label {A7}
+\end{align}
+
+<br/>
+
+<b><i>Thermodynamic Factor and Partial Derivatives of Gibbs Free Energy</b/></i> <br/><br/>
+
+In Pandat, thermodynamic factors are available with the format  \(\tt ThF(*,*@*)\), which is defined by
+\begin{equation} 
+{\tt ThF(x_i,x_j) }=  \frac{\partial \mu_i}{\partial x_j}  \quad \quad \quad \quad  (i,j=1,2,\cdots,c)  \label {A25}  
+\end{equation}
+where \((x_1,x_2,\cdots,x_c)\) are treated as the independent compositional variables. If the component \(1\) is assumed to be the solvent component and its molar fraction \(x_1\) is taken as the dependent variable, the independent compositional variables now are \((X_2,X_3,\cdots,X_{c})\). Here we use capital \(X\) to distinguish this set of variables from \((x_1,x_2,\cdots,x_c)\). Then we have
+
+\begin{align}
+\frac{\partial \mu_j}{\partial X_k}= &\frac{\partial \mu_j}{\partial x_k} - \frac{\partial \mu_1}{\partial x_k}\quad \quad \quad \quad  (j, k=2,3,\cdots,c) \\
+ = &{\tt ThF(x_j,x_k) } - {\tt ThF(x_1,x_k) } \quad \quad \quad \quad  (j, k=2,3,\cdots,c)
+\end{align}
+
+Now let's see how to express the second derivatives of Gibbs free energy in terms of the thermodynamic factors.
+If we use this compositional variable set \((X_2,X_3,\cdots,X_c)\), the first and second derivatives of \(G\) are
+
+\begin{align}
+\frac{\partial G}{\partial X_j}=  & \sum_{i=2}^{c}  \frac{\partial G}{\partial x_i}   \frac{\partial x_i}{\partial x_j} + \frac{\partial G}{\partial x_1} \frac{\partial x_1}{\partial x_j}  \quad \quad \quad \quad  (j=2,3,\cdots,c) \\
+=  &   \frac{\partial G}{\partial x_j}  - \frac{\partial G}{\partial x_1}  \quad \quad \quad \quad \quad \quad  (j=2,3,\cdots,c) \\
+=  &   \mu_j - \mu_1  \quad \quad \quad \quad \quad \quad  (j=2,3,\cdots,c) \\
+\frac{\partial^2 G}{\partial X_j \partial X_k}
+     = &\sum_{i=2}^{c} \frac{\partial (\mu_j - \mu_1)}{\partial x_i}   \frac{\partial x_i}{\partial x_k} + \frac{\partial (\mu_j - \mu_1)} {\partial x_1} \frac{\partial x_1}{\partial x_k} \nonumber \\
+      &\quad \quad\quad \quad\quad \quad\quad \quad\   (j, k=2,3,\cdots,c) \\
+         = &  (\frac{\partial \mu_j}{\partial x_k} - \frac{\partial \mu_1}{\partial x_k})  
+           - (\frac{\partial \mu_j}{\partial x_1} - \frac{\partial \mu_1}{\partial x_1})  \nonumber \\
+              &\quad \quad\quad \quad\quad \quad\quad \quad   (j, k=2,3,\cdots,c) \\             
+     = &  {\tt ThF(x_j,x_k) } - {\tt ThF(x_1,x_k) } - {\tt ThF(x_j,x_1) } +  {\tt ThF(x_1,x_1) } \nonumber \\
+      &\quad \quad\quad \quad\quad \quad\quad \quad  (j, k=2,3,\cdots,c)
+\end{align}
+
+Traditionally, chemical potential can be expressed as a function of activity or activity coefficient,
+
+\begin{align}
+\mu_i =& \mu_i^{\circ} + RT \ln a_i  \quad \quad \quad \quad  (i=1,2,\cdots,c) \\
+         =& \mu_i^{\circ} + RT \ln \gamma_i x_i  \quad \quad \quad \quad  (i=1,2,\cdots,c)  \label {A35}  
+\end{align}
+
+Substituting  Eq.(\ref{A35}) into  Eq.(\ref{A25}), we have
+
+\begin{align}
+{\tt ThF(x_i,x_j) } =& \frac{\partial (\mu_i^{\circ} + RT \ln \gamma_i x_i)}{\partial x_j}  &\quad \quad \quad \quad  (i,j=1,2,\cdots,c)  \nonumber \\
+=&  RT \frac{\partial ( \ln \gamma_i x_i)}{\partial x_j}  &\quad \quad \quad \quad  (i,j=1,2,\cdots,c)
+\end{align}
+
+When \(i=j\), above equation becomes
+
+\begin{align}
+{\tt ThF(x_i,x_i) }=&  \frac {RT}{x_i}  \frac{\partial ( \ln \gamma_i x_i)}{\partial \ln x_i}  &\quad \quad \quad \quad  (i=1,2,\cdots,c) \nonumber \\
+                         =&  \frac {RT}{x_i}   \left( 1+ \frac{\partial \ln \gamma_i}{\partial \ln x_i}\right)  &\quad \quad \quad \quad  (i=1,2,\cdots,c)
+\end{align}
+
+Sometimes, the term \(1+ \frac{\partial \ln \gamma_i}{\partial \ln x_i}\) is called as thermodynamic factor. 
+
+\begin{align}
+1+ \frac{\partial \ln \gamma_i}{\partial \ln x_i} &=  {\tt ThF(x_i,x_i) } \frac{x_i} {RT}   &\quad \quad \quad \quad  (i=1,2,\cdots,c)
+\end{align}
+
+For a dilute solution of component \(i\), \(x_i \rightarrow 0\) and \(\gamma_i \rightarrow constant \) (Henry's law). Then we have
+
+\begin{align}
+ {\tt ThF(x_i,x_i) } \frac{x_i} {RT} = 1  &\quad \quad \quad \quad  (i=1,2,\cdots,c)
+\end{align}
+
+If component \(i\) is the solvent and \(x_i \rightarrow 1\), then \(\gamma_i \rightarrow 1\) according to Raoult's law. We also have
+
+\begin{align}
+ {\tt ThF(x_i,x_i) } \frac{1} {RT} = 1  &\quad \quad \quad \quad  (i=1,2,\cdots,c)
+\end{align}
+or
+
+\begin{align}
+ {\tt ThF(x_i,x_i) }= RT  &\quad \quad \quad \quad  (i=1,2,\cdots,c)
+\end{align}
+
+
