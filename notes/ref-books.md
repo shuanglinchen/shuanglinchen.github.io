@@ -6,7 +6,7 @@ weight: 0
 
 ## _Thermodynamics and Phase Diagrams_
 
-- Mats Hillert, [Phase Equilibria, Phase Diagrams and Phase Transformations : Their Thermodynamic Basis] [Hil07], Cambridge University Press; 2 edition (2007)
+- Mats Hillert, [Phase Equilibria, Phase Diagrams and Phase Transformations : Their Thermodynamic Basis] [Hil07], Cambridge University Press; 2 ed. (2007)
 
 [Hil07]: https://www.amazon.com/Phase-Equilibria-Diagrams-Transformations-Thermodynamic/dp/0521853516
 
