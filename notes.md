@@ -13,3 +13,5 @@ weight: 3
 - [Lever Rule](http://shuanglinchen.com/notes/lever-rule)
 
 - [Reference State](http://shuanglinchen.com/notes/reference-state)
+
+- [Gibbs Energy and Stability](http://shuanglinchen.com/notes/Gibbs-energy-stability)
