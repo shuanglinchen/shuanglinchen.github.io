@@ -14,4 +14,4 @@ weight: 3
 
 - [Reference State](http://shuanglinchen.com/notes/reference-state)
 
-- [Gibbs Energy and Stability](http://shuanglinchen.com/notes/Gibbs-energy-stability)
+- [Gibbs Energy and Stability](http://shuanglinchen.com/notes/Gibbs_enerngy_Change.pdf)
