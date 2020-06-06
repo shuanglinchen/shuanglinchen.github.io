@@ -4,8 +4,6 @@ title: Events
 weight: 4
 ---
 
-- TMS 2020 (San Diego, CA, Feb. 23-27, 2020)
-
 - IMAT 2020 (ASM) (Cleveland, OH, Sept. 14-17, 2020)
 
 - MS&T 2020 (Pittsburgh, PA, Oct. 4-8, 2020)
