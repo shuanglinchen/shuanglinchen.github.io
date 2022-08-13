@@ -1,4 +1,28 @@
 - type: journal
+  id: Chen_2022
+  authors: Shuanglin Chen, Rainer Schmid-Fetzer and J. E. Morral 
+  title: Calculation of Critical Points
+  journal: J. Phase Equilib. Diffus.
+  volume: 43
+  issue: 6
+  year: 2022
+  pages: 
+  link: 
+  pdfLink: no
+  
+- type: journal
+  id: Morral_2021
+  authors: J. E. Morral and Shuanglin Chen
+  title: Stability of High Entropy Alloys to Spinodal Decomposition
+  journal: J. Phase Equilib. Diffus.
+  volume: 42
+  issue: 5
+  year: 2021
+  pages:  673–695
+  link: https://rdcu.be/cTBUM
+  pdfLink: yes
+
+- type: journal
   id: Morral
   authors: J. E. Morral and Shuanglin Chen
   title: Gibbs–Schreinemakers–Meijering Mechanisms for 3-Phase Miscibility Gap Formation 
