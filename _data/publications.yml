@@ -1,5 +1,5 @@
 - type: journal
-  id: Chen_2022
+  id: Chen
   authors: Shuanglin Chen, Rainer Schmid-Fetzer and J. E. Morral 
   title: Calculation of Critical Points
   journal: J. Phase Equilib. Diffus.
@@ -11,7 +11,7 @@
   pdfLink: no
   
 - type: journal
-  id: Morral_2021
+  id: Morral
   authors: J. E. Morral and Shuanglin Chen
   title: Stability of High Entropy Alloys to Spinodal Decomposition
   journal: J. Phase Equilib. Diffus.
