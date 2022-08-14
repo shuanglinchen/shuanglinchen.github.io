@@ -23,6 +23,18 @@
   pdfLink: yes
 
 - type: journal
+  id: Zhang
+  authors: Fan Zhang, Songmao Liang, Chuan Zhang, Shuanglin Chen, Duchao Lv, Weisheng Cao, and Sindo Kou
+  title: Prediction of Cracking Susceptibility of Commercial Aluminum Alloys during Solidification
+  journal: Metals
+  volume: 11
+  issue: 9
+  year: 2021
+  pages:  1479
+  link: https://doi.org/10.3390/met11091479
+  pdfLink: no
+
+- type: journal
   id: Morral
   authors: J. E. Morral and Shuanglin Chen
   title: Gibbs–Schreinemakers–Meijering Mechanisms for 3-Phase Miscibility Gap Formation 
@@ -45,6 +57,18 @@
   pages:  210-220
   link: https://www.sciencedirect.com/science/article/pii/S0927025619302769
   pdfLink: yes
+
+- type: journal
+  id: Lin
+  authors: Xin Lin, Dongke Sun, Shuanglin Chen, Qi Zhu, Haiyan Leng, and Qian Li
+  title: Numerical analysis on pulverization and self-densification for hydrogen storage performance of a metal hydride tank
+  journal: Applied Thermal Engineering
+  volume: 161
+  issue: 10
+  year: 2019
+  pages:  114129
+  link: https://doi.org/10.1016/j.applthermaleng.2019.114129
+  pdfLink: no
 
 - type: journal
   id: Zhang
