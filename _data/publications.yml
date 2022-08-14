@@ -32,7 +32,7 @@
   year: 2021
   pages:  1479
   link: https://doi.org/10.3390/met11091479
-  pdfLink: no
+  pdfLink: yes
 
 - type: journal
   id: Morral
@@ -73,7 +73,7 @@
 - type: journal
   id: Zhang
   authors: C. Zhang,  J. Miao, S. Chen, F. Zhang and A. Luo
-  title: CALPHAD-Based Modeling and Experimental Validation of Microstructural Evolution and Microsegregation in Magnesium Alloys During Solidification  
+  title: CALPHAD-Based Modeling and Experimental Validation of Microstructural Evolution and Microsegregation in Magnesium Alloys During Solidification (2019 Editor’s Choice Article) 
   journal: J. Phase Equilib. Diffus.
   volume: 40
   issue: 4
