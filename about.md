@@ -35,14 +35,15 @@ weight: 1
 
 ## Memberships
 
-[ASM](http://www.asminternational.org/home), [TMS][tms link]
+[ASM](http://www.asminternational.org/home), [TMS][tms link], [Badger Stamp Club][BSC link]
 
 [tms link]: http://www.tms.org/TMSHome.aspx
 
+[BSC link]: https://wfscstamps.org/Clubs/Badger.shtml
 
 ## Other Interests
 
-Reading, stamp collecting, playing bridge, golfing
+Reading, stamp collecting, golfing
 
 ## Charity
 
