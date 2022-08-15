@@ -23,6 +23,10 @@ weight: 0
 
 [LUK07]: https://www.amazon.com/Computational-Thermodynamics-Calphad-Hans-Lukas/dp/0521868114
 
+- Yong Du, Rainer Schmid-Fetzer, Jincheng Wang, Shuhong Liu, Jianchuan Wang, and Jianpeng Jin, [Computational Design of Engineering Materials: Fundamentals and Case Studies] [Du22], Cambridge University Press; (2022)
+
+[Du22]: https://www.amazon.com/Computational-Design-Engineering-Materials-Fundamentals/dp/1108494102
+
 - Zikui Liu and Yi Wang, [Computational Thermodynamics of Materials] [Liu16], Cambridge University Press; (2016)
 
 [Liu16]: https://www.amazon.com/Computational-Thermodynamics-Materials-Zi-Kui-Liu/dp/0521198968
