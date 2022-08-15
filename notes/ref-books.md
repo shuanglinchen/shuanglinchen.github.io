@@ -27,7 +27,7 @@ weight: 0
 
 [Liu16]: https://www.amazon.com/Computational-Thermodynamics-Materials-Zi-Kui-Liu/dp/0521198968
 
-- Didier de Fontaine, [Computational Thermodynamics of Materials] [Liu19], Cambridge University Press; (2016)
+- Didier de Fontaine, [Principles of Classical Thermodynamics: Applied to Materials Science] [Liu19], Cambridge University Press; (2016)
 
 [Liu19]: https://www.amazon.com/Computational-Thermodynamics-Materials-Zi-Kui-Liu/dp/0521198968
 
