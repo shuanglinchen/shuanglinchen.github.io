@@ -27,9 +27,9 @@ weight: 0
 
 [Liu16]: https://www.amazon.com/Computational-Thermodynamics-Materials-Zi-Kui-Liu/dp/0521198968
 
-- Didier de Fontaine, [Principles of Classical Thermodynamics: Applied to Materials Science] [Fon19], Cambridge University Press; (2019)
+- Didier de Fontaine, [Principles of Classical Thermodynamics: Applied to Materials Science] [Fon190], Cambridge University Press; (2019)
 
-[Fon19]: https://www.amazon.com/Principles-Classical-Thermodynamics-Applied-Materials/dp/9813222689
+[Fon190]: https://www.amazon.com/Computational-Thermodynamics-Materials-Zi-Kui-Liu/dp/0521198968
 
 -  Frederick N. Rhines, [Phase Diagrams in Metallurgy-Their Development and Application] [RHI56], McGraw-Hill (1956) 
 
