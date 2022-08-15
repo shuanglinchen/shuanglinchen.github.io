@@ -11,7 +11,7 @@ weight: 0
 
 [Hil07]: https://www.amazon.com/Phase-Equilibria-Diagrams-Transformations-Thermodynamic/dp/0521853516
 
-- Didier de Fontaine, [Principles of Classical Thermodynamics: Applied to Materials Science] [FON19], World Scientific Publishing Co; (2019)
+- Didier de Fontaine, [Principles of Classical Thermodynamics: Applied to Materials Science][FON19], World Scientific Publishing Co; (2019)
 
 [FON19]: https://www.amazon.com/Principles-Classical-Thermodynamics-Applied-Materials/dp/9813222689
 
