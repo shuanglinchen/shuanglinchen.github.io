@@ -49,7 +49,7 @@ weight: 0
 
 -  L.S. Palatnik and A.I. Landau, [Phase Equilibria in Multicomponent Systems] [PAL64], Holt, Rinehart and Winston; First American Edition edition (1964) 
 
-[PAL64]: https://www.amazon.com/Equilibria-Multicomponent-Systems-Landau-Palatnik/dp/B003PXTPMI
+[PAL64]: https://www.amazon.com/Phase-Equilibria-Multicomponent-Systems-Palatnik/dp/B0000CMEQH
 
 -  F. C. Campbell, [Phase Diagrams: Understanding the Basics] [CAM12], ASM International (2012) 
 
