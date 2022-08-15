@@ -6,6 +6,10 @@ weight: 0
 
 ## _Thermodynamics and Phase Diagrams_
 
+
+- Didier De Fontaine, [Principles of Classical Thermodynamics: Applied to Materials Science] [Fon19], World Scientific Publishing Co; (2019)
+[Fon19]: https://www.amazon.com/Principles-Classical-Thermodynamics-Applied-Materials/dp/9813222689
+
 - Mats Hillert, [Phase Equilibria, Phase Diagrams and Phase Transformations : Their Thermodynamic Basis] [Hil07], Cambridge University Press; 2 ed. (2007)
 
 [Hil07]: https://www.amazon.com/Phase-Equilibria-Diagrams-Transformations-Thermodynamic/dp/0521853516
@@ -17,6 +21,9 @@ weight: 0
 - Hans Lukas, Suzana G. Fries, Bo Sundman, [Computational Thermodynamics: The Calphad Method] [LUK07], Cambridge University Press; 1 edition (2007) 
 
 [LUK07]: https://www.amazon.com/Computational-Thermodynamics-Calphad-Hans-Lukas/dp/0521868114
+
+- Zikui Liu and Yi Wang, [Computational Thermodynamics of Materials] [Liu16], Cambridge University Press; (2016)
+[Liu16]: https://www.amazon.com/Computational-Thermodynamics-Materials-Zi-Kui-Liu/dp/0521198968
 
 -  Frederick N. Rhines, [Phase Diagrams in Metallurgy-Their Development and Application] [RHI56], McGraw-Hill (1956) 
 
