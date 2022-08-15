@@ -7,6 +7,7 @@ weight: 0
 ## _Thermodynamics and Phase Diagrams_
 
 
+
 - Didier De Fontaine, [Principles of Classical Thermodynamics: Applied to Materials Science] [Fon19], World Scientific Publishing Co; (2019)
 
 [Fon19]: https://www.amazon.com/Principles-Classical-Thermodynamics-Applied-Materials/dp/9813222689
