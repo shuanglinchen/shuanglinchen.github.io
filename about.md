@@ -12,16 +12,14 @@ weight: 1
 
 ### Colleges
 
-+ University of Science and Technology Beijing, China (北京科技大学)
++ University of Science and Technology Beijing, China (北京科技大学) (B.S. in Physical Chemistry in Metallurgy)
 
-+ University of Wisconsin – Madison, Wisconsin, USA
++ University of Wisconsin – Madison, Wisconsin, USA (Ph.D. in Metallurgy)
 
 
 ## Employment
 
 + [CompuTherm, LLC](http://www.computherm.com), Middleton, Wisconsin, USA
-
-+ Shanghai University, China
 
 ## Research Interests
 
