@@ -4,8 +4,6 @@ title: Events
 weight: 4
 ---
 
-- MS&T 2022 (Pittsburgh, PA, Oct. 9-12, 2022)
-
 - TMS 2023 (San Diego, CA, Mar. 19-23, 2023)
 
 - MS&T 2023 (Columbus, OH, Oct. 1-5, 2023)
