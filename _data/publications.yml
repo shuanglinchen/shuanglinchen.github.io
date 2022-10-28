@@ -311,6 +311,18 @@
   pdfLink: yes
 
 - type: journal
+  id: Wang
+  authors: B. Wang, F. Zhang, S. L. Chen and S. Kou
+  title: Computational simulation of diffusion process in multicomponent and multiphase systems in diffusion bonding
+  journal: Science and Technology of Welding and Joining
+  volume: 18
+  issue: 6
+  year: 2013
+  pages: 451-457
+  link: https://www.tandfonline.com/doi/full/10.1179/1362171813Y.0000000121
+  pdfLink: yes
+
+- type: journal
   id: Chen
   authors: S.L. Chen, W.S. Cao, F. Zhang, C. Zhang, J. Zhu, J. Y. Zhang
   title: Development of a Computational Tool for Materials Design
