@@ -4,8 +4,6 @@ title: Events
 weight: 4
 ---
 
-- TMS 2023 (San Diego, CA, Mar. 19-23, 2023)
-
 - CALPHAD 2023 (Boston, MA, June 25-30, 2023)
 
 - MS&T 2023 (Columbus, OH, Oct. 1-5, 2023)
