@@ -7,6 +7,10 @@ weight: 0
 ## _Thermodynamics and Phase Diagrams_
 
 
+- J. Willard Gibbs, [The Scientific Papers Of J. Willard Gibbs V1: Thermodynamics] [Gibbs]
+
+[Gibbs]: https://www.amazon.com/Scientific-Papers-Willard-Gibbs-Thermodynamics/dp/1163532991
+
 - Mats Hillert, [Phase Equilibria, Phase Diagrams and Phase Transformations : Their Thermodynamic Basis] [Hil07], Cambridge University Press; 2 ed. (2007)
 
 [Hil07]: https://www.amazon.com/Phase-Equilibria-Diagrams-Transformations-Thermodynamic/dp/0521853516
