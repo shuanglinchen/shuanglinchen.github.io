@@ -53,7 +53,7 @@ Reading, stamp collecting, golfing
 
 [NRI link]: http://www.nri.cam.ac.uk/
 
-## Contact.
+## Contact
 
 shuanglin.chen~at~hotmail~dot~com
 
