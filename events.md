@@ -3,7 +3,6 @@ layout: page
 title: Events
 weight: 4
 ---
-
 - IMAT 2023 (ASM) (Detroit, MI, Oct. 16-19, 2023)
 
 - TMS 2024 (Orlando, FL, Mar. 3-7, 2024)
