@@ -33,7 +33,7 @@ weight: 1
 
 ## Memberships
 
-[ASM](http://www.asminternational.org/home), [TMS][tms link], [Badger Stamp Club][BSC link]
+[ASM](http://www.asminternational.org/home), Fellow of ASM, [TMS][tms link], [Badger Stamp Club][BSC link]
 
 [tms link]: http://www.tms.org/TMSHome.aspx
 
