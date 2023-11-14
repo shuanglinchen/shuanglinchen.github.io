@@ -18,7 +18,7 @@ weight: 0
 
 ## September, 2023
 
--   Leonard Mlodinow, [Stephen Hawking: A Memoir of Friendship and Physics, Pantheon , (2020)] [Mlodinow2020]
+-   Leonard Mlodinow, [Stephen Hawking: A Memoir of Friendship and Physics, Pantheon, (2020)] [Mlodinow2020]
 
 [Mlodinow2020]: https://www.amazon.com/Stephen-Hawking-Memoir-Friendship-Physics/dp/1524748684
 
