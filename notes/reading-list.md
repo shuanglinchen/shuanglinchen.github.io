@@ -24,7 +24,7 @@ weight: 0
 
 ## October, 2023
 
--   Stephen Hawking, [A Briefer History of Time by Hawking, Bantam, (2005)] [Hawkingw2005]
+-   Stephen Hawking, [A Briefer History of Time, Bantam, (2005)] [Hawkingw2005]
 
 [Hawkingw2005]: https://www.amazon.com/Briefer-History-Hawking-Mlodinow-Hardcover/dp/B004P7T0QE
 
