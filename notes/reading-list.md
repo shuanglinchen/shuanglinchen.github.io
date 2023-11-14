@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Book Rerading List
+title: Book Reading List
 weight: 0
 ---
 
