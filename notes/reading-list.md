@@ -33,3 +33,8 @@ weight: 0
 -   Walter Isaacson, [Elon Musk, Simon & Schuster, (2023)] [Isaacson2023]
 
 [Isaacson2023]: https://www.amazon.com/Elon-Musk-Walter-Isaacson/dp/1982181281
+
+-   Leonard Susskind and George Hrabovsky, [The Theoretical Minimum, (2013)] [Susskind2013]
+
+[Susskind2013]: https://www.amazon.com/dp/046502811X
+
