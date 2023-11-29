@@ -8,7 +8,7 @@ weight: 0
 
 -   Lillian Hoddeson and Vicki Daitch, [True Genius: The Life and Science of John Bardeen: The Only Winner of Two Nobel Prizes in Physics, Joseph Henry Press, (2002)] [Hoddeson2002]
 
-[Hoddeson20023]: https://www.amazon.com/dp/0309084083
+[Hoddeson2002]: https://www.amazon.com/dp/0309084083
 
 ## November 2023
 
