@@ -4,6 +4,12 @@ title: Book Reading List
 weight: 0
 ---
 
+## January 2024
+
+-   Lynde Phelps Wheeler, [Josiah Willard Gibbs: The History of a Great Mind, Yale University Press, (1962)] [Wheeler1962]
+
+[Wheeler196]: https://www.amazon.com/Josiah-Willard-Gibbs-History-Great/dp/B000J177OW
+
 ## December 2023
 
 -   Lillian Hoddeson and Vicki Daitch, [True Genius: The Life and Science of John Bardeen: The Only Winner of Two Nobel Prizes in Physics, Joseph Henry Press, (2002)] [Hoddeson2002]
