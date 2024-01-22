@@ -6,6 +6,10 @@ weight: 0
 
 ## January 2024
 
+-   Charles River Editors, [Niels Bohr: The Life and Legacy of the Influential Atomic Scientist, (2018)] [CRE2018]
+
+[CRE2018]: https://www.amazon.com/dp/172959610X
+
 -   Lynde Phelps Wheeler, [Josiah Willard Gibbs: The History of a Great Mind, Yale University Press, (1962)] [Wheeler1962]
 
 [Wheeler1962]: https://www.amazon.com/Josiah-Willard-Gibbs-History-Great/dp/B000J177OW
