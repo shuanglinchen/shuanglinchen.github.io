@@ -6,7 +6,7 @@ weight: 0
 
 ## February 2024
 
--   Brandon R. Brown, [Planck: Driven by Vision, Broken by War, Oxford University Press, (2018)] [BRB2015]
+-   Brandon R. Brown, [Planck: Driven by Vision, Broken by War, Oxford University Press, (2015)] [BRB2015]
 
 [BRB2015]: https://www.amazon.com/dp/0190219475
 
