@@ -4,6 +4,12 @@ title: Book Reading List
 weight: 0
 ---
 
+## February 2024
+
+-   Brandon R. Brown, [Planck: Driven by Vision, Broken by War, Oxford University Press, (2018)] [BRB2015]
+
+[BRB2015]: https://www.amazon.com/dp/0190219475
+
 ## January 2024
 
 -   Charles River Editors, [Niels Bohr: The Life and Legacy of the Influential Atomic Scientist, (2018)] [CRE2018]
