@@ -8,6 +8,8 @@ weight: 3
 
 - [Reference Books](http://shuanglinchen.com/notes/ref-books)
 
+- [Maximum of Ideal Mixing Entropy](http://shuanglinchen.com/notes/Max_Entropy.pdf)
+
 - [Regular Solution](http://shuanglinchen.com/notes/regular-solution)
 
 - [Thermodynamic Factor](http://shuanglinchen.com/notes/thermo-factor)
