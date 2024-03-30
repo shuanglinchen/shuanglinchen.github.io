@@ -4,6 +4,12 @@ title: Book Reading List
 weight: 0
 ---
 
+## April 2024
+
+-     Richard S. Ellis, [When Galaxies Were Born: The Quest for Cosmic Dawn, Princeton University Press, (2022)] [RE2022]
+
+[RE2022]: https://www.amazon.com/dp/0691211302
+
 ## March 2024
 
 -    Frank Wilczek, [Fundamentals: Ten Keys to Reality, Penguin Press, (2021)] [FW2021]
