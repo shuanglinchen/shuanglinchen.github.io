@@ -4,6 +4,12 @@ title: Book Reading List
 weight: 0
 ---
 
+## June 2024
+
+-     John F. Smith, [Hellcats over the Philippine Deep, Sunflower University Press, (1995)] [SMITH1995]
+
+[SMITH1995]: https://www.amazon.com/Hellcats-over-Philippine-Deep-Smith/dp/0897451821
+
 ## May 2024
 
 -     Peter Attia and Bill Gifford, [Outlive: The Science and Art of Longevity, Harmony, (2023)] [ATT2023]
