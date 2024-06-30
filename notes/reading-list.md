@@ -4,7 +4,7 @@ title: Book Reading List
 weight: 0
 ---
 
-## May 2024
+## July 2024
 
 -     Stephen Budiansky, [Journey to the Edge of Reason: The Life of Kurt Gödel, W. W. Norton & Company, (2021)] [BUD2021]
 
