@@ -10,6 +10,8 @@ weight: 0
 
 [SMITH1995]: https://www.amazon.com/Hellcats-over-Philippine-Deep-Smith/dp/0897451821
 
+<span style="color:blue"> _Flying is wonderful -- war is not_.</span>
+
 ## May 2024
 
 -     Peter Attia and Bill Gifford, [Outlive: The Science and Art of Longevity, Harmony, (2023)] [ATT2023]
