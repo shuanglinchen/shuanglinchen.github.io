@@ -15,8 +15,7 @@ weight: 0
 -     John F. Smith, [Hellcats over the Philippine Deep, Sunflower University Press, (1995)] [SMITH1995]
 
 [SMITH1995]: https://www.amazon.com/Hellcats-over-Philippine-Deep-Smith/dp/0897451821
-
-<span style="color:red"> &ensp; _"Flying is wonderful -- war is not."_</span>
+<span style="color:red"> &ensp;&ensp; _"Flying is wonderful -- war is not."_</span>
 
 ## May 2024
 
