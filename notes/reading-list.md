@@ -4,6 +4,12 @@ title: Book Reading List
 weight: 0
 ---
 
+## May 2024
+
+-     Stephen Budiansky, [Journey to the Edge of Reason: The Life of Kurt Gödel, W. W. Norton & Company, (2021)] [BUD2021]
+
+[BUD2021]: https://www.amazon.com/dp/1324005440
+
 ## June 2024
 
 -     John F. Smith, [Hellcats over the Philippine Deep, Sunflower University Press, (1995)] [SMITH1995]
