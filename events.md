@@ -4,8 +4,6 @@ title: Events
 weight: 4
 ---
 
-- TMS 2024 (Orlando, FL, Mar. 3-7, 2024)
-
 - IMAT 2024 (Cleveland, OH, Sept 30-Oct 3, 2024)
 
 - TMS 2025 (Las Vegas, NV, Mar. 23-27, 2025)
