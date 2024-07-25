@@ -4,6 +4,12 @@ title: Book Reading List
 weight: 0
 ---
 
+## August 2024
+
+-     Basil Mahon, [The Man Who Changed Everything: The Life of James Clerk Maxwell,  Wiley, (2004)] [MAH2004]
+
+[MAH2004]: https://www.amazon.com/gp/product/0470861711
+
 ## July 2024
 
 -     Stephen Budiansky, [Journey to the Edge of Reason: The Life of Kurt Gödel, W. W. Norton & Company, (2021)] [BUD2021]
