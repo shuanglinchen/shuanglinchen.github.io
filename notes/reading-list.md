@@ -4,6 +4,12 @@ title: Book Reading List
 weight: 0
 ---
 
+## September 2024
+
+-     Annaka Harris, [TConscious: A Brief Guide to the Fundamental Mystery of the Mind,  Wiley, (2019)] [HAR2019]
+
+[HAR2019]: https://www.amazon.com/gp/product/0062906712
+
 ## August 2024
 
 -     Basil Mahon, [The Man Who Changed Everything: The Life of James Clerk Maxwell,  Wiley, (2004)] [MAH2004]
