@@ -6,7 +6,7 @@ weight: 0
 
 ## September 2024
 
--     Annaka Harris, [TConscious: A Brief Guide to the Fundamental Mystery of the Mind,  Wiley, (2019)] [HAR2019]
+-     Annaka Harris, [Conscious: A Brief Guide to the Fundamental Mystery of the Mind,  Wiley, (2019)] [HAR2019]
 
 [HAR2019]: https://www.amazon.com/gp/product/0062906712
 
