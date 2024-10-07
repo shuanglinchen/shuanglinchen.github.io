@@ -4,6 +4,12 @@ title: Book Reading List
 weight: 0
 ---
 
+## October 2024
+
+-     Dan Hooper, [Dark Cosmos: In Search of Our Universe's Missing Mass and Energy,  Harper Perennial, (2019)] [HOOPER20107]
+
+[HOOPER20107]: https://www.amazon.com/dp/0061130338
+
 ## September 2024
 
 -     Annaka Harris, [Conscious: A Brief Guide to the Fundamental Mystery of the Mind,  Harper, (2019)] [HAR2019]
