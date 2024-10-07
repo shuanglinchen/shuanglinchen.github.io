@@ -6,9 +6,9 @@ weight: 0
 
 ## October 2024
 
--     Dan Hooper, [Dark Cosmos: In Search of Our Universe's Missing Mass and Energy,  Harper Perennial, (2019)] [HOOPER20107]
+-     Dan Hooper, [Dark Cosmos: In Search of Our Universe's Missing Mass and Energy, Harper Perennial, (2007)] [HOOPER2007]
 
-[HOOPER20107]: https://www.amazon.com/dp/0061130338
+[HOOPER2007]: https://www.amazon.com/dp/0061130338
 
 ## September 2024
 
