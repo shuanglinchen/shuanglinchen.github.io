@@ -4,6 +4,13 @@ title: Book Reading List
 weight: 0
 ---
 
+
+## November 2024
+
+-     Stephen Wolfram, [What Is ChatGPT Doing ... and Why Does It Work? Wolfram Media Inc., (2023)] [Wolfram2023]
+
+[Wolfram2023]: https://www.amazon.com/dp/1579550819
+
 ## October 2024
 
 -     Dan Hooper, [Dark Cosmos: In Search of Our Universe's Missing Mass and Energy, Harper Perennial, (2007)] [HOOPER2007]
