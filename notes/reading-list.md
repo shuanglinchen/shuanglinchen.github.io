@@ -5,6 +5,12 @@ weight: 0
 ---
 
 
+## December 2024
+
+-     J. D. Vance, [Hillbilly Elegy: A Memoir of a Family and Culture in Crisis, (2018)] [Vance2018]
+
+[Vance2018]: https://www.amazon.com/dp/0062300555
+
 ## November 2024
 
 -     Stephen Wolfram, [What Is ChatGPT Doing ... and Why Does It Work? Wolfram Media Inc., (2023)] [Wolfram2023]
