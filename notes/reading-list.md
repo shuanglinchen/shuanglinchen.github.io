@@ -5,6 +5,12 @@ weight: 0
 ---
 
 
+## January 2025
+
+-     Jonathan Haidt, [The Anxious Generation: How the Great Rewiring of Childhood Is Causing an Epidemic of Mental Illness, (2024)] [Haidt2024]
+
+[Haidt2024]: https://www.amazon.com/dp/0593655036
+
 ## December 2024
 
 -     J. D. Vance, [Hillbilly Elegy: A Memoir of a Family and Culture in Crisis, (2018)] [Vance2018]
