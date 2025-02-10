@@ -5,6 +5,19 @@ weight: 0
 ---
 
 
+
+## March 2025
+
+-     Judge Frank Caprio, [Compassion in the Court: Life-Changing Stories from America's Nicest Judge, BenBella Books (2025)] [Caprio2025]
+
+[Caprio2025]: https://www.amazon.com/dp/1637746032
+
+## Feburary 2025
+
+-     Amy Chua, [Battle Hymn of the Tiger Mother, Penguin Press (2011)] [Chua2011]
+
+[Chua2011]: https://www.amazon.com/dp/1594202842
+
 ## January 2025
 
 -     Jonathan Haidt, [The Anxious Generation: How the Great Rewiring of Childhood Is Causing an Epidemic of Mental Illness, (2024)] [Haidt2024]
