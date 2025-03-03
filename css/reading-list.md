@@ -8,6 +8,10 @@ weight: 0
 
 ## March 2025
 
+-     Anil Ananthaswamy, [Why Machines Learn: The Elegant Math Behind Modern AI, Dutton (2024)] [AA2024]
+
+[AA2024]: https://www.amazon.com/dp/0593185749
+
 -     Judge Frank Caprio, [Compassion in the Court: Life-Changing Stories from America's Nicest Judge, BenBella Books (2025)] [Caprio2025]
 
 [Caprio2025]: https://www.amazon.com/dp/1637746032
