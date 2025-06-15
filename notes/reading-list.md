@@ -5,6 +5,11 @@ weight: 0
 ---
 
 
+## April 2025
+
+-     Niels Bohr, [Atomic Physics and Human Knowledge, Dover (2010)] [Bohr2010]
+
+[Bohr2010]: https://www.amazon.com/dp/0486479285
 
 ## March 2025
 
