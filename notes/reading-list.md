@@ -7,7 +7,7 @@ weight: 0
 
 ## May-June 2025
 
--     Antonio Padilla, [Fantastic Numbers and Where to Find Them, Dover (2023)] [AP2023]
+-     Antonio Padilla, [Fantastic Numbers and Where to Find Them, Picador Paper (2023)] [AP2023]
 
 [AP2023]: https://www.amazon.com/dp/1250872820
 
