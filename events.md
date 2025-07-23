@@ -5,12 +5,26 @@ weight: 4
 ---
 
 
-- TMS 2025 (Las Vegas, NV, Mar. 23-27, 2025)
-
-- CALPHAD 2025 (Busan, Korea, May 25-30, 2025)
+- MS&T 2025 (Columbus, OH, Sept. 28 - Oct. 1, 2025)
 
 - IMAT 2025 (Detroit, MI, Oct. 20-23, 2025)
 
 - TMS 2026 (San Diego, CA, Mar. 15-29, 2026)
 
-- CALPHAD 2026 (Montreal, Canada, 2026)
+- CALPHAD 2026 (Quebec, Canada, June 7-12, 2026)
+
+- TMS 2027 (Orlando, FL, Mar. 14-18, 2027)
+
+- CALPHAD 2027 (Belgium/UK, 2027)
+
+- TMS 2028 (Las Vegas, Nv, Mar. 12-16, 2028)
+
+- CALPHAD 2028 (China, 2028)
+
+- TMS 2029 (Orlando, FL, Mar. 18-22, 2029)
+
+- CALPHAD 2029 (USA, 2029)
+
+- CALPHAD 2030 (Austria, 2030)
+
+- CALPHAD 2031 (Taiwan, 2031)
