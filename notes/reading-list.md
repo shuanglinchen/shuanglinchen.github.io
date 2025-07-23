@@ -4,6 +4,12 @@ title: Book Reading List
 weight: 0
 ---
 
+## July 2025
+
+-     Janna Levin, [A Madman Dreams of Turing Machines, Alfred A. Knopf (2009)] [Levin2009]
+
+[Levin2009]: https://www.amazon.com/dp/B000SEK30U
+
 
 ## May-June 2025
 
