@@ -9,7 +9,7 @@ weight: 4
 
 - IMAT 2025 (Detroit, MI, Oct. 20-23, 2025)
 
-- TMS 2026 (San Diego, CA, Mar. 15-29, 2026)
+- TMS 2026 (San Diego, CA, Mar. 15-19, 2026)
 
 - CALPHAD 2026 (Quebec, Canada, June 7-12, 2026)
 
