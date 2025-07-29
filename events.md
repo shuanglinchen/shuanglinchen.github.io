@@ -11,7 +11,11 @@ weight: 4
 
 - TMS 2026 (San Diego, CA, Mar. 15-19, 2026)
 
-- CALPHAD 2026 (Quebec, Canada, June 7-12, 2026)
+- CALPHAD 2026 (Quebec City, Canada, June 7-12, 2026)
+
+- IMAT 2026 (Quebec City, Canada, Sept. 28 - Oct. 1, 2026)
+
+- MS&T 2026 (Pittsburgh, PA, Oct. 4 - 7, 2026)
 
 - TMS 2027 (Orlando, FL, Mar. 14-18, 2027)
 
