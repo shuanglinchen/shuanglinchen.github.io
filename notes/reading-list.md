@@ -4,6 +4,13 @@ title: Book Reading List
 weight: 0
 ---
 
+
+## August 2025
+
+-     Don S. Lemons, [Thermodynamic Weirdness: From Fahrenheit to Clausius, The MIT Press (2020)] [Lemons2020]
+
+[Lemons2020]: https://www.amazon.com/dp/0262538946
+
 ## July 2025
 
 -     Janna Levin, [A Madman Dreams of Turing Machines, Alfred A. Knopf (2009)] [Levin2009]
