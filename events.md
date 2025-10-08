@@ -4,11 +4,6 @@ title: Events
 weight: 4
 ---
 
-
-- MS&T 2025 (Columbus, OH, Sept. 28 - Oct. 1, 2025)
-
-- IMAT 2025 (Detroit, MI, Oct. 20-23, 2025)
-
 - TMS 2026 (San Diego, CA, Mar. 15-19, 2026)
 
 - CALPHAD 2026 (Quebec City, Canada, June 7-12, 2026)
