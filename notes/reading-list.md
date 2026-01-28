@@ -5,6 +5,13 @@ weight: 0
 ---
 
 
+## January 2026
+
+-      Cédric Villani, [Birth of a Theorem: A Mathematical Adventure, Farrar, Straus and Giroux (2015)] [Villani2015]
+
+[Villani2015]: https://www.amazon.com/dp/0865477671
+
+
 ## August 2025
 
 -     Don S. Lemons, [Thermodynamic Weirdness: From Fahrenheit to Clausius, The MIT Press (2020)] [Lemons2020]
