@@ -5,6 +5,20 @@ weight: 0
 ---
 
 
+## March 2026
+
+-      Hans Christian Von Baeyer, [Maxwell's Demon: Why Warmth Disperses and Time Passes, Roandom House (1999)] [Baeyer1999]
+
+[Baeyer1999]: https://www.amazon.com/dp/0679433422
+
+
+## February 2026
+
+-      Palle Yourgrau, [A World Without Time: The Forgotten Legacy of Godel and Einstein, Basic Books (2006)] [Yourgau2006]
+
+[Yourgau2006]: https://www.amazon.com/dp/0465092942
+
+
 ## January 2026
 
 -      Cédric Villani, [Birth of a Theorem: A Mathematical Adventure, Farrar, Straus and Giroux (2015)] [Villani2015]
