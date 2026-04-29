@@ -1,5 +1,17 @@
 - type: journal
   id: Chen
+  authors: Kamalnath Kadirvel, Duchao Lv, Weisheng Cao, Shuanglin Chen, Fan Zhang, Yunzhi Wang, Jaimie Tiley, Xuxiao Li, Wenda Tan 
+  title: An integrated modeling framework with open architecture for phase field simulation of multi-component alloys
+  journal: CALPHAD
+  volume: 86
+  issue: 9
+  year: 2024
+  pages: 
+  link: https://www.sciencedirect.com/science/article/abs/pii/S0364591624000658?via%3Dihub
+  pdfLink: no
+  
+  - type: journal
+  id: Chen
   authors: Shuanglin Chen, Rainer Schmid-Fetzer and J. E. Morral 
   title: Calculation of Critical Points
   journal: J. Phase Equilib. Diffus.
